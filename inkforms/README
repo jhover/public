@@ -1,0 +1,114 @@
+InkForms
+
+A generic C# framework for the development of pen-based, client-server, 
+form-filling applications. Specifically created to implement a wireless 
+pen-based Emergency Department charting application, but should be 
+extensible to any form fill-out setting (inventory, customer ordering, etc). 
+
+Authors
+
+This project was undertaken as part of a CSE 523/524 project under Dr. Rong
+Zhao at State University of New York, Stony Brook (SUNYSB), in 
+association with Stony Brook University Hospital (SBUH). Development
+work was done by:
+
+Jun Cao
+Ying 'Crystal' Han
+John Hover
+Bo Jiang
+Richard Von Rauchhaupt
+
+
+Design and Development Guidelines
+
+Do things in the general "C# way", while avoiding an exclusively "Microsoft way".
+Maintain source code in Subversion.
+Compile under both Visual Studio and Eclipse, and under both .NET (Windows) and
+Mono (Linux) (except for Ink GUI components).
+Use NUnit unit testing.
+Use NAnt build tool (in addition to VS build system).  
+Try to avoid emphasizing the specific task this is being written for (ED Charting) and 
+attempt to make it generic to any form-filling environment--this is behind the name
+change from 'medicharts' to 'inkforms'.   
+
+Notes
+
+ID vs. Codes: 
+An ID should be a per-item unique identifier, to be used to 
+retrieve the item from a database. No two objects should ever have the same
+ID. 
+Codes should be a way to look up what a particular object means, e.g.
+the FormItem with code 256 is the item that contains a checkbox for whether
+or not a Complete Blood Count should be ordered. All object for that kind of 
+item will share the same code. 
+
+Design
+
+Lib
+	Non-GUI data abstractions.
+
+Client
+	Structurally equivalent to a server clienthandler in how it deals with
+	messaging. Mainloop thread for everything, ReceiveLoop for asynchronous 
+	server->client messages. 
+
+
+Server
+	IFServer:
+		ListenerLoop():
+			Waits for connections and starts a handler. 
+			
+		MainLoop():
+			gets messages from queue,
+			processes them, 
+			updates database/store,
+			updates to other clients if necessary
+	ClientHandler:
+		thread to recieve asynchronous client messages
+			
+		
+Development Path
+
+So little progress has been made that explanations are called for: 
+
+Our original plan was to use web services. Later we realized that web 
+services are essentially stateless in themselves. Whatever persistent 
+info/state is managed lies in 1) cookies, or 2) back-end database contents, 
+or 3) complex cache and session mechanisms that are part of ASP.NET.
+
+We have now realized that our server needs to be a lot smarter and 
+pro-active than a web service can easily be made to be. To that end we 
+are giving up the convenience of a pre-defined HTTP protocol for the 
+power of a full-blown server application.  
+
+We are still excited about a dynamic GUI, but implementing it has proven
+to be more complex than we can handle at the moment, so we are dropping back
+to a statically-defined GUI for now. 
+
+To further progress, we are also scaling back to a *very* incremental 
+development model:
+
+Server path:
+1) Unthreaded Server with in-memory storage only.
+2) Unthreaded Server with file-based serialized storage.
+3) Threaded Server with " ".
+4) Threaded, file-based server, with client tracking and update. 
+5) Add database backend.
+6) User accounts/authentication and roles.  
+
+Client path:
+1) Console/txt client.
+2) Console/txt client with standard/static GUI frontend. 
+3) Client with dynamically generated GUI frontend.
+4) Threading? Add server-initiated updates.
+5) Accounts/roles/authentication.
+6) GUI dynamic interface designer mode/Administrator mode.
+7) Addl. hardware? CE/Palm/Java port?   
+
+
+
+
+
+
+
+ 

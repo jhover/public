@@ -1,0 +1,11 @@
+emily -> vickie     e-mail
+chris -> nancy      e-mail  
+john -> tika        X
+erika -> joel       X
+tika -> chris       email
+dick -> emily       email
+joel -> jeff        e-mail
+vickie -> john      e-mail
+jeff -> erika   
+nancy -> dick
+

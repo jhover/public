@@ -1,0 +1,16 @@
+#!/bin/csh
+
+alias nested-pie "mzscheme -r ../nested-pie.scm"
+
+set root="dimitris_arch_redo"
+set ambname="$root.amb"
+set elevname="$root.elev"
+set common_opts="-m 6 -c 3 -f 12  -P"   # -P -m 3
+
+nested-pie $common_opts  amb $root. > $ambname.ps 
+pstopdf $ambname.ps
+
+nested-pie $common_opts elev $root. > $elevname.ps 
+pstopdf $elevname.ps
+
+open -a Preview $ambname.pdf $elevname.pdf

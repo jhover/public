@@ -1,0 +1,1329 @@
+sequence_id	Hugenholtz prokMSA_id	Hugenholtz Simrank id	Hugenholtz DNAML id	Hugenholtz DNAML columns	Hugenholtz tax string
+Amb_16S_1001a	119654	50.98	0.875725	770	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1002a	190020	80.55	0.960939	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1003a	30678	66.83	0.893544	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1004a	190020	82.24	0.972087	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1006a	142340	57.14	0.910055	675	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1007a	140032	41.66	0.801963	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_1008a	119654	50.06	0.852993	746	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1009a	141804	54.88	0.928411	625	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1010a	140032	39.68	0.810248	765	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_1011a	185612	66.06	0.897206	754	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1015a	30678	59.11	0.861016	761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1016a	190020	80.17	0.969209	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1018a	115168	49.12	0.852688	737	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1019a	54107	79.09	0.94655		764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1020a	185612	66.91	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1021a	185612	64.43	0.892613	755	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1023a	144107	60.47	0.919429	690	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1024a	143651	64.67	0.929269	675	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1026a	30678	41.17	0.837601	770	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1027a	140032	41.28	0.805698	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_1028a	185612	65.06	0.899764	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1030a	141403	43.93	0.840072	609	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1031a	54107	78.14	0.942306	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1032a	190020	82.14	0.969224	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1033a	30678	64	0.910084	766	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1034a	143651	63.85	0.942931	686	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1035a	54107	79.61	0.944312	752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1036a	54107	77.98	0.949442	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1037a	140032	40.28	0.790641	747	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_1040a	30678	74.28	0.938106	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1041a	190020	76.17	0.946914	766	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1042a	115168	48.33	0.827965	724	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1043a	144887	66.36	0.949559	705	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1044a	190020	81.76	0.965038	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1046a	30678	79.48	0.959675	769	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1047a	190020	82.62	0.972131	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1048a	115168	52.05	0.85138		744	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1049a	141804	60.82	0.929051	627	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1050a	30678	71.79	0.935722	769	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1051a	54107	76.26	0.940446	760	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1052a	144107	57.09	0.912409	698	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1053a	30678	68.54	0.928368	770	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1055a	1143	68.07	0.935228	749	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1057a	141804	55.92	0.928295	622	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1058a	141804	55.75	0.924981	614	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1059a	185612	66.51	0.899546	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1062a	190020	80.26	0.96091		764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1063a	190020	82.34	0.972043	766	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1064a	141804	58.15	0.940954	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1065a	115168	43.14	0.800408	750	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1066a	30678	61.06	0.90068		711	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1067a	148506	51.4	0.896116	710	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1068a	190020	79.86	0.962102	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1070a	141403	44.25	0.862571	626	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1071a	115168	50.52	0.844418	745	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1072a	144887	65.02	0.939065	688	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1073a	141804	57.34	0.948498	649	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1074a	144887	48.94	0.910185	674	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1075a	30678	87.38	0.964994	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1076a	119654	52.29	0.88007		766	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1078a	190020	78.4	0.952626	722	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1079a	185612	65.66	0.896683	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1080a	54107	79.07	0.946245	760	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1081a	115168	50.98	0.850944	759	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1083a	140032	42.04	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_1084a	185612	66.91	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1085a	144107	58.58	0.91629		702	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1086a	190020	78.34	0.95171		735	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1087a	142340	64.47	0.950474	696	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1088a	185612	65.59	0.898093	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1089a	30678	88.36	0.964776	761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1090a	115168	49.13	0.835828	758	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1091a	185612	66.19	0.903427	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1092a	142340	60.77	0.929792	693	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1094a	185612	61.62	0.863516	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1095a	144887	59.56	0.929618	693	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1096a	148506	51.58	0.896756	704	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1097a	115168	50.3	0.83625		735	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1098a	30678	76.29	0.942553	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1099a	115168	53.2	0.855275	765	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1100a	30678	43.97	0.845261	769	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1102a	30678	61.02	0.900404	776	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1103a	74966	94.24	0.982697	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1104a	100780	80.36	0.954152	748	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1105a	30678	70.42	0.932961	769	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1106a	140032	39.46	0.802574	768	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_1107a	190020	81.61	0.96511		764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1108a	144107	65.56	0.944123	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1110a	185612	63.52	0.890215	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1111a	190020	82.6	0.972131	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1113a	54107	78.78	0.947466	760	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1114a	142340	63.08	0.926609	695	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1115a	30678	88.1	0.967727	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1117a	30678	85.88	0.960852	766	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1119a	30678	72.93	0.934952	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1120a	142340	61.22	0.928688	700	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1121a	177496	62.04	0.88507		758	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1123a	142340	59.98	0.924095	698	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1124a	141804	57.49	0.937132	637	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1125a	30678	61.61	0.869039	726	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1126a	30678	67.54	0.881422	715	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1127a	141804	57.69	0.940751	638	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1128a	190020	82.64	0.970851	770	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1129a	144887	62.68	0.934458	681	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1130a	30678	76.12	0.931638	722	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1131a	115209	55.08	0.866524	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1132a	142340	63.81	0.944385	698	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1133a	115168	53.37	0.85699		712	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1137a	190020	83.67	0.973468	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1139a	190020	79.1	0.960866	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1140a	185612	66.15	0.898979	755	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1142a	144908	38.34	0.790496	722	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1143a	25116	57.87	0.886538	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1144a	30678	84.1	0.931086	754	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1145a	141804	57.34	0.939269	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1146a	185612	65.22	0.890884	752	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1147a	119654	54.65	0.879126	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1149a	141804	54.81	0.932437	610	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1151a	30678	75.67	0.946841	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1152a	140032	42.09	0.797995	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_1153a	32035	94.39	0.979906	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1154a	74966	94.67	0.985386	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1155a	100780	78.46	0.939152	748	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1156a	54107	72.74	0.908863	765	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1157a	32035	83.73	0.966288	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1158a	185612	66.47	0.898398	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1159a	32035	94.38	0.981171	758	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1160a	101071	90.07	0.981505	768	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; SCA1154; otu_30
+Amb_16S_1161a	32035	89.49	0.978598	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1163a	32035	91.53	0.979935	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1164a	1143	86.02	0.973235	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1165a	100780	78.46	0.93751		746	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1166a	54107	82.56	0.955881	753	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1167a	41594	78.43	0.945911	754	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1168a	32035	94.85	0.98261		761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1169a	32035	95.45	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1170a	74966	93.96	0.982682	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1171a	137954	62.16	0.9169		770	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1172a	32035	65.23	0.902889	766	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1173a	104825	87.37	0.971229	679	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1174a	54107	77.02	0.942263	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1175a	74966	94.67	0.985386	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1176a	144107	62.41	0.927278	699	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1177a	74966	94.67	0.985386	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1178a	32035	94.84	0.972828	753	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1179a	32035	85.9	0.967683	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1180a	32035	94.98	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1181a	32035	93.89	0.979921	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1182a	32035	77.23	0.949079	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1183a	32035	93.41	0.9854		762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1184a	100780	86.24	0.952596	750	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1185a	54107	78.16	0.943716	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1186a	141782	54.5	0.918179	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1187a	74966	94.67	0.985386	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1188a	32035	87.43	0.975837	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1189a	32035	95.45	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1190a	100780	82.42	0.936623	750	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1191a	74966	94.19	0.985371	765	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1192a	71074	83.95	0.960707	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1193a	32035	89.7	0.977218	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1194a	24479	85.39	0.973264	766	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1195a	74966	93.36	0.982682	765	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1196a	32035	95.57	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1197a	32035	83.69	0.967668	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1198a	100780	84.01	0.951128	748	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1200a	142340	60.44	0.928818	699	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1201a	32035	95.57	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1202a	100780	80.62	0.942204	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1203a	74966	93.37	0.982711	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1204a	32035	83.41	0.962145	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1205a	32035	89.98	0.979935	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1206a	74966	92.31	0.978656	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1207a	32035	94.96	0.98261		761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1208a	74966	94.9	0.985371	765	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1209a	32035	85.75	0.968977	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1210a	32035	95.8	0.974194	753	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1211a	141804	57.52	0.939094	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1212a	100780	84.01	0.94969		748	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1213a	32035	94.97	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1214a	71074	84.53	0.960707	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1215a	32035	89.87	0.979935	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1216a	100780	80.55	0.946608	747	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1219a	32035	91.24	0.97277		752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1221a	74966	81.76	0.965038	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1222a	32035	82.13	0.962		762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1223a	32035	95.57	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1224a	74966	94.45	0.985386	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1225a	32035	89.86	0.979906	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1226a	180496	72.72	0.908209	761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Candidatus_Nitrosopumilus; Unclassified; otu_16
+Amb_16S_1227a	74966	94.19	0.985371	765	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1228a	32035	82.68	0.962044	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1229a	32035	90.2	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1230a	32035	87.96	0.975226	744	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1232a	32035	93.79	0.979921	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1234a	74966	94.67	0.985386	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1236a	32035	94.03	0.985473	766	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1237a	185612	66.15	0.897933	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1238a	32035	93.17	0.96857		752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1239a	143651	63.39	0.926914	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1240a	1143	83.89	0.98277		765	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1241a	100780	89.64	0.952611	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1242a	32035	95.57	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1243a	74966	93.4	0.984049	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1244a	32035	85.15	0.963279	758	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1245a	32035	88.16	0.974485	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1246a	32035	94.37	0.978409	758	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1247a	32035	90.45	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1249a	100780	79.5	0.937728	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1250a	74966	85.77	0.971782	764	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1252a	74966	93.72	0.982624	763	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1254a	74966	94.45	0.985386	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1255a	104825	87.43	0.971229	679	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1256a	32035	94.74	0.98261		761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1257a	32035	94.51	0.979921	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1259a	74966	80.8	0.965038	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1260a	32035	94.62	0.981273	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1261a	32035	88.81	0.9745		764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1262a	32035	93.52	0.985473	766	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1263a	32035	90.69	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1264a	32035	90.11	0.979906	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1265a	100780	79.02	0.937713	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1266a	74966	93.85	0.985386	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1268a	104384	75.63	0.945053	760	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1269a	143408	41.81	0.781572	766	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; ARCP1-30; anta6; otu_124
+Amb_16S_1270a	100780	82.3	0.946637	746	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1271a	1143	80.43	0.969151	765	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1272a	1143	82.32	0.966331	764	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1273a	32035	89.98	0.979935	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1274a	74966	93.37	0.982682	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1275a	32035	95.45	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1277a	100780	88.07	0.952684	750	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1279a	24479	81.33	0.951884	755	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1280a	100780	89.98	0.95546		749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1281a	74966	76.34	0.937641	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1282a	100780	77.9	0.936216	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1283a	32035	90.89	0.97277		752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1284a	1143	83.55	0.974616	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1285a	100780	79.16	0.937771	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1286a	32035	95.57	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1287a	32035	89.96	0.981258	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1288a	190020	79.83	0.972043	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1289a	100780	77.19	0.932844	745	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1290a	54107	78.9	0.941536	753	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1291a	141804	56.96	0.936958	636	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1293a	74966	93.02	0.982697	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1294a	32035	94.62	0.981273	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1295a	32035	88.97	0.968613	752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1296a	74966	94.21	0.984049	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1297a	32035	94.03	0.986723	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1298a	32035	89.88	0.979906	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1300a	1143	81.78	0.970546	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1301a	74966	94.67	0.985386	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1302a	32035	89.61	0.978598	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1303a	100780	78.85	0.939239	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1304a	32035	95.23	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1305a	74966	94.82	0.982726	767	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1306a	54107	77.9	0.94514		764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1307a	32035	92.2	0.979935	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1308a	32035	90.29	0.981127	756	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1309a	74966	88.26	0.977276	765	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1310a	32035	91.37	0.984121	766	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1311a	1143	81.54	0.96918		766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1312a	1143	80.09	0.966462	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1313a	1143	86.27	0.975997	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1314a	32035	94	0.961666	758	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1315a	32035	95.45	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1317a	100780	78.56	0.937786	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1318a	32035	95.57	0.982537	758	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1319a	100780	83.55	0.950925	745	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1320a	32035	96.03	0.974165	752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1321a	32035	90.81	0.97277		752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1322a	190020	79.33	0.960896	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1323a	32035	95.45	0.982537	758	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1325a	32035	90.69	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1326a	100780	78.27	0.937786	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1327a	74966	93.95	0.984034	765	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1328a	142340	63.94	0.910156	705	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1329a	32035	95.08	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1330a	74966	94.91	0.985371	765	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1331a	1143	62.44	0.913993	770	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1332a	32035	78.55	0.959355	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1334a	32035	90.81	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1335a	32035	90.76	0.977203	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1336a	32035	94.6	0.971433	753	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1337a	32035	96.03	0.974194	753	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1338a	32035	95.57	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1339a	32035	94.98	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1340a	32035	95.45	0.982537	758	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1341a	100780	81.88	0.947727	741	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1342a	32035	87.81	0.975779	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1343a	30678	68.76	0.919851	762	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1344a	54107	75.92	0.944995	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1345a	32035	95.57	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1346a	32035	82.32	0.96623		764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1347a	32035	87.83	0.975866	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1348a	24479	76.08	0.936492	760	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1349a	76092	83.95	0.963584	766	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1350a	74966	94.67	0.986737	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1351a	32035	95.09	0.97277		752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1352a	141804	56.27	0.935693	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1353a	32035	93.3	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1355a	74966	94.67	0.985386	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1356a	143651	64.45	0.939283	694	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1357a	74966	94.08	0.984049	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1358a	100780	85.22	0.949806	750	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1359a	32035	94.27	0.979805	757	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1360a	100780	78.44	0.936304	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1361a	54107	79.09	0.9478		764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1362a	74966	94.67	0.985386	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1363a	54107	81.42	0.94126		753	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1364a	32035	94.25	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1365a	32035	95.2	0.98261		761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1366a	32035	86.6	0.966142	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1367a	32035	95.57	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1368a	74966	93.03	0.982711	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1369a	100780	84.34	0.948367	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1370a	74966	93.36	0.984034	765	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1371a	100780	79.86	0.939239	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1372a	74966	94.67	0.985342	763	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1373a	32035	80.65	0.950256	752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1374a	190020	74.79	0.95389		764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1375a	24479	85.75	0.966346	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1376a	32035	95.57	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1377a	104825	87.74	0.971229	679	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1378a	32035	87.44	0.970445	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1379a	1143	62.15	0.889619	762	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1380a	187407	82.08	0.960256	754	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1381a	43271	83.55	0.95325		754	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1382a	32035	95.45	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1383a	104689	68.73	0.900215	766	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1384a	32035	94.15	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1385a	32035	90.8	0.992115	767	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1386a	74966	94.43	0.978584	765	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1387a	32035	89.98	0.97854		762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1388a	32035	90.31	0.986781	765	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1389a	32035	92.02	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1390a	32035	95.45	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1391a	24479	70.37	0.909604	758	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1392a	32035	94.62	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1393a	32035	86.83	0.9745		764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1394a	32035	94.74	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1395a	32035	95.33	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1396a	32035	92.2	0.979935	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1397a	32035	90.14	0.978584	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1398a	74966	94.67	0.982711	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1399a	190020	79.81	0.966375	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1400a	32035	89.35	0.979906	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1401a	32035	91.77	0.979848	759	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1402a	32035	95.57	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1403a	1142	58.58	0.869722	758	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; SCA1154; otu_30
+Amb_16S_1404a	141804	57.52	0.939094	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_1405a	185612	66.15	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1406a	32035	93.42	0.978555	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1407a	32035	93.4	0.98261		761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1408a	32035	94.02	0.981273	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1409a	32035	95.57	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1410a	190020	80.5	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1411a	32035	94.74	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1412a	32035	95.57	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1414a	74966	93.83	0.982668	765	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1416a	32035	90.4	0.971389	752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1417a	32035	90.32	0.972814	753	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1418a	24479	72.14	0.921624	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1419a	32035	90.69	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1420a	32035	95.22	0.974165	752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1421a	74966	95.38	0.986737	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1422a	100780	86.52	0.951143	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1423a	32035	90.81	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1424a	1143	86.39	0.975997	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1425a	104825	87.43	0.971273	680	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1426a	74966	93.03	0.979979	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1427a	32035	94.85	0.96466		762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1428a	32035	90.11	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1430a	1146	78.44	0.959253	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1431a	32035	95.56	0.982523	757	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1432a	74966	94.08	0.984049	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1433a	32035	95.45	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1434a	32035	95.45	0.988133	766	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1435a	32035	94.64	0.983976	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1436a	32035	84.75	0.955896	752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1437a	32035	85.82	0.96482		762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1438a	32035	91.23	0.986723	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1439a	1146	77.31	0.947393	755	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1440a	54107	79.09	0.94655		764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1441a	32035	94.86	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1442a	24479	82.02	0.969151	766	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1444a	100780	81.2	0.925984	747	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1445a	185612	66.39	0.899401	758	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1446a	32035	89.75	0.978584	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1447a	100780	81.7	0.946754	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1448a	32035	94.72	0.981185	758	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1449a	32035	84.91	0.963439	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1451a	54107	81.15	0.95203		764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1453a	74966	94.79	0.985386	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1454a	54107	81.45	0.940925	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1455a	32035	94.02	0.981258	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1456a	75314	82.25	0.959602	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; SCA1154; otu_30
+Amb_16S_1457a	190020	76.94	0.950794	762	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1458a	100780	91.3	0.955532	750	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1459a	74966	94.67	0.985386	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1460a	100780	89.43	0.955474	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1461a	100780	78.37	0.937771	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1462a	74966	90.07	0.958875	754	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1463a	74966	94.67	0.985386	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1464a	32035	94.96	0.971418	753	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1465a	32035	90.81	0.986796	766	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1466a	1144	78.92	0.959355	766	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1467a	32035	89.96	0.979935	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1471a	32035	88.54	0.986825	767	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1473a	100780	77.56	0.942728	753	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1474a	43271	78.52	0.951056	766	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1475a	32035	95.35	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1476a	32035	93.29	0.979906	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1477a	32035	95.08	0.98261		761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1478a	104384	80.93	0.958018	765	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1479a	32035	94.87	0.972814	753	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1480a	100780	78.32	0.937771	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1482a	32035	94.84	0.981185	758	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1483a	100780	79.02	0.937771	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1484a	100780	51.51	0.875361	746	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1485a	100780	78.03	0.937684	748	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1486a	32035	90.68	0.978569	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1487a	104689	80	0.963497	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1488a	104384	81.86	0.964849	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1490a	32035	79.53	0.950678	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1491a	32035	89.73	0.978569	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1492a	100780	78.54	0.934734	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1493a	32035	90.41	0.971375	752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1494a	32035	91.78	0.973206	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1495a	32035	94.39	0.981273	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1496a	32035	82.56	0.962044	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1497a	185612	66.15	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1498a	32035	90	0.981258	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1499a	74966	94.67	0.985386	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1500a	100780	78.27	0.936274	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1501a	100780	81.96	0.940736	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1502a	32035	95.08	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1503a	32035	94.62	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1504a	185612	66.15	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1505a	32035	94.74	0.981273	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1506a	32035	87.66	0.964762	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1507a	32035	80.96	0.960677	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1509a	32035	94.62	0.981273	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1510a	74966	93.16	0.981374	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1511a	74966	82.81	0.953105	754	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1512a	74966	88.73	0.977276	765	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1513a	54107	78.44	0.944879	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1514a	100780	89.62	0.952146	742	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1515a	74966	94.45	0.985342	763	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1516a	32035	94.38	0.981156	757	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1517a	32035	90.31	0.981258	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1519a	32035	94.25	0.98261		761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1520a	190020	80.17	0.969369	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_1521a	54107	79.33	0.946245	760	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1522a	185612	66.19	0.901915	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_1523a	32035	90.08	0.979935	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1524a	100780	86.26	0.953992	748	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1525a	32035	95.35	0.982639	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1526a	32035	94.01	0.979935	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1527a	30678	89.83	0.973148	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1528a	30678	82.21	0.959369	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_1529a	32035	95.57	0.982537	758	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1530a	74966	94.09	0.985386	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1531a	32035	93.77	0.978424	759	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1532a	104842	80.76	0.967668	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1533a	24479	84.53	0.960794	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1534a	74966	93.74	0.981345	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_1535a	24479	63.07	0.883559	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_1536a	185378	62.59	0.895884	756	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; PS7ARC37; otu_18
+Amb_16S_385a	143749	65.63	0.927728	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_387a	190020	79.76	0.962247	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_388a	141804	56.94	0.939254	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_389a	140032	40.81	0.796019	766	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_390a	30678	87.96	0.96636		765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_391a	71074	69.67	0.926159	765	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_392a	190020	83.23	0.972131	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_393a	185612	64.46	0.891698	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_394a	190020	83.35	0.973468	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_395a	185612	66.71	0.898224	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_396a	143651	62.44	0.930286	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_397a	190020	79.98	0.970706	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_398a	185612	65.23	0.897308	754	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_399a	141804	58.2	0.940954	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_400a	30678	74.91	0.939632	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_403a	143651	61.92	0.936899	700	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_404a	54107	73.23	0.935039	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_405a	155684	58.68	0.901349	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_406a	143651	62.51	0.92674		694	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_407a	144107	65.74	0.942553	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_408a	54107	78.73	0.945126	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_409a	30678	76.29	0.94094		765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_410a	190020	80.82	0.969369	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_412a	115168	52.75	0.859054	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_413a	141804	58.02	0.940954	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_416a	190020	82.54	0.966477	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_417a	143651	57.46	0.910171	694	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_418a	143651	63.45	0.928135	693	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_419a	74966	94.68	0.985386	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_420a	115168	50.12	0.842775	745	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_421a	54107	75	0.931914	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_422a	144887	65.16	0.941172	697	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_423a	142340	63.91	0.94155		700	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_424a	54107	80.29	0.944312	752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_425a	30678	74.4	0.942888	769	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_427a	115209	52.24	0.849418	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_428a	54107	79.09	0.94655		764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_429a	54107	81.25	0.94126		753	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_430a	141804	57.49	0.939254	641	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_431a	148506	52.29	0.892018	705	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_432a	115168	50.17	0.844418	745	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_433a	185612	66.19	0.898035	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_434a	142340	62.96	0.942742	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_435a	30678	54.14	0.861786	761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_436a	141804	58.15	0.940954	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_437a	190020	76.63	0.95841		769	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_438a	141804	58.15	0.940954	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_439a	54107	77.62	0.943614	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_440a	30678	76.17	0.943876	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_441a	30678	84.07	0.963759	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_442a	144887	65.13	0.941332	699	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_443a	115168	50.99	0.847644	745	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_445a	119654	50.06	0.852993	746	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_446a	144107	61.37	0.922205	699	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_447a	143651	62.63	0.926943	696	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_448a	54107	79.57	0.944312	752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_449a	30678	74.4	0.936376	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_450a	30678	74.4	0.942888	769	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_451a	143651	67.74	0.952044	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_452a	141804	58.51	0.953381	648	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_453a	140032	41.56	0.80971		767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_454a	142340	64.28	0.945853	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_455a	143651	62.71	0.927074	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_456a	141804	56.83	0.93921		640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_457a	30678	85.95	0.963628	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_459a	142340	58.51	0.92222		682	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_460a	140032	41.86	0.805044	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_462a	190020	80.38	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_463a	143651	62.51	0.927074	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_464a	185612	65.47	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_465a	30678	75.48	0.944225	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_466a	142340	63.53	0.94421		696	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_467a	115209	52.67	0.863777	760	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_468a	54107	79.57	0.945111	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_469a	190020	83.43	0.973439	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_470a	143651	63.45	0.928644	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_471a	144887	65.57	0.940489	705	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_472a	190020	80.48	0.969166	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_473a	54107	77.62	0.943527	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_474a	141804	56.83	0.935679	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_475a	142340	60.9	0.936202	696	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_476a	140032	40.46	0.806411	762	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_477a	190020	82.52	0.972131	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_478a	119654	53.69	0.878254	758	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_479a	190020	80.52	0.96373		765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_481a	32035	83.03	0.956463	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_482a	30678	91.81	0.974543	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_484a	54107	78.26	0.943789	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_485a	30678	80.52	0.948236	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_486a	119654	50.06	0.852993	746	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_488a	30678	71.46	0.930562	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_489a	190020	83.25	0.973468	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_490a	144887	63.17	0.941172	697	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_492a	115168	50.59	0.844767	732	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_493a	190020	83.35	0.973468	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_494a	190020	82.92	0.972131	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_495a	190020	78.2	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_496a	144887	65.7	0.939457	697	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_497a	30678	74.31	0.936376	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_498a	30678	83.33	0.959413	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_499a	190020	80.5	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_500a	144107	64.28	0.93344		700	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_501a	115209	52.66	0.850784	760	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_502a	119654	50.06	0.852993	746	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_503a	30678	73.56	0.934952	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_505a	54107	78.85	0.941449	752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_506a	30678	87.56	0.963599	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_507a	144887	63.62	0.944864	705	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_508a	13	37.12	0.767124	767	Hugenholtz:Archaea; Thermoplasmata_Eury; Unclassified; otu_116
+Amb_16S_511a	190020	80.83	0.972072	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_512a	141804	58.02	0.940954	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_513a	140032	41.51	0.810655	765	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_514a	30678	74.22	0.937481	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_516a	115168	50.82	0.857092	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_517a	144887	66.24	0.942888	698	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_518a	54107	79.09	0.94655		764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_519a	190020	80.05	0.965052	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_520a	141804	58.22	0.940954	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_521a	142340	64.31	0.945329	692	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_522a	30678	75.3	0.941085	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_523a	190020	77.3	0.962378	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_524a	119654	51.58	0.868646	741	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_525a	190020	79.9	0.970721	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_526a	190020	79.86	0.960605	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_527a	74966	91.95	0.979964	766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_528a	190020	78.67	0.96918		763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_529a	30678	88.59	0.967727	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_530a	30678	92.38	0.973104	762	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_532a	141403	53.65	0.923005	637	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_533a	140032	41.51	0.810655	765	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_534a	190020	83.35	0.973468	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_535a	115168	49.71	0.835247	743	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_536a	148506	51.76	0.896756	704	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_537a	142340	57.99	0.929603	694	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_538a	141804	57.58	0.935533	622	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_539a	32035	73.89	0.935228	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_540a	30678	87.14	0.964994	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_541a	140032	41.8	0.809681	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_542a	190020	80.88	0.966433	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_543a	144887	65.65	0.9428		697	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_544a	141804	56.58	0.937379	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_545a	185612	66.91	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_546a	30678	74.4	0.936376	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_547a	185612	66.51	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_548a	190020	82.74	0.972101	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_549a	119654	48.61	0.849781	746	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_550a	30678	75.15	0.939617	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_551a	54107	77.49	0.94328		759	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_552a	190020	82.84	0.972101	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_553a	141804	58.15	0.940954	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_554a	144107	65.7	0.942306	694	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_555a	190020	82.88	0.973439	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_556a	143651	63.86	0.928513	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_557a	143651	62.51	0.927074	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_558a	115209	52.72	0.847761	760	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_559a	140032	42.21	0.812995	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_560a	54107	77.67	0.941434	752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_561a	100780	78.32	0.937771	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_562a	141495	61.94	0.937888	696	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_563a	141804	58.08	0.940954	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_564a	144887	64.81	0.941187	697	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_566a	141804	58.22	0.940954	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_567a	142340	60.56	0.927205	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_568a	190020	82.42	0.966477	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_569a	190020	81.85	0.965125	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_570a	190020	83.23	0.972116	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_571a	140032	41.76	0.810204	763	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_572a	185612	66.87	0.903427	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_573a	54107	78.56	0.945111	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_574a	54107	78.28	0.943789	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_575a	190020	79.9	0.970706	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_576a	100780	79.86	0.945402	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_577a	143651	61.96	0.933411	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_579a	54107	74.19	0.93126		753	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_580a	115168	52.05	0.85138		744	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_583a	76092	70.97	0.920287	768	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_584a	185612	64.08	0.891596	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_585a	158484	41.8	0.801469	760	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; aquatic_group_III; pMC2A33; pMC2A203; HR-MM-003; otu_121
+Amb_16S_586a	185612	66.71	0.898224	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_587a	30678	72.93	0.933455	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_588a	140032	42.09	0.809724	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_589a	115168	53.24	0.85856		763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_590a	142340	64.28	0.945853	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_591a	141804	57.04	0.946855	649	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_592a	141403	55.7	0.945082	648	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_593a	104689	65.91	0.905331	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_594a	185612	66.91	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_595a	30678	81.63	0.957931	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_596a	30678	71.62	0.933353	762	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_597a	190020	80.38	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_598a	142340	63.43	0.942553	696	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_599a	141804	57.44	0.935359	637	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_600a	148506	51.86	0.882003	700	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_601a	104689	66.71	0.909996	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_602a	140032	41.53	0.810044	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_603a	143651	65.24	0.930126	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_604a	141804	58.15	0.940896	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_605a	140032	42.04	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_606a	148506	50.99	0.889997	705	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_607a	141804	57.57	0.935359	637	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_609a	115168	51.78	0.854926	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_610a	54107	71.39	0.903587	765	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_611a	141804	57.06	0.93921		640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_613a	190020	80.74	0.972072	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_614a	196732	64.36	0.892991	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_615a	148506	51.58	0.896756	704	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_616a	190020	80.29	0.959602	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_617a	104384	76.73	0.948193	765	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_618a	54107	77.87	0.946463	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_619a	190020	83.25	0.973468	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_620a	190020	80.24	0.966201	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_621a	108918	58.74	0.89677		759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; SB95-57; pIVWA11; otu_20
+Amb_16S_622a	140032	41.36	0.809535	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_623a	141804	56.94	0.946419	644	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_624a	30678	75.42	0.943745	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_625a	54107	75.06	0.936463	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_626a	190020	80.45	0.969369	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_627a	30678	65.95	0.900258	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_628a	185612	65.39	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_629a	148506	50.99	0.889997	705	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_630a	115168	52.97	0.855595	741	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_631a	190020	80.6	0.969369	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_632a	190020	82.54	0.966477	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_633a	140032	41.36	0.811047	766	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_635a	144887	63.43	0.931667	697	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_636a	141804	57.59	0.93921		640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_637a	30678	86.17	0.960866	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_638a	30678	83.07	0.956259	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_639a	185612	66.91	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_640a	731	37.85	0.766107	765	Hugenholtz:Archaea; Thermoplasmata_Eury; Thermoplasmatales; Aciduliprofundum; otu_137
+Amb_16S_641a	143641	55.81	0.921726	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_642a	190020	83.35	0.973468	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_643a	190020	83.35	0.973395	766	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_644a	190020	78.21	0.965299	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_645a	30678	85.14	0.962233	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_647a	185612	65.35	0.898035	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_649a	142340	62.27	0.924981	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_651a	54107	79.09	0.94655		764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_652a	185612	66.07	0.897933	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_653a	119654	51.15	0.857164	771	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_654a	185612	66.15	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_655a	144887	66.04	0.926929	698	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_656a	119654	53.85	0.879126	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_657a	119654	49.36	0.845566	744	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_658a	30678	75.15	0.947204	769	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_659a	190020	80.38	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_660a	140032	41.13	0.803155	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_661a	185612	66.15	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_662a	190020	77.54	0.963802	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_663a	115168	49.88	0.844418	745	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_664a	185612	66.15	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_665a	190020	82.5	0.966477	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_666a	30678	87.93	0.966346	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_668a	190020	82.88	0.972116	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_669a	30678	76.7	0.93033		765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_670a	100780	79.83	0.938891	745	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_671a	140032	41.56	0.809724	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_673a	144887	60.19	0.9344		693	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_674a	140032	42.02	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_675a	190020	80.38	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_676a	32035	88.54	0.977203	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_677a	143651	63.45	0.928644	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_678a	30678	85.46	0.964965	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_679a	190020	71.45	0.938178	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_680a	30678	74.52	0.9428		768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_681a	144107	67.63	0.946041	699	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_683a	190020	80.38	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_684a	141804	56.08	0.921508	638	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_685a	30678	82.13	0.962407	769	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_686a	30678	60.21	0.893587	758	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_687a	185612	65.63	0.902395	757	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_688a	119654	49.59	0.856699	754	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_689a	142340	59.44	0.928542	696	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_690a	144107	65.17	0.942466	696	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_691a	190020	76.91	0.952451	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_692a	54107	76.79	0.94219		764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_694a	140032	42.02	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_695a	185612	64.99	0.902264	756	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_696a	141804	58.2	0.944326	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_697a	140032	41.44	0.811047	766	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_698a	30678	73.93	0.936696	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_699a	119654	52.81	0.87369		759	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_3851a	141804	45.2	0.871466	645	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_3861a	142340	59.81	0.923295	693	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_3881a	108956	52.38	0.832674	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; SB95-57; Unclassified; otu_19
+Amb_16S_3901a	144107	63.87	0.937888	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_3911a	144887	64.8	0.947916	704	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_3921a	138353	53.01	0.866553	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_3941a	190020	75.71	0.946768	766	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_3951a	140032	38.42	0.796309	761	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_3961a	185612	68.02	0.912278	761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_3971a	144107	65.55	0.946448	705	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_3981a	140032	42.23	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_3991a	141804	57.92	0.940562	636	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_4001a	141804	57.03	0.93876		635	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_4011a	108956	56.89	0.854461	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; SB95-57; Unclassified; otu_19
+Amb_16S_4021a	144887	64.54	0.941085	696	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_4031a	144887	63.93	0.938004	697	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_4041a	190020	62.58	0.912874	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4051a	140032	41.6	0.80769		767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_4061a	140032	41.36	0.811047	766	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_4071a	74966	93.48	0.984034	765	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_4081a	141804	56.58	0.935708	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_4091a	30678	75.48	0.941085	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_4101a	148506	51.75	0.896756	704	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4111a	144887	65.78	0.943004	700	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_4131a	30678	87.2	0.96498		765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_4141a	140032	41.19	0.80769		767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_4151a	731	39.54	0.780903	769	Hugenholtz:Archaea; Thermoplasmata_Eury; Thermoplasmatales; Aciduliprofundum; otu_137
+Amb_16S_4161a	141804	56.13	0.938934	638	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_4171a	141804	56.06	0.929429	632	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_4181a	143651	68.81	0.93828		697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4191a	115168	48.96	0.839156	745	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4201a	148506	52.25	0.889925	705	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4211a	30678	87.38	0.963541	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_4221a	190020	82.54	0.972131	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4231a	30678	87.25	0.963541	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_4241a	196732	64.42	0.894474	758	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_4251a	190020	70.33	0.933862	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4261a	115209	51.62	0.847412	760	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4271a	144887	65.81	0.941347	698	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_4281a	54107	50.44	0.822238	734	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4291a	142340	62.06	0.939341	695	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4301a	140032	42.28	0.816585	768	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_4311	190020	82.72	0.971912	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4321a	190020	80.5	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4331a	141804	56.26	0.931086	648	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_4341a	54107	78.38	0.945097	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4351a	54107	69.96	0.921493	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4361a	143651	61.83	0.93626		696	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4371a	185612	66.39	0.899401	758	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_4381a	190020	79.29	0.962247	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4391a	144107	60.98	0.921537	694	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4401a	54107	78.54	0.945053	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4411a	30678	75.48	0.941085	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_4421a	190020	80.17	0.963672	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4431a	185378	62.35	0.890215	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; PS7ARC37; otu_18
+Amb_16S_4441a	30678	74.97	0.948527	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_4461a	148506	56.84	0.915185	721	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4471a	190020	81.43	0.970648	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4481a	185612	65.5	0.89693		761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_4491a	141804	54.58	0.93985		647	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_4501a	104689	67.9	0.915418	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4511a	30678	88.59	0.967727	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_4521a	141804	51.23	0.904154	620	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_4531a	185612	64.99	0.901756	762	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_4541a	190020	82.02	0.972087	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4551a	142340	63.43	0.94001		700	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4561a	30678	71.51	0.932786	769	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_4571a	141804	57.06	0.937553	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_4581a	190020	80.26	0.972043	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4601a	54107	79.9	0.949283	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4611a	144887	65.2	0.945867	696	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_4621a	140032	42.12	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_4631a	144107	60.88	0.921624	694	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4641a	1144	27.13	0.72528		755	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4651a	190020	83.35	0.973468	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4661a	190020	66.75	0.929385	744	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4671a	190020	82.68	0.967668	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4691a	190020	80.5	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4701a	140032	42.04	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_4721a	144887	52.74	0.90693		704	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_4741a	115168	52.05	0.85138		744	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4761a	119654	50.41	0.858283	754	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4771a	190020	80.24	0.967974	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4781a	140032	41.62	0.804914	764	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_4791a	185612	65.7	0.897788	758	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_4801a	54107	78.52	0.945097	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4811a	108956	54.23	0.847281	737	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; SB95-57; Unclassified; otu_19
+Amb_16S_4821a	190020	71.78	0.94001		768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4831a	143651	63.8	0.937234	705	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4841a	185612	65.31	0.895753	755	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_4851a	190020	75.81	0.943818	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4861a	185612	66.71	0.912148	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_4881a	190020	82.23	0.966477	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4891a	54107	78.73	0.946187	759	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4901a	190020	77.46	0.959704	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_4921a	30678	64.36	0.896203	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_4931a	143651	57.94	0.892541	698	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4941a	185612	66.19	0.910651	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_4951a	54107	72.2	0.921609	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_4981a	185612	65.75	0.899546	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_4991a	54107	59.73	0.865958	753	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5001a	190020	67.08	0.931187	742	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_5011a	190020	79.07	0.960881	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_5021a	143641	54.96	0.921246	623	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_5031a	185612	66.43	0.899401	758	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_5041a	30678	87.62	0.966317	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_5051a	142340	64.69	0.952756	705	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5061a	32035	89.37	0.979935	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5071a	185612	66.47	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_5081a	30678	68.7	0.9127		741	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_5091a	185612	64.38	0.894939	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_5101a	115168	52.05	0.85138		744	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5111a	141804	57.26	0.939269	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_5121a	190020	82.64	0.972101	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_5131a	190020	79.55	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_5141a	30678	86.7	0.961986	761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_5151a	190020	82.19	0.965052	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_5161a	1143	76.83	0.953861	767	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_5171a	115168	51.29	0.860493	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5181a	115168	52.05	0.85138		744	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5201a	143651	68.15	0.93485		695	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5211a	30678	87.77	0.966331	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_5221a	190020	78.9	0.96934		768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_5231a	190020	81.61	0.969354	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_5241a	141495	56.79	0.915665	674	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5251a	115168	51.41	0.85138		744	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5261a	148506	57.16	0.917656	729	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5271a	115168	50.12	0.851191	751	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5281a	190020	79.74	0.960866	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_5291a	141804	58.15	0.940954	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_5301a	144887	63.55	0.93344		699	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_5311a	190020	80.91	0.96793		767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_5321a	32035	76.49	0.954907	743	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5331a	54107	77.91	0.94094		764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5341a	140032	41.19	0.809724	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_5351a	190020	79.29	0.957945	761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_5361a	185612	66.47	0.896421	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_5371a	190020	82.84	0.973439	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_5381a	140032	42.04	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_5391a	104384	66.03	0.891204	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5401a	30678	82.21	0.965198	769	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_5411a	30678	75.48	0.941085	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_5421a	143641	54.79	0.921246	623	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_5431a	140032	42.04	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_5441a	185612	66.11	0.896523	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_5451a	30678	55.04	0.863952	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_5461a	185612	66.43	0.898384	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_5481a	30678	62.04	0.899575	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_5491a	140032	42.04	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_5501a	30678	52.82	0.843836	761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_5511a	144188	56.68	0.926798	623	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_5521a	119654	53.64	0.883748	770	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5531a	185612	65.87	0.898035	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_5541a	190020	78.86	0.96091		764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_5561a	148506	44.92	0.845246	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5571a	119654	52.65	0.875012	758	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5591a	190020	79.95	0.969369	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_5601a	141804	57.75	0.944225	639	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_5611a	140032	41.96	0.805044	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_5621a	119654	48.56	0.854039	760	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5651a	30678	57.11	0.84606		762	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_5661a	46479	67.14	0.933731	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_5671a	141804	57.49	0.948091	644	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_5681a	140032	40.75	0.806251	768	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_5691a	30678	79.47	0.949413	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_5701a	144887	65.16	0.941172	697	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_5711a	30678	53.64	0.875652	725	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_5721a	144887	65.78	0.949559	705	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_5731a	144887	67.48	0.939617	698	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_5751a	30678	73.71	0.939763	766	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_5761a	144887	59.6	0.935824	704	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_5771a	185612	66.27	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_5781a	54107	62	0.883588	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5791a	142021	55.8	0.85683		701	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5821a	140032	41.5	0.809724	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_5831a	141804	57.09	0.93908		639	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_5841a	190020	80.76	0.966651	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_5851a	54107	73.34	0.918601	752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_5861a	30678	79.17	0.946565	761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_5871a	142253	55.89	0.931696	636	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_5881a	30678	70.97	0.93562		769	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_5891a	30678	82.42	0.96514		769	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_5901a	140032	41.27	0.809681	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_5911a	144887	64.11	0.936376	696	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_5931a	140032	41.84	0.809724	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_5941a	190020	82.76	0.973468	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_5951a	202888	21.56	0.601477	672	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; SBAK-shallow-14; otu_125
+Amb_16S_5961a	190020	80.98	0.969398	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_5971a	190020	83.35	0.973468	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_5981a	140032	41.19	0.809724	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_5991a	32035	90.21	0.979906	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6001a	190020	78.34	0.956695	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6011a	185612	66.15	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_6021a	30678	55.61	0.865594	745	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_6031a	30678	62.26	0.902947	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_6041a	148506	55.52	0.900753	721	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6051a	190020	81.59	0.958076	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6061a	190020	80.38	0.96091		764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6071a	190020	68.09	0.929531	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6081a	190020	80.31	0.972072	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6091a	185612	66.91	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_6101a	185612	65.36	0.896567	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_6121a	185612	65.99	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_6131a	190020	79.22	0.970735	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6141a	140032	42.28	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_6161a	185612	66.87	0.903427	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_6171a	190020	83.35	0.973468	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6181a	32035	89.14	0.982784	766	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6211a	54107	79	0.94655		764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6221a	140032	42.09	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_6241a	190020	79.81	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6261a	148506	56.8	0.908514	722	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6271a	54107	73.3	0.93203		764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6281a	148506	50.18	0.893515	704	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6291a	1143	67.1	0.92222		766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_6301a	140032	41.22	0.809724	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_6311a	141804	57.34	0.939152	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_6321a	190020	78.4	0.959558	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6331a	190020	76.31	0.96248		768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6341a	185612	65.5	0.897904	758	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_6361a	30678	87.04	0.964936	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_6371a	185612	64.91	0.891538	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_6381a	140032	41.92	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_6391a	190020	80.26	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6401a	140032	42.04	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_6411a	30678	88.61	0.971753	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_6421a	185612	59.35	0.872236	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_6431a	119654	49.83	0.849476	746	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6441a	54107	68.7	0.911435	765	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6451a	140032	42.04	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_6461a	30678	51.72	0.839389	756	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_6481a	30678	75.03	0.937946	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_6491a	190020	81.81	0.96511		764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6501a	54107	78.82	0.941332	752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6521a	731	39.45	0.779261	770	Hugenholtz:Archaea; Thermoplasmata_Eury; Thermoplasmatales; Aciduliprofundum; otu_137
+Amb_16S_6531a	185612	64.95	0.893079	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_6541a	30678	54.04	0.845755	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_6551a	185612	65.31	0.898049	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_6561a	185612	64.35	0.890913	755	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_6571a	115209	51.9	0.846031	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6581a	141804	56.88	0.933586	637	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_6591a	142340	63.65	0.943919	693	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6601a	30678	64.5	0.885463	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_6611a	115168	51.4	0.836104	740	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6621a	30678	52.3	0.834171	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_6631a	32035	87.2	0.967843	766	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6641a	1146	56.73	0.887585	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6651a	144887	66.45	0.924502	705	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_6661a	108956	53.27	0.841918	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; SB95-57; Unclassified; otu_19
+Amb_16S_6671a	141804	57.11	0.943861	635	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_6681a	30678	62.9	0.887047	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_6691a	141804	57.18	0.937437	639	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_6701a	185612	66.43	0.912278	761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_6711a	74966	93.02	0.98136		766	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_6721a	71074	77.19	0.946725	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6731a	140032	40.68	0.807893	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_6741a	190020	77.95	0.933862	748	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6751a	161417	37.09	0.764959	770	Hugenholtz:Archaea; Thermoplasmata_Eury; Thermoplasmatales; Aciduliprofundum; otu_137
+Amb_16S_6771a	115168	50.35	0.85401		749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6781a	190020	80.26	0.970721	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6791a	144107	62.17	0.930504	699	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6801a	142340	62.6	0.938251	699	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6811a	190020	79.05	0.962262	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6821a	190020	82.78	0.972058	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6831a	161417	35.88	0.738783	748	Hugenholtz:Archaea; Thermoplasmata_Eury; Thermoplasmatales; Aciduliprofundum; otu_137
+Amb_16S_6841a	185612	66.23	0.89475		759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_6851a	140032	42.04	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_6861a	185612	66.27	0.897904	758	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_6871a	190020	82.66	0.969354	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6881a	115209	50.29	0.865885	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6891a	190020	75	0.952698	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6911a	185612	64.92	0.901974	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_6921a	190020	79.62	0.968017	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6931a	190020	79.69	0.972043	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6941a	115168	49.94	0.844418	745	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6951a	30678	87.78	0.96636		765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_6961a	144107	61.13	0.918586	695	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6971a	115209	53.26	0.849229	760	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_6981a	190020	80.95	0.960997	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_6991a	30678	68.55	0.928135	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_7001a	140032	38.28	0.785074	764	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_700a	144887	63.78	0.931594	697	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_7011a	190786	40.29	0.787036	769	Hugenholtz:Archaea; Thermoplasmata_Eury; E3; Unclassified; otu_129
+Amb_16S_701a	144887	64.52	0.939574	697	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_7021a	190020	83.67	0.973468	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_702a	140032	42.04	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_7041a	190020	79.81	0.960881	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_704a	185612	66.87	0.898979	755	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_7051a	141804	57.16	0.937495	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_705a	185612	66.71	0.898224	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_7061a	30678	74.67	0.933368	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_706a	30678	59.14	0.86385		769	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_7071a	185612	65.67	0.897933	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_707a	190020	79.88	0.962305	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_7081a	30678	80.17	0.943992	766	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_7091a	30678	75	0.939545	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_7101a	119654	53.71	0.876059	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_710a	190020	80.31	0.963701	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_7111a	141495	57.92	0.917336	674	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_711a	185056	54.4	0.882265	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7121a	141804	54.09	0.922307	644	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_712a	32035	89.8	0.970096	754	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7131a	115168	50.29	0.850493	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_713a	143651	65.74	0.942553	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7141a	115209	52.6	0.847659	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_714a	143651	61.16	0.920301	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7151a	30678	85.22	0.959355	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_715a	140032	41.99	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_7161a	190020	75.57	0.948222	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_716a	54107	76.73	0.941797	759	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7171a	190020	80.7	0.970677	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_717a	185612	65.75	0.899401	758	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_7181a	119654	53.16	0.875841	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7191a	140032	41.8	0.80971		767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_719a	54107	74.64	0.935039	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7201a	30678	79.48	0.949486	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_720a	143651	59.91	0.910781	674	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7211a	30678	88.47	0.96636		765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_721a	141804	58.36	0.940954	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_7221a	185612	64.99	0.894968	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_722a	185612	50.46	0.848429	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_7231a	30678	72.34	0.936623	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_723a	119654	50.06	0.852993	746	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_724a	140032	41.64	0.8083		762	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_7251a	115168	50	0.844418	745	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_725a	143651	62.68	0.927074	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7261a	140032	41.99	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_726a	30678	78.67	0.94514		763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_7271a	185612	66.23	0.898035	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_727a	49412	61.31	0.908107	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_7281a	185612	65.99	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_728a	190020	80.5	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_7291a	54107	77.42	0.943716	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_729a	115168	52.05	0.85138		744	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7301a	141804	56.75	0.93392		640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_730a	30678	68.15	0.889169	754	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_731a	115209	50.06	0.854287	760	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_732a	71074	67.18	0.915461	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7331a	30678	74.58	0.936376	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_733a	140032	41.26	0.803911	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_7341a	190020	81.2	0.972072	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_734a	190020	73.48	0.9486		767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_735a	185612	66.15	0.897962	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_7361a	141804	56.86	0.93921		640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_7371a	190020	80.38	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_737a	140032	41.46	0.808867	764	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_7381a	140032	41.07	0.809361	766	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_7391a	190020	78.07	0.959558	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_739a	54107	76.25	0.94219		764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_740a	142340	62.24	0.939487	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7411a	150607	26.19	0.61966		763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_741a	144887	65.73	0.946521	705	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_7421a	140032	40.95	0.797617	761	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_742a	144107	57.97	0.91411		674	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_743a	143651	61.27	0.929501	693	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7441a	30678	76.61	0.939269	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_744a	140032	41.36	0.80769		767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_7451a	141804	58.08	0.940954	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_745a	30678	88.59	0.967727	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_7461a	185612	66.15	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_7471a	30678	62.75	0.900665	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_747a	141804	56.93	0.939167	639	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_7481a	141804	50.92	0.911028	608	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_748a	54107	79.09	0.94655		764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7491a	190020	82.5	0.972131	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_749a	190020	80.14	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_7501a	141804	57.58	0.937539	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_750a	119654	50.17	0.852412	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7511a	30678	83.13	0.956564	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_751a	140032	42.04	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_7521a	140032	40.78	0.807036	764	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_752a	140032	41.41	0.811033	766	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_7531a	143651	63.48	0.928513	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_753a	185612	66.99	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_7541a	141804	56.46	0.935591	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_754a	190020	79.48	0.965052	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_7551a	141804	56.22	0.93392		623	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_755a	54107	79.09	0.94655		764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_756a	143621	48.19	0.849795	676	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7571a	119654	51.76	0.860827	742	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_757a	190020	80.38	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_7581a	32035	88.38	0.975793	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_758a	190020	83.35	0.973468	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_7591a	190020	77.71	0.959558	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_759a	148506	54.89	0.900477	722	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7601a	144107	60.4	0.92017		696	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7611a	115209	51.32	0.847804	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_761a	143651	63.62	0.928644	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7621a	119654	52.93	0.87728		762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_762a	115209	52.47	0.845929	761	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7631a	30678	65.44	0.888936	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_763a	115168	50.35	0.850493	749	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_7641a	30678	88.48	0.964936	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_7651a	190020	82.52	0.972116	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_765a	185612	66.19	0.896349	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_7661a	190020	80	0.967945	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_766a	190020	80.38	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_7671a	185612	66.27	0.89943		758	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_767a	140032	41.43	0.809724	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_7681a	30678	69.78	0.935577	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_768a	141804	57.06	0.939254	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_769a	30678	67.43	0.921173	770	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_770a	185612	66.83	0.898543	761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_771a	54107	78.18	0.944922	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_772a	144887	65.61	0.949384	701	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_775a	190020	80.02	0.963628	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_776a	185612	66.21	0.894852	746	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_778a	140032	41.7	0.809521	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_779a	190020	81.9	0.96373		764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_780a	144107	67.35	0.932059	700	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_782a	190020	76.48	0.954152	747	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_783a	185612	66.91	0.898543	761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_784a	140032	42.04	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_786a	190020	82.64	0.972116	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_787a	190020	81.9	0.970779	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_788a	185612	66.11	0.896305	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_790a	30678	68.61	0.909386	786	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_791a	143651	63.2	0.940417	704	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_792a	115209	48.32	0.837049	744	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_793a	32035	82.24	0.952582	748	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_795a	190020	70.92	0.937975	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_796a	54107	75.27	0.936463	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_798a	190020	80.5	0.967872	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_799a	143651	63.02	0.928528	696	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_800a	185612	65.11	0.897802	758	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_801a	30678	69.03	0.927161	713	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_802a	100780	78.37	0.932844	746	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_803a	115168	50.75	0.837092	743	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_804a	141804	56.73	0.93908		639	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_805a	30678	73.16	0.93844		755	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_806a	141804	56.91	0.930126	638	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_807a	54107	77.35	0.943643	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_808a	119654	48.96	0.857629	767	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_810a	30678	70.57	0.915389	728	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_811a	30678	88.57	0.967552	761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_812a	30678	88.19	0.967683	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_813a	30678	81.72	0.940824	766	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_815a	32035	90.69	0.981287	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_816a	115209	50.52	0.833997	760	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_819a	185612	66.83	0.898849	754	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_820a	190245	59.4	0.884329	754	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; PS7ARC37; otu_18
+Amb_16S_821a	142340	58.29	0.918717	693	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_823a	148506	52.19	0.897715	710	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_824a	54107	78.63	0.938077	748	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_825a	185612	60.45	0.868632	757	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_826a	30678	71.51	0.934196	769	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_827a	54107	77	0.937859	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_828a	30678	84.35	0.959486	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_830a	111494	52.28	0.869373	725	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_831a	115168	51.81	0.849737	744	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_832a	30678	75.39	0.944225	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_834a	144887	58.65	0.92613		705	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_835a	30678	57.72	0.861074	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_836a	144887	63.51	0.936362	697	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_838a	142340	63.35	0.937394	693	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_839a	140032	40.85	0.804172	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_840a	143651	63.14	0.936972	701	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_841a	30678	69.58	0.92565		771	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_842a	185612	66.91	0.898543	761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_843a	185612	65.11	0.904662	761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_844a	140032	42.28	0.811352	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_847a	185612	65.43	0.897032	761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_848a	185612	66.91	0.899401	758	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_849a	185612	66.15	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_850a	731	39.01	0.779275	770	Hugenholtz:Archaea; Thermoplasmata_Eury; Thermoplasmatales; Aciduliprofundum; otu_137
+Amb_16S_851a	54107	72.88	0.929283	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_852a	190020	79.17	0.96232		764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_853a	39571	78.91	0.931958	718	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_855a	144887	66.12	0.951172	705	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_856a	140032	40.83	0.80785		767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_857a	141804	58.15	0.940954	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_859a	144887	64.4	0.936478	697	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_860a	30678	79.46	0.951012	766	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_863a	141804	58.15	0.940954	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_864a	141804	57.23	0.928571	639	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_865a	144887	61.88	0.930882	683	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_866a	143651	60.94	0.930984	705	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_870a	141782	51.49	0.88087		606	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_873a	190020	79.27	0.964079	744	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_874a	76092	64.38	0.885492	766	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_876a	142340	56.25	0.920098	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_878a	148506	53.39	0.892134	696	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_879a	141804	57.82	0.942684	641	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_880a	54107	77.06	0.942263	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_881a	115168	49.06	0.84029		735	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_883a	185612	66.03	0.895956	756	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_884a	142340	58.44	0.914182	700	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_886a	30678	62.95	0.911639	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_887a	185612	66.15	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_888a	185612	65.67	0.903282	762	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_889a	190020	77.43	0.956535	761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_890a	190020	76.9	0.949791	769	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_891a	30678	74.67	0.939617	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_892a	144107	60	0.918862	699	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_893a	190020	76.93	0.958018	762	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_895a	190020	79.79	0.962305	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_896a	190020	81.34	0.972072	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_898a	30678	63.17	0.911624	766	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_899a	144887	64.86	0.941114	697	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_900a	30678	77.15	0.942292	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_902a	185612	66.83	0.898543	761	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_903a	30678	84.29	0.958032	765	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_904a	190020	80.02	0.963657	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_905a	30678	69.01	0.932801	769	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_906a	30678	71.86	0.930156	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_907a	144887	63.93	0.936202	696	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_908a	185612	66.91	0.899561	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_909a	190020	73.29	0.910956	714	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_910a	185612	65.63	0.898035	759	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_911a	104384	59	0.859911	765	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_912a	142340	63.65	0.943847	692	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_913a	190020	71.34	0.947597	755	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_915a	100780	83.63	0.94796		745	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_916a	54107	78.71	0.941289	751	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_918a	144107	61.69	0.927597	688	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_920a	115168	52.05	0.85138		744	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_921a	190020	81.57	0.969398	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_923a	185612	65.19	0.887032	760	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_924a	119654	50.06	0.852993	746	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_925a	108956	53.19	0.830203	741	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; SB95-57; Unclassified; otu_19
+Amb_16S_926a	144107	61.61	0.922758	700	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_927a	143651	56.83	0.884925	694	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_928a	190020	76.02	0.950969	763	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_929a	140032	40.44	0.808155	768	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_930a	74966	92.79	0.982668	765	Hugenholtz:Archaea; Cenarchaea_Cren; SCA1170; Unclassified; otu_29
+Amb_16S_931a	1140	63.37	0.900825	763	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_932a	100780	82.96	0.946884	750	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_934a	144887	49.69	0.880405	672	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_935a	142340	67.36	0.947524	698	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_936a	190020	76.62	0.951027	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_937a	190020	75.56	0.945431	749	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_939a	100780	81.41	0.949413	744	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_940a	141804	57.16	0.921217	639	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_943a	140032	41.28	0.804739	766	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_944a	190020	76.8	0.956899	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_945a	75056	70.23	0.927699	751	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_946a	144887	65.46	0.94623		702	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_947a	190020	82.7	0.972087	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_948a	190020	82.52	0.972101	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_949a	185612	66.91	0.899401	758	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_950a	187407	73.29	0.928339	755	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_951a	144887	65.08	0.944501	701	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_953a	119654	50.88	0.857324	743	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_955a	144107	65.63	0.940998	697	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_956a	115168	52.16	0.849912	744	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_957a	144887	65.62	0.933353	682	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_959a	144887	64.86	0.939617	697	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_961a	143651	61.81	0.919051	664	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_962a	141804	51.38	0.920737	649	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_963a	30678	77.7	0.946579	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_967a	185612	66.47	0.899401	758	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; Cenarchaeum; Unclassified; otu_15
+Amb_16S_968a	115168	50	0.84263		745	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_969a	141804	56.68	0.937365	639	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_971a	190020	82.19	0.972131	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_972a	100780	80.12	0.942117	748	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_973a	141804	56.88	0.934051	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_974a	190020	82.54	0.970779	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_975a	115168	50.52	0.844418	745	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_976a	54107	78.31	0.945126	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_978a	30678	57.42	0.882062	747	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_979a	54107	76.82	0.943658	764	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_980a	190020	80.26	0.963686	764	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_982a	54107	76.77	0.930969	752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_983a	54107	53.08	0.872789	752	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_984a	140032	42.06	0.805059	767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_985a	141804	58.31	0.940954	640	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_986a	141804	48.05	0.901014	639	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_987a	144887	60.88	0.936449	697	Hugenholtz:Archaea; Cenarchaea_Cren; NRP-J; otu_25
+Amb_16S_988a	104842	88.02	0.978555	762	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_989a	190020	81.54	0.969427	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_990a	54107	63.66	0.907526	759	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_991a	76092	60.14	0.872731	765	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_992a	148506	52.68	0.899343	710	Hugenholtz:Archaea; Cenarchaea_Cren; Unclassified; otu_14
+Amb_16S_994a	140032	38.53	0.79269		767	Hugenholtz:Archaea; Thermoplasmata_Eury; E2; terrestrial_group; Unclassified; otu_122
+Amb_16S_995a	190020	83.37	0.973468	768	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; Unclassified; otu_22
+Amb_16S_996a	30678	74.97	0.942728	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23
+Amb_16S_999a	30678	71.89	0.938324	767	Hugenholtz:Archaea; Cenarchaea_Cren; Cenarchaeales; SAGMA-X; SAGMA-D; NRP-P; otu_23

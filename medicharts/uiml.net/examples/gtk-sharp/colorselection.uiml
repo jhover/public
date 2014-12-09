@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+
+<uiml>
+	<interface>
+		<structure>
+			<part class="Frame" id="Frame">
+				<part class="VBox">
+					<part class="ColorSelection" id="colorbox"/>
+					<part class="HBox">
+						<part class="Label" id="Iwantcolor"/>
+						<part class="Button" id="Illgivecolor"/>
+					</part>
+				</part>
+			</part>
+		</structure>
+		<style>
+			<property part-name="Frame" name="label">ColorSelection Widget</property>
+			<property part-name="Iwantcolor" name="text">Give me some color</property>
+			<property part-name="Illgivecolor" name="label">I will</property>
+		</style>
+	   <behavior>
+			<rule>
+				<condition>
+					<event class="ButtonPressed" part-name="Illgivecolor"/>
+        		</condition>
+				<action>
+					<property part-name="Iwantcolor" name="background">
+						<property part-name="colorbox" name="color"/>
+					</property>
+				</action>
+			</rule>
+		 </behavior>
+	</interface>
+	<peers>
+		<presentation base="file:///home/kris/projects/uiml.net/vocabularies/gtk-sharp-1.0.uiml" />
+	</peers>
+</uiml>
+

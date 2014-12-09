@@ -1,0 +1,34 @@
+#!/usr/bin/perl
+#
+
+$prefix = shift;
+$current_depth = 0;
+
+while ( <> )
+   {
+    chomp;
+    /^(\t*)(\S+)/;
+    ($ind,$item) = ($1,$2);
+    next if ( $item =~ /^\[.*\]$/ );
+    $depth = length($ind) + 1;
+    #printf "%d $item\n", $depth;
+    if ( $depth == 6 )
+       {
+        if ( $item =~ s/\.fasta\.screen\.Contig1$// )
+           { $item = $prefix . $item; }
+        printf "%s \"%s\"\n", $item, join( "; ", @tax );
+       }
+    elsif ( $depth >= $current_depth )
+       {
+        die "$depth != 1 + $current_depth\n" 
+           if ( $depth - $current_depth != 1 );
+        push( @tax, $item );
+       }
+    else 
+       {
+        while ( $#tax+1 >= $depth )
+           { pop( @tax ); }
+        push( @tax, $item );
+       }
+    $current_depth = $depth;           
+   }

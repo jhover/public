@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InkFormLib", "InkFormLib\InkFormLib.csproj", "{C1529A2F-D834-48B4-BDD5-E29B1827AEE3}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InkFormServer", "InkFormServer\InkFormServer.csproj", "{141ED109-E88D-4007-A406-6BBBFA7FF98B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InkFormClient", "InkFormClient\InkFormClient.csproj", "{BED91935-C800-4B99-80A3-F826164F85BE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C1529A2F-D834-48B4-BDD5-E29B1827AEE3}.Debug.ActiveCfg = Debug|.NET
+		{C1529A2F-D834-48B4-BDD5-E29B1827AEE3}.Debug.Build.0 = Debug|.NET
+		{C1529A2F-D834-48B4-BDD5-E29B1827AEE3}.Release.ActiveCfg = Release|.NET
+		{C1529A2F-D834-48B4-BDD5-E29B1827AEE3}.Release.Build.0 = Release|.NET
+		{141ED109-E88D-4007-A406-6BBBFA7FF98B}.Debug.ActiveCfg = Debug|.NET
+		{141ED109-E88D-4007-A406-6BBBFA7FF98B}.Debug.Build.0 = Debug|.NET
+		{141ED109-E88D-4007-A406-6BBBFA7FF98B}.Release.ActiveCfg = Release|.NET
+		{141ED109-E88D-4007-A406-6BBBFA7FF98B}.Release.Build.0 = Release|.NET
+		{BED91935-C800-4B99-80A3-F826164F85BE}.Debug.ActiveCfg = Debug|.NET
+		{BED91935-C800-4B99-80A3-F826164F85BE}.Debug.Build.0 = Debug|.NET
+		{BED91935-C800-4B99-80A3-F826164F85BE}.Release.ActiveCfg = Release|.NET
+		{BED91935-C800-4B99-80A3-F826164F85BE}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(SolutionItems) = postSolution
+		README = README
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

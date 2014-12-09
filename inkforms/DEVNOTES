@@ -1,0 +1,11 @@
+DEVELOPMENT NOTES/CHANGELOG
+
+*Discovered why Jun and Bo went back to low-level socket classes for networking:
+.NET has no WriteObject()/ReadObject() methods able to work generically with 
+streams (e.g. a NetworkStream). The behavior of the underlying TCP socket can
+interfere/hang with the provided Serialize()/Deserialize() methods, although 
+they *sometimes* work (e.g. if you write *two* objects into a stream, one of 
+can probably be deserialized on the other end. yuk. )
+
+ 
+

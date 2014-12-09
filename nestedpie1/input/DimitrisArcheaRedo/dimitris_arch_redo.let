@@ -1,0 +1,219 @@
+From papamicd@gmail.com  Mon Oct  8 09:47:36 2007
+Return-Path: <papamicd@gmail.com>
+X-Original-To: mccorkle@rosebud.bio.bnl.gov
+Delivered-To: mccorkle@rosebud.bio.bnl.gov
+Received: from smtpgateway.bnl.gov (smtpgateway.sec.bnl.local [192.168.1.132])
+	by rosebud.bio.bnl.gov (Postfix) with ESMTP id 372305388A
+	for <mccorkle@rosebud.bio.bnl.gov>; Mon,  8 Oct 2007 09:47:36 -0400 (EDT)
+Received: from py-out-1112.google.com ([64.233.166.180])
+	by smtpgateway.bnl.gov with esmtp (bnl.gov SMTP on gw4)
+	serial 1Ieswo-0001gO-6P
+	for mccorkle@bnl.gov; Mon, 08 Oct 2007 09:47:05 -0400
+Received: by py-out-1112.google.com with SMTP id p76so2400601pyb
+        for <mccorkle@bnl.gov>; Mon, 08 Oct 2007 06:47:02 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=beta;
+        h=domainkey-signature:received:received:message-id:date:from:to:subject:cc:in-reply-to:mime-version:content-type:references;
+        bh=KW7SFRVaCZ34gmDOFLbYCIv9c0wp75lPNB3RGNiIzZs=;
+        b=Dnwq/isZLCKFfgkkQdJ/ZLqJT72jsfr1uY35xjm/vPF1VL+ucXcVYQHwDxGn9D6ZVcMHH+/X2bUewKkzmn53u47BpwxFX7urU+62c/MlYUhChEJDKH/FANVntvfcIYMdPi1fXGSaKTM1naH5IJffOlYJ5/TRa/XmImd/7eGNSK8=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=beta;
+        h=received:message-id:date:from:to:subject:cc:in-reply-to:mime-version:content-type:references;
+        b=rBy39HzebBCgoBAAWlcwsD3fgd+imsy1bsAFvYsh/blrKY0AIRogKBgfKjoOwbON18dxb7LVaoo9ofFbWSvHadVqRbMaM1Q+J276vfDm+zhE9UDW9bogv8on7tKo5LydPW6i02NOOqXwMw2JyfsLFwYWqcb2FRKgrQuYyqgAnx4=
+Received: by 10.35.86.12 with SMTP id o12mr18424554pyl.1191851222050;
+        Mon, 08 Oct 2007 06:47:02 -0700 (PDT)
+Received: by 10.35.52.7 with HTTP; Mon, 8 Oct 2007 06:47:01 -0700 (PDT)
+Message-ID: <279058d00710080647x5afa78edka9fca4ad6204980@mail.gmail.com>
+Date: Mon, 8 Oct 2007 09:47:01 -0400
+From: "Dimitris Papamichail" <papamicd@gmail.com>
+To: "Celine Lesaulnier" <celine.lesaulnier@gmail.com>
+Subject: Re: FACE manuscript
+Cc: vdlelied@bnl.gov, "McCorkle, Sean" <mccorkle@bnl.gov>
+In-Reply-To: <e978b50f0710071840j3ae03595hf1405e7f93de9507@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_40018_3723602.1191851222033"
+References: <e978b50f0710071840j3ae03595hf1405e7f93de9507@mail.gmail.com>
+X-BNL-MailScanner-Information: Please contact the ITD Service Desk for more information
+X-BNL-MailScanner: Found to be clean
+X-BNL-MailScanner-SpamCheck: not spam, SpamAssassin (not cached, score=-3.27,
+	required 5, BAYES_00 -3.60, HTML_MESSAGE 0.33)
+X-BNL-MailScanner-From: papamicd@gmail.com
+X-Spam-Status: No
+Status: RO
+Content-Length: 14558
+Lines: 172
+
+------=_Part_40018_3723602.1191851222033
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Hi Celine,
+
+  this is what I got for the Archaea:
+
+Cenarchaea_Cren (1240) (1332), p-value = 0.228042341472008
+        Cenarchaeales (455) (210), p-value = 2.37693023681636e-19
+                Cenarchaeum (122) (79), p-value = 0.00110619557491054
+                        Candidatus_Nitrosopumilus (1) (2), p-value =
+0.511122656961829
+                        PS7ARC37 (3) (1), p-value = 0.302146749096592
+                        SB95-57 (6) (1), p-value = 0.0582386590560959
+                                pIVWA11 (1) (0), p-value = 0.492952522255193
+                SAGMA-X (333) (131), p-value = 6.43742876596332e-20
+                        SAGMA-D (333) (131), p-value = 6.43742876596332e-20
+                                NRP-P (147) (58), p-value =
+2.50724713906565e-10
+        NRP-J (141) (77), p-value = 7.3506909731901e-06
+        SCA1170 (82) (234), p-value = 7.57326426509535e-16
+                SCA1154 (3) (7), p-value = 0.18477120955319
+Thermoplasmata_Eury (88) (35), p-value = 7.58887028449159e-07
+        E2 (80) (34), p-value = 7.46183656748965e-06
+                aquatic_group_III (1) (1), p-value = 0.75727068982021
+                        pMC2A33 (1) (1), p-value = 0.75727068982021
+                                pMC2A203 (1) (1), p-value = 0.75727068982021
+                                        HR-MM-003 (1) (0), p-value =
+0.492952522255193
+                terrestrial_group (79) (33), p-value = 6.22964749955977e-06
+                        ARCP1-30 (1) (1), p-value = 0.75727068982021
+                                anta6 (1) (1), p-value = 0.75727068982021
+                        SBAK-shallow-14 (1) (1), p-value = 0.75727068982021
+        E3 (1) (1), p-value = 0.75727068982021
+        Thermoplasmatales (6) (0), p-value = 0.0144314798944948
+                Aciduliprofundum (6) (0), p-value = 0.0144314798944948
+
+  The result is small enough not to need an attachment. Hope it is helpful.
+
+Dimitris
+
+On 10/7/07, Celine Lesaulnier <celine.lesaulnier@gmail.com> wrote:
+>
+> Hi guys,
+> Here is the latest version of the manuscript.
+>
+> Dimitris, I'm sorry to have to ask you for one last thing, but would it be
+> at all possible to generate P-values for Archaea based on the attached excel
+> file data?
+>
+> Niels, there is very little reference to the richness estimates and non to
+> the Chao1 values in the text (Tables 1 and 5). Dimitris did a lot of work to
+> generate them and they are valuable, perhaps we should incorporate more of
+> this data into the manuscript?
+>
+> Sean, how are you doing with the figures? I'll be happy to go over them,
+> and the text to Wagner, when you're ready to seperate yourself from the
+> screen.
+>
+> Here are the outstanding points that remain from the reviewer comments
+>
+> - at least some physical or chemical context data about the soil should be
+> given
+> - how long were elevated CO2 levels applied? although published before,
+> the very basics of the experiment should be given in the methods section.
+>
+> - figure legends 1 through 3 are not very informative. What exactly is the
+> basis for the taxonomic assignments shown here when compared to table 1?
+>
+> - how many sequences escaped any phylogenetic assignments? Which lineages
+> are labelled and why these and not others?
+>
+> - I see PCR conditions given for the qPCR, but they are still missing for
+> the clone library PCR.
+>
+> -  I'm not sure that the "per gram" units are appropriate in their
+> reporting of the data.  They pooled 3 5-gram samples.  Thus, everything
+> should be scaled as "per 15-gram sample". *This is not right, but perhaps
+> we can write it otherwise, Niels?.*
+>
+> - The authors need to acknowledge the practical limitations of their
+> sampling scheme.  By pooling samples they have removed intra-treatment
+> variability.  It is possible that there is considerable variation within a
+> treatment and that this is greater than the variability between treatments.
+> Although their pooling attempts to remove this possability, in their
+> discussion they need to acknowledge that the possability remains.
+>
+> The story sticks, especially the part now about the Acidobacteria. The
+> text that is already there does not need to be changed, though feel free to
+> add anything that you feel is missing, and if you see any errors please let
+> me know.
+> Also Niels, please do not remove the tracked changes, it was a requirement
+> of the editor that we keep them. However if you make changes to the
+> references then please temporarily turn it off as the track changes clutters
+> up the text. I've tried to keep it as neat for the reviewers as possible.
+> Goodnight,
+> C.
+> P.S. My outstanding tasks include:
+>  - confirm functional role of Niastella species
+>  - find reference for new vetted sequences
+>  - check that website has all necessary components
+>  - make aure phylogenetic trees are ok, should be fine, but should
+> still check.
+>  - write section justifying choice of classifier/taxonomy to Michael
+> Wagner (it's already in point form)
+>
+>
+
+------=_Part_40018_3723602.1191851222033
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Hi Celine,<br><br>&nbsp; this is what I got for the Archaea:<br><br>Cenarchaea_Cren (1240) (1332), p-value = 0.228042341472008<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cenarchaeales (455) (210), p-value = 2.37693023681636e-19<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cenarchaeum (122) (79), p-value = 
+0.00110619557491054<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Candidatus_Nitrosopumilus (1) (2), p-value = 0.511122656961829<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PS7ARC37 (3) (1), p-value = 0.302146749096592<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SB95-57 (6) (1), p-value = 
+0.0582386590560959<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; pIVWA11 (1) (0), p-value = 0.492952522255193<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SAGMA-X (333) (131), p-value = 6.43742876596332e-20<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SAGMA-D (333) (131), p-value = 
+6.43742876596332e-20<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NRP-P (147) (58), p-value = 2.50724713906565e-10<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NRP-J (141) (77), p-value = 7.3506909731901e-06<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SCA1170 (82) (234), p-value = 7.57326426509535e-16
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SCA1154 (3) (7), p-value = 0.18477120955319<br>Thermoplasmata_Eury (88) (35), p-value = 7.58887028449159e-07<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E2 (80) (34), p-value = 7.46183656748965e-06<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; aquatic_group_III (1) (1), p-value = 
+0.75727068982021<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; pMC2A33 (1) (1), p-value = 0.75727068982021<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; pMC2A203 (1) (1), p-value = 0.75727068982021<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HR-MM-003 (1) (0), p-value = 
+0.492952522255193<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; terrestrial_group (79) (33), p-value = 6.22964749955977e-06<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ARCP1-30 (1) (1), p-value = 0.75727068982021<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; anta6 (1) (1), p-value = 
+0.75727068982021<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SBAK-shallow-14 (1) (1), p-value = 0.75727068982021<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E3 (1) (1), p-value = 0.75727068982021<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thermoplasmatales (6) (0), p-value = 0.0144314798944948<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aciduliprofundum (6) (0), p-value = 
+0.0144314798944948<br><br>&nbsp; The result is small enough not to need an attachment. Hope it is helpful.<br><br>Dimitris<br><br><div><span class="gmail_quote">On 10/7/07, <b class="gmail_sendername">Celine Lesaulnier</b> &lt;
+<a href="mailto:celine.lesaulnier@gmail.com">celine.lesaulnier@gmail.com</a>&gt; wrote:</span><blockquote class="gmail_quote" style="border-left: 1px solid rgb(204, 204, 204); margin: 0pt 0pt 0pt 0.8ex; padding-left: 1ex;">
+<div>Hi guys,</div>
+<div>Here is the latest version of the manuscript.</div>
+<div>&nbsp;</div>
+<div>Dimitris, I&#39;m sorry to have to ask you for one last thing, but&nbsp;would it be at all possible to generate P-values for Archaea based on the attached excel file data?</div>
+<div>&nbsp;</div>
+<div>Niels, there is very little reference to the richness estimates and non to the Chao1 values in the text (Tables 1 and 5). Dimitris did a lot of work to generate them and they are valuable, perhaps we should incorporate more of this data into the manuscript? 
+</div>
+<div>&nbsp;</div>
+<div>Sean, how are you doing with the figures? I&#39;ll be happy to go over them, and the text to Wagner, when you&#39;re ready to seperate yourself&nbsp;from the screen.&nbsp;</div>
+<div>&nbsp;</div>
+<div>Here are the outstanding points that remain from the reviewer comments</div>
+<div>
+<p style="margin: 0in 0in 0pt; line-height: normal;"><span style="font-size: 10pt;">- at least some physical or chemical context data about the soil should be given </span><span style="font-size: 9.5pt;"><br></span><span style="font-size: 10pt;">
+
+- how long were elevated CO2 levels applied? although published before, the very basics of the experiment should be given in the methods section.</span></p>
+<p style="margin: 0in 0in 0pt; line-height: normal;"><span style="font-size: 10pt;"></span></p>
+<p style="margin: 0in 0in 0pt; line-height: normal;"><span style="font-size: 10pt;">- figure legends 1 through 3 are not very informative. What exactly is the basis for the taxonomic assignments shown here when compared to table 1? 
+</span></p>
+<p style="margin: 0in 0in 0pt; line-height: normal;"><span style="font-size: 10pt;"></span></p>
+<p style="margin: 0in 0in 0pt; line-height: normal;"><span style="font-size: 10pt;">- how many sequences escaped any phylogenetic assignments? Which lineages are labelled and why these and not others?&nbsp; </span><span style="font-size: 10pt;">
+
+<span>&nbsp;</span></span></p>
+<p style="margin: 0in 0in 0pt; line-height: normal;"><span style="font-size: 10pt;"><span></span>- I see PCR conditions given for the qPCR, but they are still missing for the clone library PCR. </span><span style="font-size: 9.5pt;">
+
+</span></p>
+<p style="margin: 0in 0in 0pt; line-height: normal;"><span style="font-size: 9.5pt;"></span></p>
+<p style="margin: 0in 0in 0pt; line-height: normal;"><span style="font-size: 10pt;">-&nbsp; I&#39;m not sure that the &quot;per gram&quot; units are appropriate in their reporting of the data.&nbsp; They pooled 3 5-gram samples.&nbsp; Thus, everything should be scaled as &quot;per 15-gram sample&quot;. 
+<i>This is not right, but perhaps we can write it otherwise, Niels?.</i></span></p>
+<p style="margin: 0in 0in 0pt; line-height: normal;"><span style="font-size: 9.5pt;"></span></p>
+<p style="margin: 0in 0in 0pt; line-height: normal;"><span style="font-size: 9.5pt;">- </span><span style="font-size: 10pt;">The authors need to acknowledge the practical limitations of their sampling scheme.&nbsp; By pooling samples they have removed intra-treatment variability.&nbsp; It is possible that there is considerable variation within a treatment and that this is greater than the variability between treatments.&nbsp; Although their pooling attempts to remove this possability, in their discussion they need to acknowledge that the possability remains. 
+</span><span style="font-size: 9.5pt;"></span></p></div>
+<div>&nbsp;</div>
+<div>The story sticks, especially the part now about the Acidobacteria. The text that is already there does not need to be changed, though feel free to add anything that you feel is missing, and&nbsp;if you see any errors please let me know. 
+</div>
+<div>Also Niels, please do&nbsp;not remove the tracked changes, it was a requirement of the editor that we keep them. However if you make changes to the references then please temporarily turn it off as the track changes clutters up the text. I&#39;ve tried to keep it as neat for the reviewers as possible.
+</div>
+<div>Goodnight,</div>
+<div>C.</div>
+<div>P.S. My outstanding tasks include:</div>
+<div>&nbsp;- confirm functional role of Niastella species</div>
+<div>&nbsp;- find reference for new vetted sequences</div>
+<div>&nbsp;- check that website has all necessary components</div>
+<div>&nbsp;- make aure phylogenetic trees are ok, should be fine, but should still&nbsp;check.</div>
+<div>&nbsp;- write section justifying choice of classifier/taxonomy to Michael Wagner (it&#39;s already in point form)</div>
+<br clear="all"></blockquote></div><br>
+
+------=_Part_40018_3723602.1191851222033--
+

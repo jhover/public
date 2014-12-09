@@ -1,0 +1,54 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uiml.net", "uiml.net\uiml.net.csproj", "{930F3276-6007-43DB-A2E6-9C8F303164FB}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uiml-swf", "uiml-swf\uiml-swf.csproj", "{EEA601FF-F2EB-4D25-8C1D-6334CC52E6F1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{930F3276-6007-43DB-A2E6-9C8F303164FB} = {930F3276-6007-43DB-A2E6-9C8F303164FB}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediClient", "MediClient\MediClient.csproj", "{EA6C577D-7265-4AB1-8808-3CB522AC4819}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediService", "MediService\MediService.csproj", "{6D63EA89-8941-4F9E-9053-D2D80E927FE1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediLib", "MediLib\MediLib.csproj", "{22A32688-53A5-4BEE-9DDE-43EBB95968FC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{930F3276-6007-43DB-A2E6-9C8F303164FB}.Debug.ActiveCfg = Debug|.NET
+		{930F3276-6007-43DB-A2E6-9C8F303164FB}.Debug.Build.0 = Debug|.NET
+		{930F3276-6007-43DB-A2E6-9C8F303164FB}.Release.ActiveCfg = Release|.NET
+		{930F3276-6007-43DB-A2E6-9C8F303164FB}.Release.Build.0 = Release|.NET
+		{EEA601FF-F2EB-4D25-8C1D-6334CC52E6F1}.Debug.ActiveCfg = Debug|.NET
+		{EEA601FF-F2EB-4D25-8C1D-6334CC52E6F1}.Debug.Build.0 = Debug|.NET
+		{EEA601FF-F2EB-4D25-8C1D-6334CC52E6F1}.Release.ActiveCfg = Release|.NET
+		{EEA601FF-F2EB-4D25-8C1D-6334CC52E6F1}.Release.Build.0 = Release|.NET
+		{EA6C577D-7265-4AB1-8808-3CB522AC4819}.Debug.ActiveCfg = Debug|.NET
+		{EA6C577D-7265-4AB1-8808-3CB522AC4819}.Debug.Build.0 = Debug|.NET
+		{EA6C577D-7265-4AB1-8808-3CB522AC4819}.Release.ActiveCfg = Release|.NET
+		{EA6C577D-7265-4AB1-8808-3CB522AC4819}.Release.Build.0 = Release|.NET
+		{6D63EA89-8941-4F9E-9053-D2D80E927FE1}.Debug.ActiveCfg = Debug|.NET
+		{6D63EA89-8941-4F9E-9053-D2D80E927FE1}.Debug.Build.0 = Debug|.NET
+		{6D63EA89-8941-4F9E-9053-D2D80E927FE1}.Release.ActiveCfg = Release|.NET
+		{6D63EA89-8941-4F9E-9053-D2D80E927FE1}.Release.Build.0 = Release|.NET
+		{22A32688-53A5-4BEE-9DDE-43EBB95968FC}.Debug.ActiveCfg = Debug|.NET
+		{22A32688-53A5-4BEE-9DDE-43EBB95968FC}.Debug.Build.0 = Debug|.NET
+		{22A32688-53A5-4BEE-9DDE-43EBB95968FC}.Release.ActiveCfg = Release|.NET
+		{22A32688-53A5-4BEE-9DDE-43EBB95968FC}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

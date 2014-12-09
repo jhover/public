@@ -1,0 +1,24 @@
+scoresite INSTALL
+=================
+
+Note that scoresite depends on argtable, an ANSI C command line 
+processing library. Available at:
+  http://argtable.sourceforge.net/
+The latest distribution is included for convenience. 
+
+
+If you don't already have argtable installed:
+    make argtable
+    [sudo] make argtable-install
+
+Then, to install scoresite:
+   make
+   [sudo] make install
+
+The makefile assumes the argtable include file is in /usr/local/includes, and
+its lib is in /usr/local/lib. If this isn't the case, a makefile adjustment will
+be necessary. 
+
+
+
+

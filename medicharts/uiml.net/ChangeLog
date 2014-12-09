@@ -1,0 +1,375 @@
+2005-03-25 Jo Vermeulen <jo.vermeulen@student.luc.ac.be>
+	* vocabularies/swf-1.1.uiml: Added getters and setters for all
+	relevant absolute positioning properties
+
+2005-03-14 Jo Vermeulen <jo.vermeulen@student.luc.ac.be>
+	* Uiml/FrontEnd/CommandLine.cs: added a Main() method to complete this 
+	frontend 
+	* Uiml/Makefile: added cli-exe target for building the commandline frontend
+
+2005-02-19 Kris Luyten <kris.luyten@luc.ac.be>
+	* Uiml/Rendering/Renderer.cs: refactored ApplyProperty method; extracted
+	two new methods: "SetProperty" and "InvokeMethod". Need to take into
+	account mismatching argument lists for setting properties (ad-hoc procedure
+	necessary?)
+
+
+2005-01-13 Kris Luyten <kris.luyten@luc.ac.be>
+	* examples/gtk-sharp/template-test.uiml: shows first working 
+	template case (Jo Vermeulen)
+	* Uiml/Frontend/*.cs: rewrote fronted to support automatic frontend
+	GUI dependending on the available widget set libraries
+
+
+2005-01-12 Jo Vermeulen <jo.vermeulen@student.luc.ac.be>
+	* Uiml/ReplaceTemplateResolver.cs:
+	* Uiml/Style.cs:
+	* Uiml/Template.cs: quick hack to support templates (currently only
+	for style elements and only with the replace resolver)
+	* examples/gtk-sharp/helloworld_template.uiml: example which 
+	demonstrates these changes
+	* examples/gtk-sharp/helloworld_template_data.uiml: the uiml file
+	which contains the template element for the previous example
+
+2004-11-2 Kris Luyten <kris.luyten@luc.ac.be>
+	* Uiml/FrontEnd/SwfGUI.cs: added implementation of SWF frontend
+	* Uiml/Rendering/SWF/SWFRenderedInstance.cs: running UI can create
+	modal dialog now
+
+2004-09-17 Kris Luyten <kris.luyten@luc.ac.be>
+	* Uiml/FrontEnd/*.cs: rewrote FrontEnd system for uiml.net
+	* Uiml/Rendering/Renderer.cs: moved "ResolveProperty" method from
+	subclasses to Renderer class
+	* docs/*: wrote some new documentation
+
+2004-08-27 Jo Vermeulen <jo.vermeulen@student.luc.ac.be>
+	* vocabularies/gtk-sharp-1.0.uiml: updated Html class
+	* examples/gtk-sharp/browser.uiml: updated browser example
+
+2004-08-27 Kris Luyten <kris.luyten@luc.ac.be>
+	* docs/: initial creation of uiml.net documentation directory
+
+2004-08-25 Kris Luyten <kris.luyten@luc.ac.be>
+	* Uiml/FrontEnd/CompactGUI.cs: A GUI frontend for the SWF backend	on compact .Net.
+	* Uiml/FrontEnd/compactgui.uiml: user interface description for the GUI frontend
+	* Uiml/FrontEnd/UimlTool.cs: moved the command line tool here
+	* Uiml/ExternalLibraries.cs: fixed duplicate key crash
+	* Uiml/Executing/Call.cs: ExecuteField and ExecuteProperty work also with object
+	instance now
+
+2004-08-25 Jo Vermeulen <jo.vermeulen@student.luc.ac.be>
+	* Uiml/Makefile: updated references for compiling GTK# rendering backend
+
+2004-08-22 Jo Vermeulen <jo.vermeulen@student.luc.ac.be>
+	* examples/gtk-sharp/image.uiml: fixed typo in vocabulary location
+
+2004-08-07 Jo Vermeulen <jo.vermeulen@student.luc.ac.be>
+	* Uiml/Peers/Vocabulary.cs: added exception handling for the AddDClass and
+	AddDComponent methods. It writes out an error message now when duplicate
+	entries are found in the presentation/logic sections
+	
+2004-08-07 Kris Luyten <kris.luyten@luc.ac.be>
+	* Reordered the examples directory
+	* Changed the build process so a set of libraries and a front-end exe are
+	created. Assemblies have also strong names niw
+	* Uiml/Rendering/BackendFactory.cs: Dynamically loads assemblies containing the backend
+	renderers and creates the requested renderer if possible.
+	* Uiml/uiml.net.snk: added strong name key pair for uiml.net.[exe|dll]
+	* Uiml/Rendering/GTKsharp/uiml-gtk-sharp.snk: added strong name key pair for 
+	uiml-gtk-sharp.dll
+	* Uiml/Rendering/WXnet/uiml-wx-net.snk: added strong name key pair for 
+	uiml-wx-net.dll
+	* Cleaned ip some Wx.NET issues, but still having problems with finding
+	libwx-c.so
+
+
+2004-08-06 Jo Vermeulen <jo.vermeulen@student.luc.ac.be>
+	* Uiml/Executing/Binding/UimlEventHandlerAttribute.cs:
+	* Uiml/Executing/Binding/UimlEventArgs.cs:
+	* Uiml/Part.cs: Changed the UimlEventHandler attribute to receive
+	at least one string as arguments
+
+2004-08-04 Kris Luyten <kris.luyten@luc.ac.be>
+	* Uiml/UimlDocument.cs: added UimlDocument(fileName) constructor
+
+2004-08-03 Jo Vermeulen <jo.vermeulen@student.luc.ac.be>
+	* Big check in of connectivity code
+	* Uiml/Rendering/SWF/:
+	* Uiml/Rendering/CompactSWF/:
+	* Uiml/vocabularies/cswf-1.0.uiml:  
+	* Uiml/vocabularies/swf-1.1.uiml: Changed these files to add a property
+	to List and Tree for adding a single element
+	* Uiml/Peers/Vocabulary.cs
+	* Uiml/UimlDocument.cs:
+	* Uiml/Part.cs:
+	* Uiml/Executing/Rule.cs:
+	* Uiml/Executing/Call.cs:
+	* Uiml/Executing/Action.cs: added support for Glade-like connectivity in
+	these classes
+	* Uiml/Executing/Binding/UimlEventArgs.cs: first check in, this class is
+	used to transfer arguments from the UIML document to the application
+	* Uiml/Executing/Binding/UimlEventHandlerAttribute.cs: first check in, this
+	class is used for marking which methods are to be connected with the UIML
+	document. It contains optional arguments: an event class and a number of
+	part identifiers. The Part instances corresponding with the identifiers
+	will be transferred in the UimlEventArgs argument.
+
+2004-07-28 Jo Vermeulen <jo.vermeulen@student.luc.ac.be>
+	* Uiml/Executing/EventHandlerAttribute.cs: added a simple EventHandler
+	attribute for binding the application logic with the UIML document.
+
+2004-07-27 Jo Vermeulen <jo.vermeulen@student.luc.ac.be>
+	* Uiml/vocabularies/gtk-sharp-1.0.uiml: Added basic support for tabs
+	* Uiml/vocabularies/swf-1.1.uiml: Added support for tabs.
+	* Uiml/vocabularies/cswf-1.0.uiml: Added support for tabs.
+	* Uiml/Rendering/GTKsharp/GtkRenderer.cs: Updated the LoadAdHocProperties
+	method to set the label of a TabPage. This currently doesn't work though.
+	* Uiml/examples/tabs.uiml: GTKsharp tabs example.
+	* Uiml/examples/swfTabs.uiml: SWF tabs example.
+	* Uiml/examples/cswfTabs.uiml: Compact SWF example.
+
+2004-07-26 Jo Vermeulen <jo.vermeulen@student.luc.ac.be>
+	* Uiml/: added preprocessing directives to support compiling for the .NET
+	Compact platform. To do this, define "COMPACT" when invoking the compiler
+	* Uiml/vocabularies/cswf-1.0.uiml: thoroughly checked the vocabulary for
+	compatibility with the Compact .NET SWF widget set
+	* Uiml/vocabularies/cswf-1.0.uiml: a few wrong mappings, which I stumbled
+	upon when working on the cswf-1.0 vocabulary, were fixed
+	* Uiml/Rendering/CompactSWF/CompactSWFRenderer.cs: Added LoadAdHocProperties
+	method to emulate Items.AddRange method for ComboBox, ListBox and List
+	classes
+	* Uiml/Rendering/Renderer.cs: Changed calling order of Load[..]Properties
+	methods. The LoadAdHocProperties method is called first now
+	* Uiml/examples/helloworldEvent.uiml: I added a simple Hello World! GTK# 
+	event example 
+
+2004-07-23 Jo Vermeulen <jo.vermeulen@student.luc.ac.be>
+	* Transition to the new vocabulary class:
+	* Updated the license to GNU LGPL on all files
+	* Uiml/Peers/: updated all peers element classes and added the vocabulary
+	class. The new datastructure for querying the vocabulary should be complete
+	now. The CustomVocabulary class was also moved to this namespace. The DParam
+	class inherits from Param now
+	* Uiml/: lots of changes to complete the transition to the new vocabulary
+	BaseVocabulary.cs was removed, while other classes now reference the
+	Peers/Vocabulary class
+	* Uiml/Executing/: some small changes to Call.cs to improve exception handling
+	* Uiml/Rendering/: updated the Renderer and IRenderer classes to use the new
+	vocabulary. Changed all method calls on the vocabulary to the correct ones.
+	* First check in of new Compact SWF rendering backend:
+	* Uiml/Rendering/CompactSWF/: rendering backend classes
+	* vocabularies/cswf-1.0.uiml: CompactSWF vocabulary
+	* examples/cswfHello.uiml: CompactSWF version of swfHello.uiml
+	* examples/cswfCalculator.uiml: CompactSWF version of the calculator
+	example
+
+2004-07-19 Jo Vermeulen <jo.vermeulen@student.luc.ac.be>
+	* Uiml/Peers/: initial check in of the peers element classes. These
+	define a one-to-one mapping to the UIML structure. They will be used by a
+	datastructure which will eventually replace the XPath expressions we
+	currently depend on for parsing the vocabulary. This is necessary for a port
+	to .NET Compact since this version of the framework does not support XPath.
+	* Uiml/Process.cs: updated enums to improve consistency
+	* Uiml/UimlAttributes.cs: updated enums to improve consistency 
+
+2004-07-16 Jo Vermeulen <jo.vermeulen@student.luc.ac.be>
+	* Uiml/Rendering/SWF/SWFRenderer.cs: added dynamic loading of
+	System.Drawing.dll assembly
+	* Uiml/uiml.net.build: updated to support building on MS .NET. However, you
+	must edit the Rendering/BackendFactory.cs file manually to use SWF.
+
+2004-07-15 Jo Vermeulen <jo.vermeulen@student.luc.ac.be>
+	* examples/: added SWF equivalents of the copy.uiml and calculator.uiml
+	examples and a new example (swfComboEvent) illustrating other events than 
+	the ButtonPressed event
+	* vocabularies/swf-1.1.uiml: now has roughly the same support for events as the
+	GTK# vocabulary
+
+2004-07-14 Jo Vermeulen <jo.vermeulen@student.luc.ac.be>
+	* vocabularies/swf-1.1.uiml: updated vocabulary to solve some compatibility
+	issues between the SWF and GTK# vocabularies. Also added basic support for
+	event handling on some widgets
+	* examples/: updated examples to reflect changes in vocabulary. Added a
+	few examples illustrating event handling (swfHello, swfFillText, and
+	swfChangeTheButton)
+	* Uiml/Rendering/SWF/SWFEventLink.cs: first check in SWF Event Link class to
+	build the behaviour subtree
+	* Uiml/Rendering/SWF/SWFEventLinker.cs: first check in Adaptor class to call
+	Condition.Execute with the SWF arguments
+	* Uiml/Constant.cs: renamed NoChildren to HasChildren and changed the 
+	implementation accordingly
+	* Uiml/Rendering/SWF/SWFRenderer.cs: cleaned up the code and added some 
+	todo's. Wrote a few lines to use the SWFEventLinker class
+	* Uiml/Rendering/SWF/SWFRenderedInstance.cs: cleaned up the code
+	* Uiml/Rendering/SWF/SWFTypeDecoder.cs: updated to reflect the changes in 
+	Constant.cs
+
+2004-07-13 Jo Vermeulen <jo.vermeulen@student.luc.ac.be>
+	* vocabularies/swf-1.1.uiml: added frequently used widgets to bring the SWF
+	backend on a par with the GTK	backend: ToggleButton, ListBox, List, Tree, 
+	Text, HorizontalScroll, VerticalScroll, HorizontalRange, VerticalRange and 
+	Calendar. Also renamed the label property in the Label class to the text 
+	property.
+	* examples/: has examples for all swf widgets now and the big blog example
+	* Uiml/Rendering/SWF/SWFTypeDecoder.cs: added decoders for some SWF enums 
+	such as ScrollBars, Appearance, SelectionMode, View, Orientation and 
+	TickStyle. Also added decoders for System.DateTime and SWF ListViewItem[] 
+	and TreeNode[] arrays. Refactored and cleaned up the code.
+	* Uiml/Constant.cs: added two properties: ChildCount and NoChildren to 
+	provide information about a constant's list of children. This was useful for
+	implementing the TreeNode[] decoder
+
+2004-07-09 Kris Luyten <kris.luyten@luc.ac.be>
+	* Initial System.Windows.Forms rendering code checked in. Contributed
+	by Jo Vermeulen <jo.vermeulen@student.luc.ac.be>:
+	* Uiml/Rendering/SWF/SWFRenderedInstance.cs: initial check in SWF Rendering
+	container
+	* Uiml/Rendering/SWF/SWFRenderer.cs: initial check in SWF Rendering engine
+	* Uiml/Rendering/SWF/SWFTypeDecoder.cs: initial check in SWF Type convertor
+	* vocabularies/: holds all vocabularies now
+	* vocabularies/swf-1.1.uiml: initial check in swf vocabulary
+	* Uiml/Rendering/Renderer.cs: fixed ApplyProperties to use correct target
+	(Jo Vermeulen)
+
+2004-06-21 Kris Luyten <kris.luyten@luc.ac.be>
+	* Works with the gac installation now
+	* Mostly API fixes
+	* Added examples to the sourceforge repository
+
+
+2004-01-29 Kris Luyten <kris.luyten@luc.ac.be>
+	* Embedded scripting is possible now. E.g. one can specify in
+	  the behavior of the interface:
+	  	<call>
+			<script type="Visual Basic">
+				imports System
+				imports System.Collections
+				Public Module ReadTextFile
+					Public Sub Main ()
+						Console.WriteLine ("Visual Basic says: Hello World!")
+					End Sub
+				End Module
+			</script>
+		</call>
+	   This is a first step towards supporting the script in the peer section.
+		The scripts can be written in C#, Visual Basic (and in JScript when Mono
+		supports it). The code will be compiled on-the-fly and stored in memory!
+		This kind of behavior is not included in the UIML specification!!!
+	* Added some classes: Reference, Content. Support for the reference is
+	almost implemented
+	* Changed the toplevel Interface: it now reflects <!ELEMENT interface (structure|style|content|behavior)*>
+	instead of <!ELEMENT interface (structure|style|behavior)> 
+	
+
+
+2004-01-22 Kris Luyten <kris.luyten@luc.ac.be>
+	* Added preliminary support for List and Tree
+	* Uiml/gtk-sharp-1.0.uiml: Added Tree and List mappings
+	* Uiml/Renderering/Renderer.cs: Refactored LoadAdHocProperties for handling
+	backend specific property setters
+	* Uiml/Rendering/GTKsharp/GtkTypeDecoder.cs: Type conversions for
+	Gtk.TreeStore and Gtk.ListStore implemented
+	* Uiml/Rendering/GTKsharp/GtkRenderedInstance.cs: updated so that the
+	custom widget uses the new syntax for type registration 
+
+2004-01-02 Kris Luyten <kris.luyten@luc.ac.be>
+	* Uiml/Rendering/Renderer.cs: Refactored GtkRenderer.cs and WxRenderer.cs:
+	Isolated the general functionality (widget-set independent) into
+	Renderer.cs
+	* Uiml/Rendering/Renderer.cs: added some comments for documentation
+	generation
+	* Uiml/wx-net-1.0.uiml: removed wrong mapping
+
+2003-12-24 Kris Luyten <kris.luyten@luc.ac.be>
+	* Extended Wx.NET backend support
+	* Uiml/Rendering/WXnet/WxRenderer: Simple layout constructions added:
+	(Horizontal and Vertical) BoxSizer. Added CreateLayoutWithParams to support
+	this
+	* Uiml/wx-net-1.0.uiml: extending the vocabulary
+	* Uiml/Style.cs: GetNamedProperties: Fixed order independence of parameters
+
+
+2003-12-18 Kris Luyten <kris.luyten@luc.ac.be>
+	* Uiml/Rendering/WXnet/WxRenderer: CreateWithParams is default
+	widget construction method
+	* Uiml/Rendering/WXnet/WxRenderedInstace: Container is created
+	in WxRenderedInstance constructor
+	* wx.Button works, other widgets to come
+
+2003-12-17 Kris Luyten <kris.luyten@luc.ac.be>
+	* Uiml/Rendering: Added Factory for creating appropriate backend
+	(BackendFactory.cs). 
+	* Uiml/Rendering/GTKsharp/: Initial support for event loggers (not working
+	yet)
+	* Uiml/Rendering/WXnet/: Wx.Net backend getting closer to worjun code
+	* Various Small fixes, better error output, new examples
+	* Initial Support for Vertical and Horizontal Range Indicators
+
+2003-11-17 Kris Luyten <kris.luyten@luc.ac.be>
+	* Uiml/UimlTool.cs: replaces the class Uiml2GtkSharp. It reflects Gtk is
+	just a backend instead of the only possible widget set.
+	* Uiml/ExternalLibraries.cs: Singleton object for managing all loaded
+	assemblies. 
+	* Uiml/Rendering/GTKsharp/GtkRenderer.cs: The GTK# backend renderer now
+	uses the ExternalLibraries class for adding gtk specific assemblies 
+	* Uiml/IUimlElement.cs: replaces and extends IUmlProcessor
+	* Uiml/Logic.cs: duplicates code of vocabulary to allow custom logic
+	sections
+	* Uiml/Executing/Call.cs: cleanups and can use other (custom defined) logic sections 
+	besides the standard vocabulary mappings
+	* examples/calculator.uiml: updated to show of loading assemblies from the
+	command line and to show how mappings from a logic section onto the native
+	functions provided in a dll work.
+	* Many other things have been done. The code is sprinkled with
+	"AttachLogic" methods (will be redesigned to have a more generic approach
+	later on). Better error messages are provided (but still needs some work).
+	
+	
+
+2003-11-09 Kris Luyten <kris.luyten@luc.ac.be>
+	* Uiml/Rendering/GTKsharp/GtkTypeDecoder.cs: Support for converting
+	ArrayList into GLib.List has been added
+	* Uiml/Constant.cs: Implemented support for constant values (and lists)
+	inside properties
+	* Uiml/gtk-sharp-1.0.uiml: added support for Combo widget
+	* Various bugfixes and sometimes better error messages are provided now
+
+2003-11-02 Kris Luyten <kris.luyten@luc.ac.be>
+	* Uiml/Rendering/GtkRenderer: Property values can now be queried
+	* Uiml/Executing/Action: properties and calls are supported now
+	* Uiml/Executing/Param: a property can also be a param
+	* Uiml/Property: Added distinction between property "getters" and "setters"
+	* Most of the above mentioned changes work for string and only if supported
+	by C# Properties on the concrete widgets. More testing is necessary
+	* Uiml/Part: SearchPart supports queries for specific parts
+
+
+2003-10-27 Kris Luyten <kris.luyten@luc.ac.be>
+	* Simple condition-action rules are supported nw
+	* Uiml/Renderering/GTKsharp/GtkEvenLinker.cs: new class for building the behavior subtree
+	* Uiml/Renderering/GTKsharp/GtkEventLink.cs: Adaptor class for calling Condition.Execute without 
+	the Gtk arguments. This class can also be extended to generate more
+	information, e.g. event statistics.
+	* examples/change-the-button* :  example file for simple event handling
+	* Uiml/gtk-sharp-1.0.uiml: added an entry to get the Button click event
+	supported
+
+
+2003-10-19 Kris Luyten <kris.luyten@luc.ac.be>
+	* call element implementation now supports static methods, properties and
+	fields
+	* Besides class types, the d-component specification in the vocabulary now
+	also support structures.
+	* Some more code for the action element has been written, but is far from
+	functional.
+
+2003-10-09 Kris Luyten <kris.luyten@luc.ac.be>
+	* Initial support for call element
+	* logic element is supported by Vocabulary 
+	* Properties can be "lazy" now: their value can be set by call elements
+	* Param elements can be nested 
+	* Various bugfixes
+
+2003-09-26 Kris Luyten <kris.luyten@luc.ac.be>
+	* Initial release
+	* Still lots and lots and lots things to do

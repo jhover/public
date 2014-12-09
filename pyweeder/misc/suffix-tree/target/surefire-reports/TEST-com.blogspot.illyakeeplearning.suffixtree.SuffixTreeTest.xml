@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.016" errors="0" skipped="0" tests="1" name="com.blogspot.illyakeeplearning.suffixtree.SuffixTreeTest">
+  <properties>
+    <property name="java.vendor" value="Sun Microsystems Inc."/>
+    <property name="localRepository" value="C:\Documents and Settings\Administrator\.m2\repository"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Server Compiler"/>
+    <property name="env.COMMANDER_DRIVE" value="C:"/>
+    <property name="env.PROMPT" value="$P$G"/>
+    <property name="env.COMMANDER_PATH" value="C:\Program Files (x86)\totalcmd"/>
+    <property name="os.name" value="Windows 2003"/>
+    <property name="env.FP_NO_HOST_CHECK" value="NO"/>
+    <property name="sun.boot.class.path" value="D:\soft\jdk1.6.0_07\jre\lib\resources.jar;D:\soft\jdk1.6.0_07\jre\lib\rt.jar;D:\soft\jdk1.6.0_07\jre\lib\sunrsasign.jar;D:\soft\jdk1.6.0_07\jre\lib\jsse.jar;D:\soft\jdk1.6.0_07\jre\lib\jce.jar;D:\soft\jdk1.6.0_07\jre\lib\charsets.jar;D:\soft\jdk1.6.0_07\jre\classes"/>
+    <property name="env.COMPUTERNAME" value="DREAM2"/>
+    <property name="env.ALLUSERSPROFILE" value="C:\Documents and Settings\All Users"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="java.runtime.version" value="1.6.0_07-b06"/>
+    <property name="env.MOZ_HOME" value="D:\soft\MozillaParser;D:\soft\MozillaParser\mozilla;D:\soft\MozillaParser\mozilla\components;"/>
+    <property name="env.HOMEPATH" value="\Documents and Settings\Administrator"/>
+    <property name="user.name" value="Administrator"/>
+    <property name="env.QTJAVA" value="D:\soft\jdk1.6.0_10-x32\jre\lib\ext\QTJava.zip"/>
+    <property name="user.language" value="en"/>
+    <property name="sun.boot.library.path" value="D:\soft\jdk1.6.0_07\jre\bin"/>
+    <property name="classworlds.conf" value="D:\soft\apache-maven-2.0.9\bin\..\bin\m2.conf"/>
+    <property name="env.ClusterLog" value="C:\WINDOWS\Cluster\cluster.log"/>
+    <property name="java.version" value="1.6.0_07"/>
+    <property name="env.PROCESSOR_IDENTIFIER" value="EM64T Family 6 Model 23 Stepping 10, GenuineIntel"/>
+    <property name="user.timezone" value="Europe/Helsinki"/>
+    <property name="env.CLIENTNAME" value="Console"/>
+    <property name="env.TEMP" value="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="env.BDSCOMMONDIR" value="C:\Documents and Settings\All Users\Documents\RAD Studio\5.0"/>
+    <property name="java.endorsed.dirs" value="D:\soft\jdk1.6.0_07\jre\lib\endorsed"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="env.HOMEDRIVE" value="C:"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="50.0"/>
+    <property name="user.country" value="GB"/>
+    <property name="java.home" value="D:\soft\jdk1.6.0_07\jre"/>
+    <property name="env.APPDATA" value="C:\Documents and Settings\Administrator\Application Data"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="env.ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="env.OS" value="Windows_NT"/>
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="os.version" value="5.2"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="10.0-b23"/>
+    <property name="env.USERPROFILE" value="C:\Documents and Settings\Administrator"/>
+    <property name="user.variant" value=""/>
+    <property name="env.JAVA_HOME" value="D:\soft\jdk1.6.0_07"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="env.TMP" value="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="env.SAN_DIR" value="C:\Program Files\SiSoftware\SiSoftware Sandra Lite 2009"/>
+    <property name="user.home" value="C:\Documents and Settings\Administrator"/>
+    <property name="env.SESSIONNAME" value="Console"/>
+    <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="env.CLASSPATH" value=".;D:\soft\jdk1.6.0_10-x32\jre\lib\ext\QTJava.zip"/>
+    <property name="env.M2_HOME" value="D:\soft\apache-maven-2.0.9\bin\.."/>
+    <property name="env.NUMBER_OF_PROCESSORS" value="2"/>
+    <property name="java.library.path" value="D:\soft\jdk1.6.0_07\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\soft\oracle32\product\11.1.0\client_1\bin;D:\soft\oracle\11.1.0\client_1\bin;D:\PROJECTS\CodeGear\bin;C:\Documents and Settings\All Users\Documents\RAD Studio\5.0\Bpl;C:\Program Files (x86)\PC Connectivity Solution\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Common Files\Adobe\AGL;D:\soft\oracle32\product\11.1.0\client_1\bin;D:\soft\oracle\11.1.0\client_1\bin;D:\PROJECTS\CodeGear\bin;C:\Documents and Settings\All Users\Documents\RAD Studio\5.0\Bpl;C:\Program Files (x86)\PC Connectivity Solution\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Common Files\Adobe\AGL;D:\soft\jdk1.6.0_07\bin;D:\soft\apache-ant-1.7.1\bin;D:\soft\apache-maven-2.0.9\bin;D:\soft\MozillaParser;D:\soft\MozillaParser\mozilla;D:\soft\MozillaParser\mozilla\components;;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\"/>
+    <property name="java.vendor.url" value="http://java.sun.com/"/>
+    <property name="env.MAVEN_CMD_LINE_ARGS" value="test"/>
+    <property name="java.vm.vendor" value="Sun Microsystems Inc."/>
+    <property name="maven.home" value="D:\soft\apache-maven-2.0.9\bin\.."/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.class.path" value="D:\soft\apache-maven-2.0.9\bin\..\boot\classworlds-1.1.jar"/>
+    <property name="env.MAVEN_JAVA_EXE" value="&quot;D:\soft\jdk1.6.0_07\bin\java.exe&quot;"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="env.windir" value="C:\WINDOWS"/>
+    <property name="env.LOGONSERVER" value="\\DREAM2"/>
+    <property name="java.vm.specification.version" value="1.0"/>
+    <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="sun.os.patch.level" value="Service Pack 2"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="env.HOME" value="C:\Documents and Settings\Administrator"/>
+    <property name="env.ProgramFiles" value="C:\Program Files"/>
+    <property name="surefire.test.class.path" value="D:\PROJECTS\illya\algorithms\suffix-tree\target\test-classes;D:\PROJECTS\illya\algorithms\suffix-tree\target\classes;C:\Documents and Settings\Administrator\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.io.tmpdir" value="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\"/>
+    <property name="env.PROCESSOR_REVISION" value="170a"/>
+    <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
+    <property name="env.SystemRoot" value="C:\WINDOWS"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.ext.dirs" value="D:\soft\jdk1.6.0_07\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="D:\PROJECTS\illya\algorithms\suffix-tree"/>
+    <property name="env.JSHOMEDIR" value="D:\PROJECTS\Viewcade\Miwok\gigaspaces-xap-6.5.0-ga"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="env.CLASSWORLDS_JAR" value="&quot;D:\soft\apache-maven-2.0.9\bin\..\boot\classworlds-1.1.jar&quot;"/>
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH"/>
+    <property name="env.Path" value="D:\soft\oracle32\product\11.1.0\client_1\bin;D:\soft\oracle\11.1.0\client_1\bin;D:\PROJECTS\CodeGear\bin;C:\Documents and Settings\All Users\Documents\RAD Studio\5.0\Bpl;C:\Program Files (x86)\PC Connectivity Solution\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Common Files\Adobe\AGL;D:\soft\oracle32\product\11.1.0\client_1\bin;D:\soft\oracle\11.1.0\client_1\bin;D:\PROJECTS\CodeGear\bin;C:\Documents and Settings\All Users\Documents\RAD Studio\5.0\Bpl;C:\Program Files (x86)\PC Connectivity Solution\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Common Files\Adobe\AGL;D:\soft\jdk1.6.0_07\bin;D:\soft\apache-ant-1.7.1\bin;D:\soft\apache-maven-2.0.9\bin;D:\soft\MozillaParser;D:\soft\MozillaParser\mozilla;D:\soft\MozillaParser\mozilla\components;;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\"/>
+    <property name="env.PGLOCALEDIR" value="C:\Program Files (x86)\PostgreSQL\8.3\share\locale"/>
+    <property name="basedir" value="D:\PROJECTS\illya\algorithms\suffix-tree"/>
+    <property name="env.ERROR_CODE" value="0"/>
+    <property name="env.USERNAME" value="Administrator"/>
+    <property name="env.SystemDrive" value="C:"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="env.USERDOMAIN" value="DREAM2"/>
+    <property name="env.COMMANDER_INI" value="C:\WINDOWS\WINCMD.INI"/>
+    <property name="java.specification.version" value="1.6"/>
+    <property name="env.PROCESSOR_LEVEL" value="6"/>
+  </properties>
+  <testcase time="0.016" classname="com.blogspot.illyakeeplearning.suffixtree.SuffixTreeTest" name="testSuffixTree"/>
+</testsuite>

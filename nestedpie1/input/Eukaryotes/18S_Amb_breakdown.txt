@@ -1,0 +1,156 @@
+1	AY357262	Eukaryota; Fungi; Ascomycota; mitosporic Ascomycota; Anguillospora
+1	AJ496240	Eukaryota; Fungi; Ascomycota; mitosporic Ascomycota; Hyphozyma
+5	U04233		Eukaryota; Fungi; Ascomycota; Pezizomycotina; Dothideomycetes; Pleosporales; Leptosphaeriaceae; Leptosphaeria; Leptosphaeria
+26	U42666		Eukaryota; Fungi; Ascomycota; Pezizomycotina; Pezizomycetes; Pezizales; Pezizaceae; Cazia
+1	AF054899	Eukaryota; Fungi; Ascomycota; Pezizomycotina; Pezizomycetes; Pezizales; Pezizaceae; Pachyphloeus
+10	AF287835	Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Homobasidiomycetes; Agaricales; Cortinariaceae; Inocybe
+8	AY665780	Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Homobasidiomycetes; Agaricales; Schizophyllaceae; Grifola
+33	AF287838	Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Homobasidiomycetes; Agaricales; Tricholomataceae; Laccaria
+4	AJ496255	Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Homobasidiomycetes; Agaricales; Tricholomataceae; mitosporic Tricholomataceae; Asterophora
+1	AY771599	Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Homobasidiomycetes; Agaricales; Tricholomataceae; Rickenella
+1	U09535		Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Homobasidiomycetes; Agaricales; Tricholomataceae; unclassified Tricholomataceae
+1	AF518586	Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Homobasidiomycetes; Aphyllophorales; Corticiaceae; Punctularia
+1	AY705969	Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Homobasidiomycetes; Aphyllophorales; Ganodermataceae; Ganoderma
+15	AY278769	Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Homobasidiomycetes; Boletales; Boletineae; Boletaceae; Boletus
+1	AY757266	Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Homobasidiomycetes; Ceratobasidiales; Ceratobasidiaceae; Ceratobasidium
+10	AY946268	Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Homobasidiomycetes; Ceratobasidiales; Ceratobasidiaceae; Thanatephorus
+3	AY771601	Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Homobasidiomycetes; Phallales; Phallaceae; Phallus
+18	AF026627	Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Homobasidiomycetes; Thelephorales; Thelephoraceae; Thelephora
+9	AY766081	Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Heterobasidiomycetes; Heterobasidiomycetidae; Sebacinales; Sebacinaceae; Tremellodendron
+1	AB032665	Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Heterobasidiomycetes; Tremellomycetidae; Cystofilobasidiales; Cystofilobasidiaceae; Mrakia
+7	AB075546	Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Heterobasidiomycetes; Tremellomycetidae; Filobasidiales; Filobasidiaceae; Filobasidium
+10	AB032649	Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Heterobasidiomycetes; Tremellomycetidae; Filobasidiales; mitosporic Filobasidiales; Cryptococcus
+2	AB032645	Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Heterobasidiomycetes; Tremellomycetidae; Tremellales; mitosporic Tremellales; Cryptococcus
+12	AB035587	Eukaryota; Fungi; Basidiomycota; Hymenomycetes; Heterobasidiomycetes; Tremellomycetidae; Trichosporonales; Cryptococcus
+8	AB126647	Eukaryota; Fungi; Basidiomycota; Urediniomycetes; Erythrobasidium clade; Rhodotorula
+1	AY123323	Eukaryota; Fungi; Basidiomycota; Urediniomycetes; Urediniomycetidae; Platygloeales; Eocronartiaceae; Eocronartium
+9	AY601710 	Eukaryota; Fungi; Chytridiomycota; Chytridiales; Chytridiaceae; Rhizophydium
+1	AF164245	Eukaryota; Fungi; Chytridiomycota; Spizellomycetales; Olpidiaceae; Powellomyces
+2	AF164247	Eukaryota; Fungi; Chytridiomycota; Spizellomycetales; Spizellomycetaceae; Gaertneriomyces
+8	AJ276081	Eukaryota; Fungi; Glomeromycota; Glomeromycetes; Paraglomerales; Paraglomeraceae; Paraglomus
+2	AF368504	Eukaryota; Fungi; Zygomycota; Zygomycetes; Entomophthorales; Basidiobolaceae; Basidiobolus
+59	AF157143	Eukaryota; Fungi; Zygomycota; Zygomycetes; Mortierellales; Mortierellaceae; Mortierella
+
+
+1	AF457127	Eukaryota; Alveolata; Apicomplexa; Gregarinia; Eugregarinida; Monocystidae; Monocystis
+11	M97908		Eukaryota; Alveolata; Ciliophora; Colpodea; Colpodida; Colpodidae; Colpoda
+4	AF060452	Eukaryota; Alveolata; Ciliophora; Colpodea; Cyrtolophosidida; Grossglockneriidae; Pseudoplatyophrya
+1	AF060454	Eukaryota; Alveolata; Ciliophora; Colpodea; Cyrtolophosidida; Woodruffiidae; Platyophrya
+6	AY297715	Eukaryota; Alveolata; Ciliophora; Oligohymenophorea; Scuticociliatia; Philasterida; Philasteridae; Paralembus
+5	AF300282	Eukaryota; Alveolata; Ciliophora; Phyllopharyngea; Cyrtophorida; Chilodonella
+20	AJ310493	Eukaryota; Alveolata; Ciliophora; Spirotrichea; Stichotrichia; Stichotrichida; Oxytrichidae; Gonostomum
+8	AY498654	Eukaryota; Alveolata; Ciliophora; Spirotrichea; Stichotrichia; Stichotrichida; Oxytrichidae; Orthamphisiella
+1	AF080096	Eukaryota; Alveolata; Dinophyceae; Blastodiniales; Oodiniaceae; Amyloodinium
+
+
+8	AF411276	Eukaryota; Cercozoa; Cercomonadida; Bodomorpha
+26	AY496047	Eukaryota; Cercozoa; Cercomonadida; Cercomonadidae; Cercomonas
+1	AY496048	Eukaryota; Cercozoa; Cercomonadida; Cercomonadidae; Neocercomonas
+1	AF411280	Eukaryota; Cercozoa; Cercomonadida; Spongomonas
+2	X77692		Eukaryota; Cercozoa; Euglyphida; Euglyphidae; Euglypha
+10	AJ418792	Eukaryota; Cercozoa; Euglyphida; Trinematidae; Trinema
+8	AY496043	Eukaryota; Cercozoa; Heteromitidae; Heteromita
+7	AJ514867	Eukaryota; Cercozoa; Lecythium
+10	AF411259	Eukaryota; Cercozoa; Thaumatomonadida; Thaumatomastigidae; Thaumatomonas
+
+
+1	AJ535147	Eukaryota; stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Thalassiophysales; Catenulaceae; Amphora
+1	AY485470	Eukaryota; stramenopiles; Bacillariophyta; Coscinodiscophyceae; Rhizosoleniophycidae; Rhizosoleniales; Rhizosoleniaceae; Proboscia
+2	AF243501	Eukaryota; stramenopiles; Bicosoecida; Adriamonas
+3	AF123301	Eukaryota; stramenopiles; Chrysophyceae; Ochromonadales; Ochromonadaceae; Epipyxis
+1	AB023070	Eukaryota; stramenopiles; Chrysophyceae; Ochromonadales; Ochromonadaceae; Poterioochromonas
+4	AJ236862	Eukaryota; stramenopiles; Chrysophyceae; Ochromonadales; Ochromonadaceae; Spumella
+6	AY295674	Eukaryota; stramenopiles; environmental samples
+1	AY872266	Eukaryota; stramenopiles; Labyrinthulida; Thraustochytriidae
+2	AJ238663	Eukaryota; stramenopiles; Oomycetes; Leptomitales; Apodachlya
+36	AJ238653	Eukaryota; stramenopiles; Oomycetes; Pythiales; Pythiaceae; Pythium
+2	AJ579339	Eukaryota; stramenopiles; Xanthophyceae; Mischococcales; Botryidiopsidaceae; Botrydiopsis
+
+
+7	AB183637	Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Chlamydomonadales; Chlamydomonadaceae; Brachiomonas
+10	AY220083	Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Chlamydomonadales; Chlamydomonadaceae; Chlamydomonad
+5	AF367859	Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Chlamydomonadales; Chlamydomonadales incertae sedis; Heterochlamydomonas
+8	AF514407	Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Chlorococcales; Chlorococcaceae; Chlorococcum
+3	AY377440	Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Gloeocystis
+5	AY195984	Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Sphaeropleales; Hydrodictyaceae; unclassified Hydrodictyaceae
+13	AB055800	Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Sphaeropleales; Scenedesmaceae; Coelastrella
+1	AB012847	Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Sphaeropleales; Scenedesmaceae; Scotiellopsis
+10	X63505		Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Chlorella
+1	AB017435	Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Coenocystis
+5	AB055866	Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Microthamniales; Stichococcus
+6	AB080310	Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Microthamniales; Trebouxia
+1	AB012845	Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Muriella
+10	z28971		Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Myrmecia
+2	AY422078	Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Paradoxia
+8	AJ243348	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Bryophyta; Bryopsida; Bryidae; Bryales; Bryaceae; Bryum
+4	Y08989		Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Bryophyta; Bryopsida; Dicranidae; Dicranales; Ditrichaceae; Ceratodon
+20	X89874		Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Bryophyta; Bryopsida; Dicranidae; Dicranales; Dicranaceae; Dicranum
+3	AF023681	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Bryophyta; Bryopsida; Dicranidae; Seligeriales; Seligeriaceae; Blindia
+7	X78889		Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Moniliformopses; Filicophyta; Filicopsida; Filicales; Adiantaceae; Adiantum
+5	AB088026	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Apiales; Araliaceae; Panax
+35	AF107576	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Asterales; Asteraceae; Mutisioideae; Mutisieae; Gerbera
+1	AJ236008	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Asterales; Goodeniaceae; Scaevola
+5	U66701		Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Dipsacales; Caprifoliaceae; Lonicera
+1	AF207027	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Caryophyllales; Caryophyllaceae; Stellaria
+5	AF206908	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Caryophyllales; Phytolaccaceae; Ercilla
+2	U42426		Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Cucurbitales; Datiscaceae; Datisca
+55	AJ011011	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Fabales; Fabaceae; Papilionoideae; Cicereae; Cicer
+1	AF525695	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Fabales; Fabaceae; Papilionoideae; Phaseoleae; Mucuna
+22	AF071069	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Fabales; Fabaceae; Papilionoideae; Trifolieae; Trifolium
+1	AF223066	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Rosales; Cannabaceae; Humulus
+2	AF168855 	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Joinvilleaceae; Joinvillea
+5	AJ272181	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; Pooideae; Triticeae; Triticum
+1	AJ553921	Eukaryota; Viridiplantae; Streptophyta; Zygnemophyceae; Desmidiales; Gonatozygaceae; Gonatozygon
+
+
+1	AF087128	Eukaryota; Rhodophyta; Bangiophyceae; Erythropeltidales; Compsopogonaceae; Compsopogon
+
+
+1	AF310898	Eukaryota; Plasmodiophorida; Plasmodiophoridae; Polymyxa
+
+
+1	AF022025	Eukaryota; Metazoa; Arthropoda; Chelicerata; Arachnida; Acari; Acariformes; Sarcoptiformes; Oribatida; Desmonomata; Trhypochthoniidae; Allonothrus
+6	Z26765		Eukaryota; Metazoa; Arthropoda; Hexapoda; Collembola; Arthropleona; Poduroidea; Hypogastruridae; Hypogastrura
+1	AY555522	Eukaryota; Metazoa; Arthropoda; Hexapoda; Collembola; Symphypleona; Katiannidae; Sminthurinus
+1	AF250103	Eukaryota; Metazoa; Arthropoda; Hexapoda; Insecta; Pterygota; Neoptera; Endopterygota; Coleoptera; Curculionidae; Molytinae; Hylobiini; Pachylobius
+16	AY593937	Eukaryota; Metazoa; Nematoda; Chromadorea; Monhysterida; Monhysteridae; Eumonhystera
+1	AJ875155	Eukaryota; Metazoa; Nematoda; Enoplea; Dorylaimida; Dorylaimina; Dorylaimoidea; Aporcelaimidae; Aporcelaiminae; Aporcelaimellus
+1	AY284788	Eukaryota; Metazoa; Nematoda; Enoplea; Dorylaimida; Dorylaimina; Dorylaimoidea; Nordiidae; Pungentinae; Pungentus
+2	AY284834	Eukaryota; Metazoa; Nematoda; Enoplea; Dorylaimida; Dorylaimina; Tylencholaimoidea; Tylencholaimidae; Tylencholaiminae; Tylencholaimus
+12	AY284727	Eukaryota; Metazoa; Nematoda; Enoplea; Enoplida; Tripyloidea; Prismatolaimidae; Prismatolaimus
+16	AJ439583	Eukaryota; Metazoa; Nematoda; Enoplea; Triplonchida; Diphtherophorina; Trichodoroidea; Trichodoridae; Trichodorus
+9	U70081		Eukaryota; Metazoa; Platyhelminthes; Turbellaria; Rhabdocoela; Typhloplanoida; Typhloplanidae; Rhynchomesostominae; Mesocastrada
+1	AY582119	Eukaryota; Metazoa; Tardigrada; Heterotardigrada; Echiniscidae; Pseudechiniscus
+
+
+11	AY183891	Eukaryota; Lobosea; Euamoebida; Vexilliferidae; Vexillifera
+1	AY294144	Eukaryota; Lobosea; Euamoebida; Vannellidae; Platyamoeba
+3	AY549564	Eukaryota; Lobosea; Leptomyxida; Flabellulidae; Ripidomyxa
+
+
+51	AF290540	Eukaryota; Cryothecomonas
+
+
+8	L37037		Eukaryota; Apusomonadidae; Apusomonas
+
+
+3	AF411284	Eukaryota; Granuloreticulosea; Athalamea; Gymnophrys
+
+
+8	AJ130850	Eukaryota; environmental samples
+
+
+3	AF084230	Eukaryota; Choanoflagellida; Codonosigidae; Monosiga
+1	Z34900		Eukaryota; Choanoflagellida; Codonosigidae; Sphaeroeca
+
+
+3	AF508269	Eukaryota; Cryptophyta; Cryptomonadaceae; Chroomonas
+
+
+8	AY102615	Eukaryota; Acanthamoebidae; Acanthamoeba
+
+
+1	AY268042	Eukaryota; Centroheliozoa; Heterophryidae; Chlamydaster
+
+
+1	AY336701	Eukaryota; Eccrinales; Eccrinaceae; Enterobryus

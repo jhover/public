@@ -1,0 +1,19 @@
+#!/usr/bin/perl
+#
+# Converts 
+#   Elev_16S_Archaea_HugenholtzClassification.txt
+#   Amb_16S_Archaea_HugenholtzClassification.txt
+#
+# into tab-separeated phylogentic level records, suitable for input
+#  into phylo-counter.scm
+#
+$_ = <>;   # skip header
+
+while ( <> )
+   {
+    chomp;
+    s/^.*Hugenholtz:Archaea; //;
+    @phylo = split( /; / );
+    print "", join( "\t", @phylo ), "\n";
+   }
+

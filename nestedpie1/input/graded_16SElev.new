@@ -1,0 +1,1512 @@
+Acidobacteria (56),
+	Acidobacteria (56),
+		Acidobacteriales (56),
+			Acidobacteriaceae (56),
+				Acidobacterium (56),
+					1009.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{65}
+					1021.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					1053.fasta.screen.Contig1 (1),	{89}{82}{77}{66}{44}
+					1095.fasta.screen.Contig1 (1),	{82}{75}{69}{52}{37}
+					1129.fasta.screen.Contig1 (1),	{91}{83}{79}{70}{45}
+					1166.fasta.screen.Contig1 (1),	{86}{79}{73}{60}{41}
+					1191.fasta.screen.Contig1 (1),	{39}{36}{30}{12}{12}
+					1222.fasta.screen.Contig1 (1),	{75}{68}{62}{41}{31}
+					1234.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{67}
+					1237.fasta.screen.Contig1 (1),	{90}{82}{77}{67}{44}
+					1239.fasta.screen.Contig1 (1),	{84}{77}{71}{56}{39}
+					1254.fasta.screen.Contig1 (1),	{90}{82}{77}{68}{44}
+					1257.fasta.screen.Contig1 (1),	{85}{77}{72}{57}{39}
+					1280.fasta.screen.Contig1 (1),	{59}{54}{47}{25}{21}
+					1290.fasta.screen.Contig1 (1),	{87}{80}{74}{61}{41}
+					1295.fasta.screen.Contig1 (1),	{94}{86}{82}{79}{49}
+					1298.fasta.screen.Contig1 (1),	{74}{67}{61}{40}{30}
+					1305.fasta.screen.Contig1 (1),	{43}{39}{34}{14}{13}
+					1315.fasta.screen.Contig1 (1),	{98}{88}{86}{86}{53}
+					1329.fasta.screen.Contig1 (1),	{91}{83}{78}{70}{45}
+					1363.fasta.screen.Contig1 (1),	{96}{87}{84}{83}{50}
+					1409.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					1413.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{59}
+					1421.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{59}
+					1423.fasta.screen.Contig1 (1),	{100}{90}{88}{88}{55}
+					1428.fasta.screen.Contig1 (1),	{30}{26}{22}{8}{8}
+					1473.fasta.screen.Contig1 (1),	{91}{83}{78}{70}{45}
+					1490.fasta.screen.Contig1 (1),	{91}{83}{78}{70}{45}
+					1532.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					1577.fasta.screen.Contig1 (1),	{95}{86}{83}{80}{49}
+					1734.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					1786.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					1793.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					1794.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					1802.fasta.screen.Contig1 (1),	{93}{85}{81}{76}{48}
+					1805.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					1810.fasta.screen.Contig1 (1),	{94}{86}{82}{79}{49}
+					1817.fasta.screen.Contig1 (1),	{97}{88}{86}{86}{52}
+					1826.fasta.screen.Contig1 (1),	{98}{89}{87}{87}{53}
+					1890.fasta.screen.Contig1 (1),	{80}{73}{67}{48}{35}
+					389.fasta.screen.Contig1 (1),	{82}{75}{69}{52}{37}
+					396.fasta.screen.Contig1 (1),	{94}{85}{81}{77}{48}
+					419.fasta.screen.Contig1 (1),	{79}{73}{66}{48}{35}
+					427.fasta.screen.Contig1 (1),	{87}{80}{74}{62}{41}
+					469.fasta.screen.Contig1 (1),	{87}{80}{75}{62}{42}
+					483.fasta.screen.Contig1 (1),	{55}{50}{44}{22}{19}
+					522.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{64}
+					526.fasta.screen.Contig1 (1),	{85}{77}{72}{57}{39}
+					571.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{78}
+					702.fasta.screen.Contig1 (1),	{93}{85}{81}{77}{48}
+					705.fasta.screen.Contig1 (1),	{98}{89}{86}{86}{53}
+					754.fasta.screen.Contig1 (1),	{36}{32}{28}{11}{10}
+					766.fasta.screen.Contig1 (1),	{95}{86}{83}{81}{50}
+					903.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{77}
+					912.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{60}
+					945.fasta.screen.Contig1 (1),	{89}{81}{76}{65}{43}
+Actinobacteria (226),
+	Actinobacteria (226),
+		Acidimicrobiales (2),
+			Acidimicrobiaceae (2),
+				Acidimicrobium (2),
+					1270.fasta.screen.Contig1 (1),	{65}{60}{53}{30}{25}
+					1467.fasta.screen.Contig1 (1),	{68}{62}{55}{33}{26}
+		Actinomycetales (197),
+			Acidothermaceae (4),
+				Acidothermus (4),
+					1057.fasta.screen.Contig1 (1),	{100}{92}{91}{91}{58}
+					1288.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{65}
+					1531.fasta.screen.Contig1 (1),	{44}{40}{35}{15}{14}
+					634.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+			Actinosynnemataceae (4),
+				Lentzea (2),
+					1594.fasta.screen.Contig1 (1),	{94}{85}{82}{77}{48}
+					946.fasta.screen.Contig1 (1),	{43}{39}{33}{14}{13}
+				Saccharothrix (2),
+					1010.fasta.screen.Contig1 (1),	{43}{39}{33}{14}{13}
+					1115.fasta.screen.Contig1 (1),	{76}{70}{63}{43}{32}
+			Cellulomonadaceae (2),
+				Cellulomonas (2),
+					1338.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{78}
+					1586.fasta.screen.Contig1 (1),	{41}{37}{32}{13}{12}
+			Corynebacteriaceae (1),
+				Corynebacterium (1),
+					409.fasta.screen.Contig1 (1),	{45}{40}{35}{15}{14}
+			Frankiaceae (2),
+				Frankia (2),
+					1157.fasta.screen.Contig1 (1),	{67}{62}{55}{33}{26}
+					1485.fasta.screen.Contig1 (1),	{94}{86}{82}{80}{49}
+			Geodermatophilaceae (3),
+				Geodermatophilus (3),
+					1818.fasta.screen.Contig1 (1),	{92}{84}{79}{72}{46}
+					405.fasta.screen.Contig1 (1),	{70}{64}{57}{35}{28}
+					974.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+			Kineosporiaceae (1),
+				Cryptosporangium (1),
+					621.fasta.screen.Contig1 (1),	{99}{89}{87}{87}{54}
+			Microbacteriaceae (2),
+				Agreia (1),
+					1333.fasta.screen.Contig1 (1),	{29}{26}{22}{8}{8}
+				Rathayibacter (1),
+					800.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+			Micrococcaceae (78),
+				Arthrobacter (78),
+					1012.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1019.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					1028.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1036.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1043.fasta.screen.Contig1 (1),	{100}{90}{89}{89}{56}
+					1044.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					1051.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{92}
+					1058.fasta.screen.Contig1 (1),	{100}{90}{88}{88}{55}
+					1067.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1107.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1123.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1139.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{92}
+					1148.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					1328.fasta.screen.Contig1 (1),	{96}{87}{84}{84}{51}
+					1375.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					1556.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1580.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1588.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1603.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1611.fasta.screen.Contig1 (1),	{100}{90}{88}{88}{55}
+					1643.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					1652.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1668.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1675.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1699.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{92}
+					1715.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1724.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{92}
+					1755.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1763.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1803.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1828.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1851.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1852.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1868.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1875.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					1892.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1907.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{92}
+					415.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					416.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					439.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					440.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					463.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					472.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					512.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					520.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					551.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{92}
+					559.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					560.fasta.screen.Contig1 (1),	{96}{87}{84}{84}{51}
+					576.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{92}
+					592.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					599.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					615.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					624.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					655.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					663.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					664.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					695.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					719.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					727.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					743.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					752.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{93}
+					759.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{92}
+					796.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					828.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					852.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{92}
+					857.fasta.screen.Contig1 (1),	{96}{87}{84}{84}{51}
+					860.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					883.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					884.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					899.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					931.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					939.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					940.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					956.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{92}
+					980.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					987.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					995.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					996.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+			Micromonosporaceae (4),
+				Actinoplanes (3),
+					1909.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{62}
+					556.fasta.screen.Contig1 (1),	{91}{83}{79}{71}{45}
+					725.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{64}
+				Pilimelia (1),
+					1626.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+			Microsphaeraceae (3),
+				Microsphaera (3),
+					1143.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{76}
+					897.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{64}
+					976.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{73}
+			Mycobacteriaceae (17),
+				Mycobacterium (17),
+					1014.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{80}
+					1026.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{79}
+					1032.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{90}
+					1104.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{76}
+					1126.fasta.screen.Contig1 (1),	{89}{81}{76}{65}{43}
+					1249.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{91}
+					1309.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					1525.fasta.screen.Contig1 (1),	{78}{72}{65}{46}{34}
+					1701.fasta.screen.Contig1 (1),	{72}{66}{60}{38}{29}
+					462.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{86}
+					604.fasta.screen.Contig1 (1),	{81}{75}{68}{51}{36}
+					791.fasta.screen.Contig1 (1),	{81}{74}{68}{51}{36}
+					815.fasta.screen.Contig1 (1),	{85}{78}{73}{58}{40}
+					823.fasta.screen.Contig1 (1),	{85}{78}{73}{59}{40}
+					831.fasta.screen.Contig1 (1),	{86}{78}{73}{59}{40}
+					839.fasta.screen.Contig1 (1),	{85}{78}{73}{59}{40}
+					847.fasta.screen.Contig1 (1),	{85}{78}{73}{59}{40}
+			Nocardiaceae (3),
+				Nocardia (2),
+					1087.fasta.screen.Contig1 (1),	{84}{77}{71}{56}{39}
+					808.fasta.screen.Contig1 (1),	{80}{73}{67}{48}{35}
+				Rhodococcus (1),
+					1353.fasta.screen.Contig1 (1),	{35}{31}{27}{10}{10}
+			Nocardioidaceae (4),
+				Aeromicrobium (1),
+					388.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{86}
+				Friedmanniella (1),
+					1601.fasta.screen.Contig1 (1),	{87}{80}{74}{61}{41}
+				Nocardioides (2),
+					502.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{87}
+					613.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{87}
+			Promicromonosporaceae (1),
+				Cellulosimicrobium (1),
+					1374.fasta.screen.Contig1 (1),	{81}{74}{68}{51}{36}
+			Pseudonocardiaceae (28),
+				Amycolatopsis (2),
+					1030.fasta.screen.Contig1 (1),	{97}{88}{85}{85}{51}
+					1349.fasta.screen.Contig1 (1),	{51}{46}{40}{19}{17}
+				Crossiella (4),
+					1007.fasta.screen.Contig1 (1),	{84}{77}{71}{56}{39}
+					454.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+					501.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					701.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{56}
+				Kibdelosporangium (1),
+					1536.fasta.screen.Contig1 (1),	{55}{50}{44}{22}{19}
+				Kutzneria (1),
+					1096.fasta.screen.Contig1 (1),	{99}{89}{87}{87}{54}
+				Saccharomonospora (3),
+					1391.fasta.screen.Contig1 (1),	{81}{75}{69}{51}{37}
+					1489.fasta.screen.Contig1 (1),	{84}{77}{71}{55}{38}
+					474.fasta.screen.Contig1 (1),	{97}{88}{85}{85}{51}
+				Saccharopolyspora (6),
+					1442.fasta.screen.Contig1 (1),	{92}{84}{80}{73}{47}
+					1450.fasta.screen.Contig1 (1),	{93}{84}{80}{74}{47}
+					1514.fasta.screen.Contig1 (1),	{92}{84}{80}{73}{47}
+					563.fasta.screen.Contig1 (1),	{94}{86}{82}{80}{49}
+					612.fasta.screen.Contig1 (1),	{82}{76}{70}{53}{37}
+					953.fasta.screen.Contig1 (1),	{74}{68}{61}{41}{31}
+				Thermobispora (11),
+					1052.fasta.screen.Contig1 (1),	{85}{78}{73}{59}{40}
+					1140.fasta.screen.Contig1 (1),	{86}{79}{73}{60}{41}
+					1683.fasta.screen.Contig1 (1),	{87}{79}{74}{61}{41}
+					1700.fasta.screen.Contig1 (1),	{87}{79}{74}{61}{41}
+					1772.fasta.screen.Contig1 (1),	{86}{79}{73}{60}{41}
+					1779.fasta.screen.Contig1 (1),	{86}{79}{73}{60}{41}
+					504.fasta.screen.Contig1 (1),	{87}{79}{74}{61}{41}
+					527.fasta.screen.Contig1 (1),	{87}{79}{74}{61}{41}
+					575.fasta.screen.Contig1 (1),	{86}{79}{73}{60}{41}
+					751.fasta.screen.Contig1 (1),	{87}{79}{74}{61}{41}
+					972.fasta.screen.Contig1 (1),	{87}{79}{74}{61}{41}
+			Sporichthyaceae (19),
+				Sporichthya (19),
+					1011.fasta.screen.Contig1 (1),	{96}{87}{85}{85}{51}
+					1260.fasta.screen.Contig1 (1),	{100}{90}{89}{89}{56}
+					1511.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{76}
+					1684.fasta.screen.Contig1 (1),	{96}{87}{85}{85}{51}
+					1707.fasta.screen.Contig1 (1),	{96}{87}{85}{85}{51}
+					1740.fasta.screen.Contig1 (1),	{96}{87}{85}{85}{51}
+					1764.fasta.screen.Contig1 (1),	{96}{87}{85}{85}{51}
+					1835.fasta.screen.Contig1 (1),	{96}{87}{85}{85}{51}
+					1860.fasta.screen.Contig1 (1),	{96}{87}{85}{85}{51}
+					1876.fasta.screen.Contig1 (1),	{96}{87}{85}{85}{51}
+					431.fasta.screen.Contig1 (1),	{96}{87}{85}{85}{51}
+					447.fasta.screen.Contig1 (1),	{96}{87}{85}{85}{51}
+					449.fasta.screen.Contig1 (1),	{100}{92}{91}{91}{58}
+					495.fasta.screen.Contig1 (1),	{96}{87}{85}{85}{51}
+					631.fasta.screen.Contig1 (1),	{96}{87}{85}{85}{51}
+					827.fasta.screen.Contig1 (1),	{96}{87}{84}{84}{51}
+					919.fasta.screen.Contig1 (1),	{93}{84}{80}{75}{47}
+					947.fasta.screen.Contig1 (1),	{96}{87}{85}{85}{51}
+					977.fasta.screen.Contig1 (1),	{90}{82}{77}{68}{44}
+			Streptomycetaceae (13),
+				Kitasatospora (1),
+					914.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{59}
+				Streptomyces (12),
+					1047.fasta.screen.Contig1 (1),	{99}{90}{88}{88}{55}
+					1088.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					1519.fasta.screen.Contig1 (1),	{88}{81}{76}{64}{43}
+					1837.fasta.screen.Contig1 (1),	{95}{86}{83}{81}{50}
+					446.fasta.screen.Contig1 (1),	{97}{88}{85}{85}{52}
+					491.fasta.screen.Contig1 (1),	{98}{89}{86}{86}{53}
+					667.fasta.screen.Contig1 (1),	{99}{89}{87}{87}{54}
+					691.fasta.screen.Contig1 (1),	{97}{88}{86}{86}{52}
+					700.fasta.screen.Contig1 (1),	{99}{89}{87}{87}{54}
+					853.fasta.screen.Contig1 (1),	{99}{90}{88}{88}{55}
+					873.fasta.screen.Contig1 (1),	{92}{84}{80}{73}{46}
+					882.fasta.screen.Contig1 (1),	{99}{90}{88}{88}{55}
+			Streptosporangiaceae (1),
+				Microtetraspora (1),
+					400.fasta.screen.Contig1 (1),	{97}{88}{85}{85}{52}
+			Thermomonosporaceae (7),
+				Actinomadura (5),
+					1250.fasta.screen.Contig1 (1),	{55}{50}{43}{22}{19}
+					1570.fasta.screen.Contig1 (1),	{97}{88}{85}{85}{51}
+					404.fasta.screen.Contig1 (1),	{97}{88}{86}{86}{52}
+					549.fasta.screen.Contig1 (1),	{83}{77}{71}{55}{38}
+					785.fasta.screen.Contig1 (1),	{82}{76}{70}{53}{37}
+				Thermomonospora (2),
+					1311.fasta.screen.Contig1 (1),	{73}{67}{61}{40}{30}
+					397.fasta.screen.Contig1 (1),	{70}{64}{57}{35}{28}
+		Bifidobacteriales (1),
+			Bifidobacteriaceae (1),
+				Parascardovia (1),
+					1406.fasta.screen.Contig1 (1),	{29}{26}{22}{8}{8}
+		Rubrobacterales (26),
+			Rubrobacteraceae (26),
+				Conexibacter (25),
+					1016.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					1046.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1188.fasta.screen.Contig1 (1),	{86}{79}{74}{60}{41}
+					1227.fasta.screen.Contig1 (1),	{91}{83}{79}{71}{45}
+					1229.fasta.screen.Contig1 (1),	{85}{78}{72}{58}{40}
+					1235.fasta.screen.Contig1 (1),	{91}{83}{78}{69}{45}
+					1243.fasta.screen.Contig1 (1),	{90}{82}{77}{68}{44}
+					1269.fasta.screen.Contig1 (1),	{75}{69}{63}{42}{32}
+					1332.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{76}
+					1386.fasta.screen.Contig1 (1),	{98}{89}{86}{86}{53}
+					1515.fasta.screen.Contig1 (1),	{86}{79}{74}{60}{41}
+					1533.fasta.screen.Contig1 (1),	{89}{81}{76}{66}{43}
+					1538.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{62}
+					1674.fasta.screen.Contig1 (1),	{100}{92}{91}{91}{58}
+					1693.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					1717.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					1750.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					1797.fasta.screen.Contig1 (1),	{92}{84}{79}{72}{46}
+					1913.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{64}
+					558.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+					564.fasta.screen.Contig1 (1),	{93}{85}{80}{75}{47}
+					645.fasta.screen.Contig1 (1),	{100}{92}{91}{91}{58}
+					658.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{85}
+					737.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{71}
+					750.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+				Rubrobacter (1),
+					894.fasta.screen.Contig1 (1),	{86}{79}{74}{60}{41}
+Bacteroidetes (68),
+	Flavobacteria (15),
+		Flavobacteriales (15),
+			Flavobacteriaceae (15),
+				Flavobacterium (14),
+					1027.fasta.screen.Contig1 (1),	{57}{52}{46}{23}{20}
+					1084.fasta.screen.Contig1 (1),	{58}{52}{46}{24}{20}
+					1366.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+					1459.fasta.screen.Contig1 (1),	{83}{76}{70}{54}{38}
+					1619.fasta.screen.Contig1 (1),	{57}{52}{46}{24}{20}
+					1787.fasta.screen.Contig1 (1),	{57}{52}{46}{23}{20}
+					1827.fasta.screen.Contig1 (1),	{57}{52}{46}{23}{20}
+					392.fasta.screen.Contig1 (1),	{57}{52}{46}{23}{20}
+					464.fasta.screen.Contig1 (1),	{57}{52}{46}{23}{20}
+					544.fasta.screen.Contig1 (1),	{57}{52}{46}{23}{20}
+					550.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{76}
+					629.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{88}
+					779.fasta.screen.Contig1 (1),	{56}{51}{44}{22}{19}
+					950.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{73}
+				Gelidibacter (1),
+					1558.fasta.screen.Contig1 (1),	{93}{85}{81}{76}{48}
+	Sphingobacteria (53),
+		Sphingobacteriales (53),
+			Crenotrichaceae (41),
+				Chitinophaga (40),
+					1055.fasta.screen.Contig1 (1),	{93}{85}{81}{77}{48}
+					1106.fasta.screen.Contig1 (1),	{45}{41}{35}{15}{14}
+					1137.fasta.screen.Contig1 (1),	{98}{89}{86}{86}{53}
+					1150.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{63}
+					1155.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					1171.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1213.fasta.screen.Contig1 (1),	{62}{57}{50}{28}{23}
+					1262.fasta.screen.Contig1 (1),	{49}{45}{39}{18}{16}
+					1286.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					1292.fasta.screen.Contig1 (1),	{63}{58}{51}{28}{23}
+					1294.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					1302.fasta.screen.Contig1 (1),	{100}{90}{89}{89}{56}
+					1318.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					1326.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					1334.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					1347.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					1369.fasta.screen.Contig1 (1),	{48}{44}{38}{17}{16}
+					1379.fasta.screen.Contig1 (1),	{64}{59}{52}{29}{24}
+					1408.fasta.screen.Contig1 (1),	{88}{81}{75}{64}{42}
+					1427.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+					1462.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1470.fasta.screen.Contig1 (1),	{100}{90}{89}{89}{56}
+					1478.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					1486.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					1494.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					1502.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					1510.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1512.fasta.screen.Contig1 (1),	{70}{64}{58}{36}{28}
+					1526.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1534.fasta.screen.Contig1 (1),	{100}{90}{89}{89}{56}
+					1629.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{59}
+					443.fasta.screen.Contig1 (1),	{100}{92}{91}{91}{58}
+					493.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{65}
+					585.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{64}
+					630.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{63}
+					710.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{60}
+					786.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+					802.fasta.screen.Contig1 (1),	{100}{90}{88}{88}{55}
+					854.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+					978.fasta.screen.Contig1 (1),	{92}{84}{80}{74}{47}
+				Rhodothermus (1),
+					1497.fasta.screen.Contig1 (1),	{75}{68}{62}{41}{31}
+			Flexibacteraceae (4),
+				Flectobacillus (1),
+					951.fasta.screen.Contig1 (1),	{88}{81}{76}{65}{43}
+				Sporocytophaga (3),
+					1042.fasta.screen.Contig1 (1),	{92}{84}{80}{74}{47}
+					1232.fasta.screen.Contig1 (1),	{90}{83}{78}{69}{45}
+					1475.fasta.screen.Contig1 (1),	{47}{42}{37}{16}{15}
+			Saprospiraceae (5),
+				Haliscomenobacter (3),
+					1424.fasta.screen.Contig1 (1),	{85}{78}{72}{58}{40}
+					1516.fasta.screen.Contig1 (1),	{36}{33}{28}{11}{10}
+					898.fasta.screen.Contig1 (1),	{94}{85}{81}{77}{48}
+				Lewinella (2),
+					1360.fasta.screen.Contig1 (1),	{48}{44}{38}{17}{16}
+					1393.fasta.screen.Contig1 (1),	{98}{89}{86}{86}{53}
+			Sphingobacteriaceae (3),
+				Pedobacter (2),
+					1461.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{85}
+					1613.fasta.screen.Contig1 (1),	{88}{80}{75}{63}{42}
+				Sphingobacterium (1),
+					1252.fasta.screen.Contig1 (1),	{90}{83}{78}{69}{45}
+Chlorobi (1),
+	Chlorobia (1),
+		Chlorobiales (1),
+			Chlorobiaceae (1),
+				Chlorobium (1),
+					414.fasta.screen.Contig1 (1),	{77}{70}{64}{44}{33}
+Cyanobacteria (1),
+	Cyanobacteria (1),
+		Deferribacterales (1),
+			1.1 (1),
+				Gloeobacter (1),
+					1005.fasta.screen.Contig1 (1),	{71}{65}{58}{36}{28}
+Firmicutes (43),
+	Bacilli (13),
+		Bacillales (10),
+			Alicyclobacillaceae (1),
+				Sulfobacillus (1),
+					603.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{68}
+			Bacillaceae (3),
+				Bacillus (2),
+					774.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{82}
+					865.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{83}
+				Saccharococcus (1),
+					1431.fasta.screen.Contig1 (1),	{67}{61}{54}{32}{26}
+			Paenibacillaceae (5),
+				Paenibacillus (5),
+					1025.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{64}
+					1336.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{93}
+					1496.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{79}
+					933.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{88}
+					941.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{85}
+			Planococcaceae (1),
+				Planomicrobium (1),
+					492.fasta.screen.Contig1 (1),	{86}{79}{74}{60}{41}
+		Lactobacillales (3),
+			Enterococcaceae (3),
+				Enterococcus (3),
+					1112.fasta.screen.Contig1 (1),	{82}{75}{69}{52}{37}
+					1789.fasta.screen.Contig1 (1),	{84}{77}{72}{56}{39}
+					943.fasta.screen.Contig1 (1),	{82}{75}{69}{52}{37}
+	Clostridia (29),
+		Clostridiales (22),
+			Acidaminococcaceae (2),
+				Anaeromusa (1),
+					1589.fasta.screen.Contig1 (1),	{39}{36}{30}{12}{12}
+				Sporomusa (1),
+					741.fasta.screen.Contig1 (1),	{86}{78}{73}{59}{40}
+			Clostridiaceae (7),
+				Anaerobacter (1),
+					889.fasta.screen.Contig1 (1),	{57}{52}{46}{24}{20}
+				Clostridium (4),
+					1359.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{93}
+					581.fasta.screen.Contig1 (1),	{83}{76}{70}{54}{38}
+					821.fasta.screen.Contig1 (1),	{69}{64}{57}{35}{27}
+					952.fasta.screen.Contig1 (1),	{30}{27}{23}{8}{8}
+				Tepidibacter (1),
+					1754.fasta.screen.Contig1 (1),	{64}{58}{51}{29}{24}
+				Thermobrachium (1),
+					540.fasta.screen.Contig1 (1),	{82}{75}{69}{52}{37}
+			Eubacteriaceae (1),
+				Eubacterium (1),
+					434.fasta.screen.Contig1 (1),	{65}{60}{53}{30}{25}
+			Lachnospiraceae (1),
+				Butyrivibrio (1),
+					1500.fasta.screen.Contig1 (1),	{32}{28}{24}{9}{9}
+			Peptococcaceae (4),
+				Desulfitobacterium (1),
+					1781.fasta.screen.Contig1 (1),	{84}{77}{71}{56}{39}
+				Desulfosporosinus (1),
+					1065.fasta.screen.Contig1 (1),	{86}{78}{73}{59}{40}
+				Desulfotomaculum (2),
+					1344.fasta.screen.Contig1 (1),	{83}{76}{71}{55}{38}
+					593.fasta.screen.Contig1 (1),	{81}{75}{69}{51}{36}
+			Syntrophomonadaceae (7),
+				Caldicellulosiruptor (2),
+					441.fasta.screen.Contig1 (1),	{79}{73}{66}{48}{35}
+					994.fasta.screen.Contig1 (1),	{65}{60}{53}{31}{25}
+				Carboxydocella (1),
+					1221.fasta.screen.Contig1 (1),	{83}{76}{70}{53}{38}
+				Syntrophothermus (3),
+					1050.fasta.screen.Contig1 (1),	{75}{68}{62}{41}{31}
+					1368.fasta.screen.Contig1 (1),	{87}{79}{74}{61}{41}
+					866.fasta.screen.Contig1 (1),	{75}{68}{62}{41}{31}
+				Thermaerobacter (1),
+					1782.fasta.screen.Contig1 (1),	{85}{78}{72}{57}{39}
+		Thermoanaerobacteriales (7),
+			Thermoanaerobacteriaceae (7),
+				Moorella (5),
+					1217.fasta.screen.Contig1 (1),	{84}{77}{71}{56}{39}
+					1241.fasta.screen.Contig1 (1),	{84}{77}{71}{56}{39}
+					1434.fasta.screen.Contig1 (1),	{76}{70}{63}{43}{32}
+					733.fasta.screen.Contig1 (1),	{85}{78}{73}{58}{40}
+					822.fasta.screen.Contig1 (1),	{87}{80}{75}{62}{42}
+				Thermanaeromonas (1),
+					881.fasta.screen.Contig1 (1),	{85}{78}{72}{57}{39}
+				Thermoanaerobacter (1),
+					387.fasta.screen.Contig1 (1),	{85}{78}{73}{58}{40}
+	Mollicutes (1),
+		Acholeplasmatales (1),
+			Acholeplasmataceae (1),
+				Acholeplasma (1),
+					1304.fasta.screen.Contig1 (1),	{28}{25}{22}{8}{8}
+Gemmatimonadetes (22),
+	Gemmatimonadetes (22),
+		Gemmatimonadales (22),
+			Gemmatimonadales (22),
+				Gemmatimonas (22),
+					1029.fasta.screen.Contig1 (1),	{98}{88}{86}{86}{53}
+					1049.fasta.screen.Contig1 (1),	{62}{57}{50}{28}{23}
+					1093.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{62}
+					1133.fasta.screen.Contig1 (1),	{97}{88}{85}{85}{52}
+					1134.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{87}
+					1159.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{63}
+					1161.fasta.screen.Contig1 (1),	{69}{63}{57}{35}{27}
+					1173.fasta.screen.Contig1 (1),	{51}{47}{41}{19}{17}
+					1258.fasta.screen.Contig1 (1),	{49}{45}{39}{18}{16}
+					1342.fasta.screen.Contig1 (1),	{67}{61}{55}{32}{26}
+					1407.fasta.screen.Contig1 (1),	{49}{45}{39}{18}{16}
+					1429.fasta.screen.Contig1 (1),	{67}{61}{54}{32}{26}
+					1437.fasta.screen.Contig1 (1),	{67}{61}{54}{32}{26}
+					1446.fasta.screen.Contig1 (1),	{67}{61}{55}{32}{26}
+					422.fasta.screen.Contig1 (1),	{100}{90}{88}{88}{55}
+					517.fasta.screen.Contig1 (1),	{92}{84}{80}{74}{47}
+					545.fasta.screen.Contig1 (1),	{97}{88}{86}{86}{52}
+					693.fasta.screen.Contig1 (1),	{100}{92}{91}{91}{58}
+					798.fasta.screen.Contig1 (1),	{98}{89}{86}{86}{53}
+					805.fasta.screen.Contig1 (1),	{100}{92}{91}{91}{58}
+					936.fasta.screen.Contig1 (1),	{88}{81}{75}{64}{42}
+					991.fasta.screen.Contig1 (1),	{96}{87}{84}{83}{50}
+Genera_incertae_sedis_BRC1 (1),
+	BRC1 (1),
+		[316] (1),
+Genera_incertae_sedis_Dehalococcoides (13),
+	Dehalococcoides (13),
+		[202] (2),
+		[322] (2),
+		[622.6] (1),
+		[734] (1),
+		[755] (1),
+		[763.4] (2),
+		[778] (2),
+		[885.2] (1),
+		[897.8] (1),
+Genera_incertae_sedis_OP10 (7),
+	OP10 (7),
+		[1239] (1),
+		[1264] (1),
+		[1422] (1),
+		[643.6] (2),
+		[646.8] (1),
+		[853] (1),
+Genera_incertae_sedis_OP11 (9),
+	OP11 (9),
+		[228] (1),
+		[434] (1),
+		[503] (2),
+		[564.8] (1),
+		[719] (2),
+		[767.8] (1),
+		[778] (2),
+Genera_incertae_sedis_TM7 (23),
+	TM7 (23),
+		[1042.4] (1),
+		[1119.8] (1),
+		[1134.8] (1),
+		[1145.8] (13),
+		[1164] (1),
+		[1530] (1),
+		[1543] (2),
+		[700] (1),
+		[713] (1),
+		[854.2] (1),
+Genera_incertae_sedis_WS3 (24),
+	WS3 (24),
+		[1000.8] (1),
+		[1064] (1),
+		[1298.4] (1),
+		[1328.4] (1),
+		[1384.8] (1),
+		[1396.8] (1),
+		[1425.4] (1),
+		[1596] (1),
+		[1673.4] (1),
+		[1762.4] (1),
+		[1981] (1),
+		[404] (1),
+		[424] (1),
+		[526] (1),
+		[650] (1),
+		[790.6] (1),
+		[803.2] (1),
+		[803.8] (1),
+		[861.2] (1),
+		[863.2] (1),
+		[867.2] (1),
+		[941.2] (1),
+		[988.6] (1),
+		[989.6] (1),
+Nitrospira (11),
+	Nitrospira (11),
+		Nitrospirales (11),
+			Nitrospiraceae (11),
+				Nitrospira (11),
+					1048.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{77}
+					1069.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{85}
+					1190.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{62}
+					1267.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{59}
+					1595.fasta.screen.Contig1 (1),	{86}{79}{73}{59}{40}
+					444.fasta.screen.Contig1 (1),	{66}{60}{53}{31}{25}
+					618.fasta.screen.Contig1 (1),	{81}{74}{68}{50}{36}
+					653.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{63}
+					834.fasta.screen.Contig1 (1),	{94}{85}{81}{77}{48}
+					971.fasta.screen.Contig1 (1),	{88}{80}{75}{63}{42}
+					979.fasta.screen.Contig1 (1),	{49}{44}{39}{18}{16}
+Planctomycetes (27),
+	Planctomycetacia (27),
+		Planctomycetales (27),
+			Planctomycetaceae (27),
+				Gemmata (5),
+					1077.fasta.screen.Contig1 (1),	{67}{61}{54}{32}{26}
+					1432.fasta.screen.Contig1 (1),	{68}{62}{55}{33}{26}
+					764.fasta.screen.Contig1 (1),	{71}{65}{59}{37}{29}
+					856.fasta.screen.Contig1 (1),	{100}{92}{91}{91}{58}
+					944.fasta.screen.Contig1 (1),	{71}{65}{58}{37}{29}
+				Pirellula (11),
+					1293.fasta.screen.Contig1 (1),	{88}{81}{76}{64}{43}
+					1337.fasta.screen.Contig1 (1),	{33}{29}{25}{9}{9}
+					1426.fasta.screen.Contig1 (1),	{38}{34}{29}{12}{11}
+					1492.fasta.screen.Contig1 (1),	{99}{89}{87}{87}{54}
+					1885.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{68}
+					850.fasta.screen.Contig1 (1),	{67}{61}{54}{32}{26}
+					858.fasta.screen.Contig1 (1),	{65}{59}{52}{30}{24}
+					902.fasta.screen.Contig1 (1),	{95}{86}{83}{81}{49}
+					921.fasta.screen.Contig1 (1),	{66}{60}{53}{31}{25}
+					949.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+					957.fasta.screen.Contig1 (1),	{91}{83}{79}{71}{45}
+				Planctomyces (11),
+					1151.fasta.screen.Contig1 (1),	{34}{30}{26}{10}{9}
+					1215.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1259.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1264.fasta.screen.Contig1 (1),	{33}{30}{25}{10}{9}
+					1669.fasta.screen.Contig1 (1),	{98}{89}{86}{86}{53}
+					1677.fasta.screen.Contig1 (1),	{98}{89}{86}{86}{53}
+					394.fasta.screen.Contig1 (1),	{70}{64}{58}{36}{28}
+					742.fasta.screen.Contig1 (1),	{88}{81}{76}{64}{43}
+					765.fasta.screen.Contig1 (1),	{100}{90}{89}{89}{56}
+					781.fasta.screen.Contig1 (1),	{99}{90}{88}{88}{55}
+					938.fasta.screen.Contig1 (1),	{97}{88}{85}{85}{52}
+Proteobacteria (564),
+	Alphaproteobacteria (288),
+		Caulobacterales (10),
+			Caulobacteraceae (10),
+				Asticcacaulis (2),
+					1535.fasta.screen.Contig1 (1),	{62}{57}{50}{28}{23}
+					626.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{71}
+				Brevundimonas (1),
+					1480.fasta.screen.Contig1 (1),	{83}{76}{70}{53}{38}
+				Caulobacter (3),
+					1192.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{82}
+					1721.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{75}
+					874.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+				Phenylobacterium (4),
+					1340.fasta.screen.Contig1 (1),	{92}{84}{80}{73}{46}
+					1392.fasta.screen.Contig1 (1),	{92}{84}{80}{73}{46}
+					1642.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{66}
+					1829.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+		Rhizobiales (228),
+			Bartonellaceae (2),
+				Bartonella (2),
+					1383.fasta.screen.Contig1 (1),	{47}{42}{37}{16}{15}
+					684.fasta.screen.Contig1 (1),	{88}{80}{75}{63}{42}
+			Bradyrhizobiaceae (24),
+				Afipia (6),
+					1169.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{81}
+					1185.fasta.screen.Contig1 (1),	{92}{84}{80}{73}{47}
+					1388.fasta.screen.Contig1 (1),	{95}{86}{83}{81}{49}
+					1397.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{66}
+					1481.fasta.screen.Contig1 (1),	{74}{68}{61}{41}{31}
+					1493.fasta.screen.Contig1 (1),	{100}{90}{89}{89}{56}
+				Bosea (2),
+					1202.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{75}
+					1422.fasta.screen.Contig1 (1),	{69}{63}{56}{34}{27}
+				Bradyrhizobium (13),
+					1189.fasta.screen.Contig1 (1),	{77}{71}{65}{45}{33}
+					1278.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{75}
+					1279.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{76}
+					1449.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					1476.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{92}
+					1593.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{65}
+					1621.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{92}
+					1766.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{92}
+					429.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{63}
+					482.fasta.screen.Contig1 (1),	{89}{82}{77}{67}{44}
+					681.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{65}
+					756.fasta.screen.Contig1 (1),	{83}{76}{70}{54}{38}
+					806.fasta.screen.Contig1 (1),	{98}{89}{86}{86}{53}
+				Rhodopseudomonas (3),
+					1729.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+					1801.fasta.screen.Contig1 (1),	{97}{88}{85}{85}{52}
+					453.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+			Brucellaceae (4),
+				Brucella (2),
+					1561.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					1690.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+				Mycoplana (2),
+					1164.fasta.screen.Contig1 (1),	{96}{87}{84}{84}{51}
+					1246.fasta.screen.Contig1 (1),	{64}{58}{52}{29}{24}
+			Hyphomicrobiaceae (165),
+				Blastochloris (7),
+					1075.fasta.screen.Contig1 (1),	{85}{78}{73}{58}{40}
+					1128.fasta.screen.Contig1 (1),	{87}{80}{74}{61}{41}
+					1233.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{65}
+					1617.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{73}
+					1765.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{65}
+					1873.fasta.screen.Contig1 (1),	{87}{80}{75}{62}{42}
+					911.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{63}
+				Devosia (3),
+					1418.fasta.screen.Contig1 (1),	{57}{52}{45}{23}{20}
+					715.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					732.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+				Hyphomicrobium (19),
+					1127.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{67}
+					1145.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{82}
+					1174.fasta.screen.Contig1 (1),	{89}{81}{77}{66}{43}
+					1405.fasta.screen.Contig1 (1),	{100}{90}{89}{89}{56}
+					1501.fasta.screen.Contig1 (1),	{79}{72}{66}{47}{34}
+					1520.fasta.screen.Contig1 (1),	{79}{73}{66}{47}{35}
+					1528.fasta.screen.Contig1 (1),	{58}{53}{46}{24}{20}
+					1554.fasta.screen.Contig1 (1),	{74}{68}{61}{40}{31}
+					1602.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{71}
+					1689.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{62}
+					1722.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{71}
+					489.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{82}
+					661.fasta.screen.Contig1 (1),	{81}{74}{68}{50}{36}
+					665.fasta.screen.Contig1 (1),	{83}{76}{71}{55}{38}
+					669.fasta.screen.Contig1 (1),	{79}{73}{66}{47}{35}
+					685.fasta.screen.Contig1 (1),	{97}{88}{85}{85}{52}
+					770.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					968.fasta.screen.Contig1 (1),	{94}{86}{82}{78}{49}
+					986.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{68}
+				Pedomicrobium (21),
+					1018.fasta.screen.Contig1 (1),	{100}{90}{89}{89}{56}
+					1142.fasta.screen.Contig1 (1),	{93}{84}{80}{75}{47}
+					1207.fasta.screen.Contig1 (1),	{91}{83}{78}{70}{45}
+					1209.fasta.screen.Contig1 (1),	{57}{52}{46}{23}{20}
+					1214.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{85}
+					1282.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{63}
+					1308.fasta.screen.Contig1 (1),	{46}{41}{36}{16}{14}
+					1354.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{65}
+					1357.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+					1372.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{65}
+					1377.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{76}
+					1444.fasta.screen.Contig1 (1),	{46}{41}{36}{16}{14}
+					1460.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+					1842.fasta.screen.Contig1 (1),	{100}{90}{89}{89}{56}
+					1893.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{86}
+					398.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{85}
+					547.fasta.screen.Contig1 (1),	{98}{89}{86}{86}{53}
+					569.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{90}
+					589.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{78}
+					813.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{63}
+					870.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+				Rhodomicrobium (1),
+					1905.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{89}
+				Rhodoplanes (110),
+					1000.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1003.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					1004.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					1008.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{67}
+					1015.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{79}
+					1023.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{82}
+					1060.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					1068.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					1070.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{73}
+					1078.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{73}
+					1080.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					1082.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{71}
+					1086.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+					1091.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{80}
+					1100.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					1117.fasta.screen.Contig1 (1),	{93}{84}{80}{75}{47}
+					1121.fasta.screen.Contig1 (1),	{97}{88}{85}{85}{52}
+					1131.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					1132.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					1147.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{66}
+					1162.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+					1180.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{68}
+					1184.fasta.screen.Contig1 (1),	{99}{90}{88}{88}{55}
+					1206.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{77}
+					1276.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+					1297.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{64}
+					1327.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{64}
+					1362.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{81}
+					1370.fasta.screen.Contig1 (1),	{82}{75}{69}{52}{37}
+					1400.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+					1469.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{83}
+					1506.fasta.screen.Contig1 (1),	{100}{92}{91}{91}{58}
+					1539.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					1540.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{66}
+					1547.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					1550.fasta.screen.Contig1 (1),	{97}{88}{85}{85}{52}
+					1555.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+					1563.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{80}
+					1569.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{79}
+					1571.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{81}
+					1572.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{81}
+					1585.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{81}
+					1605.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{84}
+					1627.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+					1628.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					1667.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					1691.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					1697.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{81}
+					1706.fasta.screen.Contig1 (1),	{93}{85}{81}{76}{48}
+					1713.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1730.fasta.screen.Contig1 (1),	{82}{75}{69}{52}{37}
+					1731.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					1732.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					1748.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{66}
+					1753.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+					1780.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					1788.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					1795.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					1796.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					1811.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					1883.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					1891.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					1899.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+					1906.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{60}
+					1915.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					393.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{81}
+					448.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					455.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					456.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					487.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+					488.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					497.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{83}
+					503.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					528.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{81}
+					535.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					543.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{68}
+					565.fasta.screen.Contig1 (1),	{97}{88}{86}{86}{52}
+					567.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{81}
+					582.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{64}
+					590.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{60}
+					595.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{85}
+					616.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{65}
+					640.fasta.screen.Contig1 (1),	{89}{82}{77}{66}{44}
+					671.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					672.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{60}
+					679.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{63}
+					680.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+					688.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					696.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+					704.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{76}
+					711.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{80}
+					712.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{80}
+					744.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					768.fasta.screen.Contig1 (1),	{94}{85}{82}{78}{48}
+					787.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+					795.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					811.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					817.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{81}
+					830.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					835.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{67}
+					836.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					859.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					875.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{81}
+					893.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{67}
+					929.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{64}
+					930.fasta.screen.Contig1 (1),	{99}{90}{88}{88}{54}
+					937.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{81}
+					942.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{73}
+					948.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{81}
+					955.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+				Xanthobacter (4),
+					1045.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{68}
+					1136.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					1545.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{74}
+					1737.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{76}
+			Methylobacteriaceae (4),
+				Methylobacterium (4),
+					1299.fasta.screen.Contig1 (1),	{100}{91}{91}{91}{58}
+					637.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{88}
+					683.fasta.screen.Contig1 (1),	{66}{61}{54}{32}{26}
+					833.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{85}
+			Methylocystaceae (11),
+				Methylosinus (11),
+					1022.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{77}
+					1144.fasta.screen.Contig1 (1),	{100}{91}{91}{91}{58}
+					1146.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1283.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{77}
+					1296.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{62}
+					1517.fasta.screen.Contig1 (1),	{92}{84}{80}{73}{46}
+					1546.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{65}
+					1774.fasta.screen.Contig1 (1),	{98}{89}{86}{86}{53}
+					1897.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{79}
+					678.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{67}
+					877.fasta.screen.Contig1 (1),	{83}{76}{70}{54}{38}
+			Phyllobacteriaceae (11),
+				Aminobacter (1),
+					1566.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+				Mesorhizobium (6),
+					458.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{64}
+					473.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					531.fasta.screen.Contig1 (1),	{95}{86}{83}{80}{49}
+					622.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+					673.fasta.screen.Contig1 (1),	{61}{56}{49}{27}{22}
+					999.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{84}
+				Phyllobacterium (1),
+					1378.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{59}
+				Pseudaminobacter (3),
+					1231.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					675.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					724.fasta.screen.Contig1 (1),	{89}{81}{77}{66}{43}
+			Rhizobiaceae (6),
+				Rhizobium (6),
+					1017.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{59}
+					1256.fasta.screen.Contig1 (1),	{84}{77}{71}{56}{39}
+					646.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{64}
+					716.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{62}
+					841.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{82}
+					872.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+			Rhodobiaceae (1),
+				Rhodobium (1),
+					1749.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+		Rhodobacterales (1),
+			Rhodobacteraceae (1),
+				Paracoccus (1),
+					426.fasta.screen.Contig1 (1),	{78}{72}{65}{46}{34}
+		Rhodospirillales (26),
+			Acetobacteraceae (6),
+				Craurococcus (1),
+					1314.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{64}
+				Gluconacetobacter (1),
+					481.fasta.screen.Contig1 (1),	{100}{92}{91}{91}{58}
+				Kozakia (1),
+					699.fasta.screen.Contig1 (1),	{89}{81}{76}{65}{43}
+				Paracraurococcus (1),
+					801.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{86}
+				Rhodopila (2),
+					1212.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{81}
+					1845.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{77}
+			Rhodospirillaceae (20),
+				Azospirillum (5),
+					1208.fasta.screen.Contig1 (1),	{82}{75}{69}{52}{37}
+					1216.fasta.screen.Contig1 (1),	{63}{58}{51}{29}{24}
+					467.fasta.screen.Contig1 (1),	{98}{89}{86}{86}{53}
+					578.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{68}
+					649.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{65}
+				Inquilinus (7),
+					1385.fasta.screen.Contig1 (1),	{48}{43}{38}{17}{15}
+					1692.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{63}
+					1900.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{63}
+					407.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{63}
+					430.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					639.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{62}
+					819.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{62}
+				Magnetospirillum (7),
+					1020.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{60}
+					1420.fasta.screen.Contig1 (1),	{98}{89}{87}{87}{54}
+					1503.fasta.screen.Contig1 (1),	{100}{92}{91}{91}{58}
+					650.fasta.screen.Contig1 (1),	{92}{84}{79}{72}{46}
+					676.fasta.screen.Contig1 (1),	{90}{82}{78}{68}{45}
+					784.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{63}
+					993.fasta.screen.Contig1 (1),	{99}{89}{87}{87}{54}
+				Phaeospirillum (1),
+					1509.fasta.screen.Contig1 (1),	{59}{54}{47}{25}{21}
+		Rickettsiales (1),
+			Anaplasmataceae (1),
+				Ehrlichia (1),
+					1175.fasta.screen.Contig1 (1),	{54}{49}{43}{21}{19}
+		Sphingomonadales (22),
+			Sphingomonadaceae (22),
+				Novosphingobium (4),
+					1119.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{73}
+					1471.fasta.screen.Contig1 (1),	{98}{89}{86}{86}{53}
+					1634.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{73}
+					598.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+				Porphyrobacter (1),
+					1389.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{65}
+				Sandaracinobacter (1),
+					927.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{59}
+				Sphingomonas (15),
+					1474.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					1757.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{60}
+					1758.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+					1841.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					1866.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{87}
+					506.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{86}
+					635.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{85}
+					659.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{75}
+					810.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{76}
+					825.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{84}
+					838.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{68}
+					845.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{83}
+					869.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					965.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{63}
+					970.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{90}
+				Sphingopyxis (1),
+					871.fasta.screen.Contig1 (1),	{99}{89}{88}{88}{54}
+	Betaproteobacteria (115),
+		Burkholderiales (62),
+			Alcaligenaceae (4),
+				Alcaligenes (3),
+					1319.fasta.screen.Contig1 (1),	{90}{82}{77}{68}{44}
+					537.fasta.screen.Contig1 (1),	{82}{75}{69}{52}{37}
+					668.fasta.screen.Contig1 (1),	{89}{81}{77}{66}{43}
+				Pigmentiphaga (1),
+					641.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+			Burkholderiaceae (21),
+				Burkholderia (17),
+					1090.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					1167.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					1228.fasta.screen.Contig1 (1),	{97}{88}{85}{85}{51}
+					1261.fasta.screen.Contig1 (1),	{93}{85}{81}{75}{47}
+					1307.fasta.screen.Contig1 (1),	{100}{92}{91}{91}{58}
+					1324.fasta.screen.Contig1 (1),	{95}{86}{83}{80}{49}
+					1468.fasta.screen.Contig1 (1),	{69}{63}{57}{35}{27}
+					1505.fasta.screen.Contig1 (1),	{86}{79}{73}{60}{41}
+					1597.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{68}
+					1618.fasta.screen.Contig1 (1),	{95}{86}{83}{81}{50}
+					1857.fasta.screen.Contig1 (1),	{81}{75}{68}{51}{36}
+					420.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{75}
+					508.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					775.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{76}
+					848.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{64}
+					864.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{64}
+					880.fasta.screen.Contig1 (1),	{92}{84}{80}{74}{47}
+				Ralstonia (4),
+					1364.fasta.screen.Contig1 (1),	{95}{86}{83}{80}{49}
+					1582.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{62}
+					718.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+					928.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+			Comamonadaceae (18),
+				Acidovorax (7),
+					1124.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{84}
+					1596.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{83}
+					1604.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{84}
+					479.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{84}
+					644.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{66}
+					735.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{83}
+					803.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{83}
+				Comamonas (1),
+					660.fasta.screen.Contig1 (1),	{90}{82}{78}{69}{45}
+				Hydrogenophaga (5),
+					1179.fasta.screen.Contig1 (1),	{76}{70}{63}{43}{32}
+					1187.fasta.screen.Contig1 (1),	{76}{70}{63}{43}{32}
+					1195.fasta.screen.Contig1 (1),	{76}{70}{63}{43}{32}
+					1203.fasta.screen.Contig1 (1),	{76}{70}{63}{43}{32}
+					1211.fasta.screen.Contig1 (1),	{76}{70}{63}{43}{32}
+				Variovorax (5),
+					1325.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{92}
+					1456.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{89}
+					1778.fasta.screen.Contig1 (1),	{99}{89}{87}{87}{54}
+					773.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{74}
+					905.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{93}
+			Oxalobacteraceae (10),
+				Duganella (2),
+					1141.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					731.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{93}
+				Herbaspirillum (2),
+					794.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{90}
+					797.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+				Janthinobacterium (4),
+					1339.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{92}
+					1445.fasta.screen.Contig1 (1),	{87}{80}{75}{62}{42}
+					619.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{83}
+					922.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{91}
+				Oxalobacter (2),
+					1447.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+					421.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{75}
+			sedis (9),
+				Aquabacterium (2),
+					638.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+					837.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{80}
+				Ideonella (2),
+					1414.fasta.screen.Contig1 (1),	{100}{90}{88}{88}{55}
+					636.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{82}
+				Roseateles (2),
+					1666.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+					1834.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+				Schlegelella (1),
+					1479.fasta.screen.Contig1 (1),	{51}{46}{40}{19}{17}
+				Xylophilus (2),
+					1411.fasta.screen.Contig1 (1),	{100}{92}{91}{91}{58}
+					1491.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{66}
+		Neisseriales (1),
+			Neisseriaceae (1),
+				Chromobacterium (1),
+					1242.fasta.screen.Contig1 (1),	{81}{74}{68}{51}{36}
+		Nitrosomonadales (11),
+			Nitrosomonadaceae (11),
+				Nitrosospira (11),
+					1034.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{74}
+					1103.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{65}
+					1398.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{78}
+					1508.fasta.screen.Contig1 (1),	{79}{73}{66}{48}{35}
+					442.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{73}
+					452.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{93}
+					468.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{75}
+					826.fasta.screen.Contig1 (1),	{98}{88}{86}{86}{53}
+					901.fasta.screen.Contig1 (1),	{95}{86}{83}{80}{49}
+					935.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{66}
+					997.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{76}
+		Rhodocyclales (41),
+			Rhodocyclaceae (41),
+				Azoarcus (15),
+					1061.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{71}
+					1079.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{60}
+					1156.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{67}
+					1365.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{64}
+					1381.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{65}
+					1557.fasta.screen.Contig1 (1),	{100}{90}{88}{88}{55}
+					1606.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{73}
+					1741.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{60}
+					1785.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{78}
+					1869.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{73}
+					1874.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{69}
+					524.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{72}
+					749.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{65}
+					757.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{63}
+					975.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{65}
+				Azonexus (2),
+					1790.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+					620.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{59}
+				Azospira (1),
+					1399.fasta.screen.Contig1 (1),	{39}{35}{30}{12}{12}
+				Azovibrio (2),
+					755.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{89}
+					763.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{89}
+				Dechloromonas (4),
+					1287.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{66}
+					1448.fasta.screen.Contig1 (1),	{76}{69}{63}{43}{32}
+					466.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{70}
+					475.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{74}
+				Dechlorosoma (5),
+					1072.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					1089.fasta.screen.Contig1 (1),	{88}{81}{75}{64}{42}
+					1419.fasta.screen.Contig1 (1),	{55}{50}{44}{22}{19}
+					1590.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{83}
+					1738.fasta.screen.Contig1 (1),	{93}{85}{81}{76}{48}
+				Sterolibacterium (8),
+					1006.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{66}
+					1105.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{65}
+					1186.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{74}
+					1301.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{67}
+					1453.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{67}
+					555.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{78}
+					829.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{74}
+					913.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+				Zoogloea (4),
+					1120.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{74}
+					1581.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{74}
+					579.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{68}
+					723.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{74}
+	Deltaproteobacteria (104),
+		Desulfobacterales (23),
+			Desulfobacteraceae (11),
+				Desulfofrigus (4),
+					1098.fasta.screen.Contig1 (1),	{87}{80}{74}{61}{41}
+					1193.fasta.screen.Contig1 (1),	{81}{74}{68}{51}{36}
+					1578.fasta.screen.Contig1 (1),	{78}{72}{66}{46}{34}
+					697.fasta.screen.Contig1 (1),	{81}{74}{68}{50}{36}
+				Desulfonema (1),
+					1138.fasta.screen.Contig1 (1),	{94}{85}{82}{78}{48}
+				Desulforegula (4),
+					1809.fasta.screen.Contig1 (1),	{82}{75}{69}{53}{37}
+					410.fasta.screen.Contig1 (1),	{87}{80}{74}{61}{41}
+					476.fasta.screen.Contig1 (1),	{88}{81}{75}{64}{42}
+					985.fasta.screen.Contig1 (1),	{84}{77}{72}{57}{39}
+				Desulfosarcina (2),
+					740.fasta.screen.Contig1 (1),	{98}{88}{86}{86}{53}
+					969.fasta.screen.Contig1 (1),	{88}{80}{75}{63}{42}
+			Desulfobulbaceae (6),
+				Desulfobulbus (4),
+					1573.fasta.screen.Contig1 (1),	{85}{78}{72}{57}{40}
+					1742.fasta.screen.Contig1 (1),	{85}{78}{72}{57}{40}
+					553.fasta.screen.Contig1 (1),	{84}{77}{71}{55}{39}
+					729.fasta.screen.Contig1 (1),	{86}{79}{73}{60}{41}
+				Desulfocapsa (1),
+					1335.fasta.screen.Contig1 (1),	{39}{35}{30}{12}{12}
+				Desulforhopalus (1),
+					572.fasta.screen.Contig1 (1),	{71}{65}{59}{37}{29}
+			Nitrospinaceae (6),
+				Nitrospina (6),
+					1268.fasta.screen.Contig1 (1),	{85}{77}{72}{57}{39}
+					1530.fasta.screen.Contig1 (1),	{44}{39}{34}{15}{13}
+					486.fasta.screen.Contig1 (1),	{96}{87}{84}{83}{50}
+					713.fasta.screen.Contig1 (1),	{91}{83}{78}{70}{45}
+					748.fasta.screen.Contig1 (1),	{88}{80}{75}{63}{42}
+					981.fasta.screen.Contig1 (1),	{98}{89}{86}{86}{53}
+		Desulfovibrionales (1),
+			Desulfovibrionaceae (1),
+				Desulfovibrio (1),
+					1745.fasta.screen.Contig1 (1),	{73}{67}{60}{39}{30}
+		Desulfuromonales (49),
+			Desulfuromonaceae (45),
+				Desulfuromonas (4),
+					1125.fasta.screen.Contig1 (1),	{90}{82}{78}{68}{44}
+					1130.fasta.screen.Contig1 (1),	{95}{87}{83}{82}{50}
+					761.fasta.screen.Contig1 (1),	{55}{51}{44}{22}{19}
+					778.fasta.screen.Contig1 (1),	{92}{84}{80}{74}{47}
+				Desulfuromusa (1),
+					1657.fasta.screen.Contig1 (1),	{65}{59}{53}{30}{25}
+				Malonomonas (1),
+					1109.fasta.screen.Contig1 (1),	{86}{79}{74}{61}{41}
+				Pelobacter (39),
+					1002.fasta.screen.Contig1 (1),	{92}{84}{80}{73}{46}
+					1033.fasta.screen.Contig1 (1),	{100}{91}{91}{91}{58}
+					1040.fasta.screen.Contig1 (1),	{92}{84}{80}{73}{46}
+					1152.fasta.screen.Contig1 (1),	{86}{78}{73}{59}{40}
+					1240.fasta.screen.Contig1 (1),	{87}{80}{75}{62}{42}
+					1281.fasta.screen.Contig1 (1),	{95}{86}{83}{80}{49}
+					1289.fasta.screen.Contig1 (1),	{99}{90}{88}{88}{55}
+					1303.fasta.screen.Contig1 (1),	{93}{85}{81}{75}{47}
+					1371.fasta.screen.Contig1 (1),	{91}{83}{79}{71}{45}
+					1477.fasta.screen.Contig1 (1),	{44}{40}{34}{15}{14}
+					1499.fasta.screen.Contig1 (1),	{83}{76}{70}{54}{38}
+					1521.fasta.screen.Contig1 (1),	{83}{76}{70}{53}{38}
+					1524.fasta.screen.Contig1 (1),	{86}{79}{73}{59}{40}
+					1529.fasta.screen.Contig1 (1),	{83}{76}{70}{53}{38}
+					1574.fasta.screen.Contig1 (1),	{77}{70}{64}{44}{33}
+					1644.fasta.screen.Contig1 (1),	{93}{85}{81}{77}{48}
+					1673.fasta.screen.Contig1 (1),	{86}{78}{73}{59}{40}
+					1676.fasta.screen.Contig1 (1),	{93}{85}{81}{77}{48}
+					1685.fasta.screen.Contig1 (1),	{90}{82}{78}{68}{44}
+					1709.fasta.screen.Contig1 (1),	{87}{80}{75}{62}{42}
+					1725.fasta.screen.Contig1 (1),	{87}{80}{75}{62}{42}
+					1825.fasta.screen.Contig1 (1),	{95}{86}{83}{80}{49}
+					1914.fasta.screen.Contig1 (1),	{89}{82}{77}{67}{44}
+					417.fasta.screen.Contig1 (1),	{85}{78}{72}{58}{40}
+					450.fasta.screen.Contig1 (1),	{91}{83}{78}{70}{45}
+					451.fasta.screen.Contig1 (1),	{85}{78}{72}{57}{39}
+					485.fasta.screen.Contig1 (1),	{93}{85}{81}{76}{48}
+					539.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					594.fasta.screen.Contig1 (1),	{75}{69}{62}{41}{31}
+					623.fasta.screen.Contig1 (1),	{93}{85}{81}{77}{48}
+					677.fasta.screen.Contig1 (1),	{95}{86}{82}{80}{49}
+					717.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{62}
+					745.fasta.screen.Contig1 (1),	{89}{82}{77}{66}{44}
+					895.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					904.fasta.screen.Contig1 (1),	{92}{84}{79}{72}{46}
+					906.fasta.screen.Contig1 (1),	{91}{83}{78}{70}{45}
+					915.fasta.screen.Contig1 (1),	{94}{86}{82}{78}{48}
+					916.fasta.screen.Contig1 (1),	{93}{85}{81}{76}{48}
+					961.fasta.screen.Contig1 (1),	{90}{82}{78}{68}{44}
+			Geobacteraceae (4),
+				Geobacter (4),
+					1498.fasta.screen.Contig1 (1),	{44}{40}{34}{15}{14}
+					1609.fasta.screen.Contig1 (1),	{93}{85}{81}{76}{48}
+					1821.fasta.screen.Contig1 (1),	{61}{56}{49}{27}{22}
+					793.fasta.screen.Contig1 (1),	{95}{86}{83}{82}{50}
+		Myxococcales (30),
+			Cystobacteraceae (15),
+				Archangium (6),
+					1064.fasta.screen.Contig1 (1),	{93}{84}{80}{75}{47}
+					1149.fasta.screen.Contig1 (1),	{86}{78}{73}{59}{40}
+					1645.fasta.screen.Contig1 (1),	{87}{80}{75}{63}{42}
+					1653.fasta.screen.Contig1 (1),	{87}{80}{75}{63}{42}
+					532.fasta.screen.Contig1 (1),	{91}{84}{79}{72}{46}
+					886.fasta.screen.Contig1 (1),	{85}{78}{73}{58}{40}
+				Cystobacter (4),
+					1204.fasta.screen.Contig1 (1),	{100}{90}{89}{89}{56}
+					1251.fasta.screen.Contig1 (1),	{36}{32}{28}{11}{10}
+					1380.fasta.screen.Contig1 (1),	{99}{89}{87}{87}{54}
+					548.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{59}
+				Melittangium (4),
+					1038.fasta.screen.Contig1 (1),	{90}{82}{78}{68}{44}
+					1330.fasta.screen.Contig1 (1),	{62}{56}{50}{27}{23}
+					435.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{73}
+					606.fasta.screen.Contig1 (1),	{86}{79}{73}{59}{40}
+				Stigmatella (1),
+					1403.fasta.screen.Contig1 (1),	{90}{82}{77}{67}{44}
+			Haliangiaceae (2),
+				Haliangium (2),
+					1436.fasta.screen.Contig1 (1),	{58}{53}{46}{24}{20}
+					689.fasta.screen.Contig1 (1),	{100}{90}{89}{89}{56}
+			Myxococcaceae (4),
+				Myxococcus (4),
+					1562.fasta.screen.Contig1 (1),	{84}{77}{71}{55}{38}
+					1777.fasta.screen.Contig1 (1),	{80}{73}{67}{48}{35}
+					1858.fasta.screen.Contig1 (1),	{86}{79}{74}{60}{41}
+					814.fasta.screen.Contig1 (1),	{92}{84}{80}{74}{47}
+			Polyangiaceae (9),
+				Chondromyces (6),
+					1158.fasta.screen.Contig1 (1),	{93}{85}{81}{77}{48}
+					1435.fasta.screen.Contig1 (1),	{58}{53}{46}{24}{20}
+					1705.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{67}
+					1746.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{79}
+					591.fasta.screen.Contig1 (1),	{83}{76}{70}{54}{38}
+					959.fasta.screen.Contig1 (1),	{66}{60}{54}{31}{25}
+				Polyangium (3),
+					541.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{64}
+					566.fasta.screen.Contig1 (1),	{100}{91}{89}{89}{56}
+					990.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+		Syntrophobacterales (1),
+			Syntrophobacteraceae (1),
+				Desulfovirga (1),
+					445.fasta.screen.Contig1 (1),	{99}{89}{87}{87}{54}
+	Epsilonproteobacteria (1),
+		Campylobacterales (1),
+			Helicobacteraceae (1),
+				Helicobacter (1),
+					1085.fasta.screen.Contig1 (1),	{72}{66}{59}{38}{29}
+	Gammaproteobacteria (56),
+		Acidithiobacillales (5),
+			Acidithiobacillaceae (5),
+				Acidithiobacillus (5),
+					1200.fasta.screen.Contig1 (1),	{39}{35}{30}{12}{11}
+					1236.fasta.screen.Contig1 (1),	{34}{31}{26}{10}{10}
+					1396.fasta.screen.Contig1 (1),	{37}{33}{29}{11}{11}
+					1463.fasta.screen.Contig1 (1),	{39}{35}{30}{12}{11}
+					1761.fasta.screen.Contig1 (1),	{86}{79}{73}{60}{41}
+		Aeromonadales (1),
+			Aeromonadaceae (1),
+				Aeromonas (1),
+					1320.fasta.screen.Contig1 (1),	{84}{77}{71}{55}{38}
+		Alteromonadales (2),
+			Alteromonadaceae (2),
+				Glaciecola (1),
+					1361.fasta.screen.Contig1 (1),	{40}{36}{31}{13}{12}
+				Microbulbifer (1),
+					1001.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+		Chromatiales (16),
+			Chromatiaceae (5),
+				Lamprocystis (1),
+					625.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+				Thiocystis (2),
+					494.fasta.screen.Contig1 (1),	{88}{80}{75}{63}{42}
+					557.fasta.screen.Contig1 (1),	{88}{80}{75}{63}{42}
+				Thiorhodovibrio (2),
+					1273.fasta.screen.Contig1 (1),	{84}{77}{71}{56}{39}
+					390.fasta.screen.Contig1 (1),	{81}{75}{69}{51}{37}
+			Ectothiorhodospiraceae (11),
+				Alcalilimnicola (3),
+					1352.fasta.screen.Contig1 (1),	{95}{87}{83}{82}{50}
+					708.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{60}
+					926.fasta.screen.Contig1 (1),	{100}{92}{91}{91}{59}
+				Ectothiorhodospira (6),
+					1541.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{62}
+					1549.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{62}
+					1714.fasta.screen.Contig1 (1),	{93}{85}{81}{76}{48}
+					386.fasta.screen.Contig1 (1),	{100}{93}{93}{93}{61}
+					862.fasta.screen.Contig1 (1),	{100}{92}{91}{91}{59}
+					890.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+				Nitrococcus (2),
+					1355.fasta.screen.Contig1 (1),	{96}{87}{84}{84}{51}
+					418.fasta.screen.Contig1 (1),	{86}{79}{74}{60}{41}
+		Enterobacteriales (1),
+			Enterobacteriaceae (1),
+				Alterococcus (1),
+					470.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{66}
+		Legionellales (5),
+			Coxiellaceae (1),
+				Rickettsiella (1),
+					499.fasta.screen.Contig1 (1),	{100}{94}{94}{94}{62}
+			Legionellaceae (4),
+				Legionella (4),
+					1265.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{60}
+					1373.fasta.screen.Contig1 (1),	{100}{92}{92}{92}{59}
+					457.fasta.screen.Contig1 (1),	{81}{74}{68}{50}{36}
+					694.fasta.screen.Contig1 (1),	{87}{79}{74}{61}{41}
+		Methylococcales (5),
+			Methylococcaceae (5),
+				Methylocaldum (1),
+					1813.fasta.screen.Contig1 (1),	{100}{92}{91}{91}{58}
+				Methylococcus (2),
+					1037.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{67}
+					509.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+				Methylomonas (1),
+					1194.fasta.screen.Contig1 (1),	{26}{23}{19}{7}{7}
+				Methylosphaera (1),
+					477.fasta.screen.Contig1 (1),	{93}{85}{81}{76}{48}
+		Oceanospirillales (2),
+			Oceanospirillaceae (2),
+				Oceanospirillum (1),
+					1341.fasta.screen.Contig1 (1),	{48}{44}{38}{17}{16}
+				Oleispira (1),
+					514.fasta.screen.Contig1 (1),	{56}{51}{44}{22}{19}
+		Pseudomonadales (6),
+			Pseudomonadaceae (6),
+				Cellvibrio (2),
+					1861.fasta.screen.Contig1 (1),	{54}{49}{43}{21}{19}
+					998.fasta.screen.Contig1 (1),	{54}{49}{43}{21}{19}
+				Pseudomonas (4),
+					1343.fasta.screen.Contig1 (1),	{100}{92}{91}{91}{58}
+					1877.fasta.screen.Contig1 (1),	{100}{96}{96}{96}{71}
+					790.fasta.screen.Contig1 (1),	{86}{79}{73}{60}{41}
+					910.fasta.screen.Contig1 (1),	{100}{95}{95}{95}{90}
+		Thiotrichales (3),
+			Piscirickettsiaceae (2),
+				Thioalkalimicrobium (2),
+					436.fasta.screen.Contig1 (1),	{79}{72}{66}{47}{34}
+					855.fasta.screen.Contig1 (1),	{92}{84}{80}{73}{46}
+			Thiotrichaceae (1),
+				Achromatium (1),
+					601.fasta.screen.Contig1 (1),	{88}{80}{75}{63}{42}
+		Xanthomonadales (10),
+			Xanthomonadaceae (10),
+				Frateuria (1),
+					1041.fasta.screen.Contig1 (1),	{85}{78}{72}{57}{39}
+				Lysobacter (3),
+					1865.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{79}
+					1901.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{79}
+					960.fasta.screen.Contig1 (1),	{100}{97}{97}{97}{86}
+				Rhodanobacter (2),
+					1504.fasta.screen.Contig1 (1),	{73}{67}{60}{39}{30}
+					1798.fasta.screen.Contig1 (1),	{86}{79}{74}{60}{41}
+				Stenotrophomonas (1),
+					666.fasta.screen.Contig1 (1),	{85}{78}{72}{57}{39}
+				Thermomonas (1),
+					917.fasta.screen.Contig1 (1),	{90}{82}{78}{68}{45}
+				Xanthomonas (2),
+					1013.fasta.screen.Contig1 (1),	{75}{69}{62}{42}{31}
+					1111.fasta.screen.Contig1 (1),	{92}{84}{80}{73}{46}
+Thermomicrobia (3),
+	Thermomicrobia (3),
+		Thermomicrobiales (3),
+			Thermomicrobiaceae (3),
+				Thermomicrobium (3),
+					1452.fasta.screen.Contig1 (1),	{35}{32}{27}{11}{10}
+					587.fasta.screen.Contig1 (1),	{78}{72}{66}{46}{34}
+					662.fasta.screen.Contig1 (1),	{84}{77}{71}{56}{39}
+Thermotogae (2),
+	Thermotogae (2),
+		Thermotogales (2),
+			Thermotogaceae (2),
+				Marinitoga (2),
+					1266.fasta.screen.Contig1 (1),	{38}{34}{30}{12}{11}
+					1306.fasta.screen.Contig1 (1),	{38}{34}{30}{12}{11}
+Verrucomicrobia (31),
+	Verrucomicrobiae (31),
+		Verrucomicrobiales (31),
+			Verrucomicrobiaceae (21),
+				Prosthecobacter (3),
+					1114.fasta.screen.Contig1 (1),	{91}{83}{78}{70}{45}
+					1523.fasta.screen.Contig1 (1),	{63}{58}{51}{28}{23}
+					1898.fasta.screen.Contig1 (1),	{87}{80}{75}{62}{42}
+				Verrucomicrobium (18),
+					1160.fasta.screen.Contig1 (1),	{85}{78}{73}{58}{40}
+					1220.fasta.screen.Contig1 (1),	{46}{42}{36}{16}{15}
+					1226.fasta.screen.Contig1 (1),	{83}{76}{70}{54}{38}
+					1248.fasta.screen.Contig1 (1),	{50}{46}{40}{19}{17}
+					1425.fasta.screen.Contig1 (1),	{33}{30}{25}{10}{9}
+					1443.fasta.screen.Contig1 (1),	{88}{81}{76}{64}{43}
+					1527.fasta.screen.Contig1 (1),	{97}{88}{85}{85}{52}
+					1660.fasta.screen.Contig1 (1),	{90}{82}{78}{68}{44}
+					1756.fasta.screen.Contig1 (1),	{90}{82}{78}{68}{44}
+					511.fasta.screen.Contig1 (1),	{90}{82}{78}{68}{44}
+					597.fasta.screen.Contig1 (1),	{86}{79}{74}{60}{41}
+					607.fasta.screen.Contig1 (1),	{90}{82}{78}{68}{44}
+					609.fasta.screen.Contig1 (1),	{89}{81}{76}{66}{43}
+					736.fasta.screen.Contig1 (1),	{90}{82}{78}{68}{44}
+					771.fasta.screen.Contig1 (1),	{90}{82}{78}{68}{44}
+					812.fasta.screen.Contig1 (1),	{90}{82}{78}{68}{44}
+					820.fasta.screen.Contig1 (1),	{90}{82}{78}{68}{44}
+					885.fasta.screen.Contig1 (1),	{91}{83}{78}{70}{45}
+			Xiphinematobacteraceae (10),
+				Xiphinematobacter (10),
+					1113.fasta.screen.Contig1 (1),	{93}{84}{80}{75}{47}
+					1401.fasta.screen.Contig1 (1),	{58}{53}{46}{24}{21}
+					1488.fasta.screen.Contig1 (1),	{95}{86}{83}{81}{49}
+					1637.fasta.screen.Contig1 (1),	{99}{90}{88}{88}{54}
+					510.fasta.screen.Contig1 (1),	{91}{83}{79}{71}{46}
+					627.fasta.screen.Contig1 (1),	{89}{81}{76}{65}{43}
+					686.fasta.screen.Contig1 (1),	{100}{91}{90}{90}{57}
+					753.fasta.screen.Contig1 (1),	{95}{86}{82}{80}{49}
+					849.fasta.screen.Contig1 (1),	{98}{89}{87}{87}{53}
+					962.fasta.screen.Contig1 (1),	{82}{76}{70}{53}{37}

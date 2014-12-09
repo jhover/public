@@ -1,0 +1,323 @@
+%!PS-Adobe-3.0
+%%BoundingBox: 69 69 556 739
+%%Title: 
+%%CreationDate: Tue Mar 16 11:52:57 2003
+%%Creator: nested-pie.scm by Sean R. McCorkle (mccorkle@bnl.gov)
+%%Orientation: Landscape
+%%Pages: (atend)
+%%EndComments
+%%BeginProlog
+
+/rightshow { dup stringwidth pop 0 exch sub 0 rmoveto show } def
+/showcenter { dup stringwidth pop 2 div 0 exch sub 0 rmoveto show } def
+/vshowcenter { gsave 3 1 roll translate 90 rotate 0 0 moveto
+               dup stringwidth pop 2 div 0 exch sub 0 rmoveto
+               show  grestore } def
+/filledcircle { newpath 0 360 arc fill } def
+/unfilledcircle { newpath 0 360 arc stroke } def
+% xvert yvert w h ang isotriangle
+/DrawSliceBorder {
+            /grayshade exch def
+            /endangle exch def
+            /startangle exch def
+            /radius exch def
+            newpath 0 0 moveto
+              0 0 radius startangle endangle arc
+            closepath
+            1.415 setmiterlimit
+            gsave
+              grayshade setgray
+              fill
+            grestore
+            stroke
+            } def
+/DrawSlice {
+            /grayshade exch def
+            /endangle exch def
+            /startangle exch def
+            /radius exch def
+            gsave
+            newpath 0 0 moveto
+              0 0 radius startangle endangle arc
+            closepath
+            grayshade setgray
+            fill
+            grestore
+            } def
+/DrawColorSlice {
+            /b exch def
+            /s exch def
+            /h exch def
+            /endangle exch def
+            /startangle exch def
+            /radius exch def
+            gsave
+            newpath 0 0 moveto
+              0 0 radius startangle endangle arc
+            closepath
+            h s b sethsbcolor
+            fill
+            grestore
+            } def
+/DrawColorSliceBorder {
+            /b exch def
+            /s exch def
+            /h exch def
+            /endangle exch def
+            /startangle exch def
+            /radius exch def
+            gsave
+            newpath 0 0 moveto
+              0 0 radius startangle endangle arc
+            closepath
+            gsave 0 setgray stroke grestore
+            h s b sethsbcolor
+            fill
+            grestore
+            } def
+/FilledRectangle {
+       /y2 exch def /y1 exch def /x2 exch def /x1 exch def
+       newpath x1 y1 moveto x1 y2 lineto x2 y2 lineto x2 y1 lineto
+       closepath fill } def
+/insidecircletext
+  { circtextdict begin
+    /radius exch def
+    /centerangle exch def
+    /ptsize exch def
+    /str exch def
+    /xradius radius ptsize 3 div sub def
+    gsave
+      centerangle str findhalfangle sub rotate
+      str
+      { /charcode exch def
+        ( ) dup 0 charcode put insideplacechar
+      } forall
+    grestore
+    end
+  } def
+/leftinsidecircletext
+  { circtextdict begin
+    /radius exch def
+    /centerangle exch def
+    /ptsize exch def
+    /str exch def
+    /xradius radius ptsize 3 div sub def
+    gsave
+      centerangle rotate
+      str
+      { /charcode exch def
+        ( ) dup 0 charcode put insideplacechar
+      } forall
+    grestore
+    end
+  } def
+/outsidecircletext
+  { circtextdict begin
+    /radius exch def
+    /centerangle exch def
+    /ptsize exch def
+    /str exch def
+    /xradius radius ptsize 4 div add def
+    gsave
+      centerangle str findhalfangle add rotate
+      str
+      { /charcode exch def
+        ( ) dup 0 charcode put outsideplacechar
+      } forall
+    grestore
+    end
+  } def
+/leftoutsidecircletext
+  { circtextdict begin
+    /radius exch def
+    /centerangle exch def
+    /ptsize exch def
+    /str exch def
+    /xradius radius ptsize 4 div add def
+    gsave
+      centerangle rotate
+      str
+      { /charcode exch def
+        ( ) dup 0 charcode put outsideplacechar
+      } forall
+    grestore
+    end
+  } def
+/circtextdict 16 dict def
+circtextdict begin
+  /findhalfangle 
+    { stringwidth pop 2 div 2 xradius mul pi mul div 360 mul } def
+  /insideplacechar
+     { /char exch def
+       /halfangle char findhalfangle def
+       gsave 
+         halfangle rotate radius 0 translate 90 rotate
+         char stringwidth pop 2 div neg 0 moveto char show
+       grestore
+       halfangle 2 mul rotate
+     } def
+  /outsideplacechar
+     { /char exch def
+       /halfangle char findhalfangle def
+       gsave 
+         halfangle neg rotate radius 0 translate -90 rotate
+         char stringwidth pop 2 div neg 0 moveto char show
+       grestore
+       halfangle 2 mul neg rotate
+     } def
+  /pi 3.1415923 def
+end
+/filledisotriangle { gsave 5 3 roll translate rotate
+                     exch 2 div dup 3 -1 roll dup 4 1 roll neg
+                     newpath 0 0 moveto lineto neg exch neg lineto
+                     closepath fill grestore } def
+/unfilledisotriangle { gsave 5 3 roll translate rotate
+                       exch 2 div dup 3 -1 roll dup 4 1 roll neg
+                       newpath 0 0 moveto lineto neg exch neg lineto
+                       closepath stroke grestore } def
+
+%%EndProlog
+%%BeginSetup
+%%EndSetup
+
+%%Page: 1 1
+
+/Helvetica findfont 12.0 scalefont setfont
+0.0 setgray
+50 710 moveto () show
+223 430 translate
+0.2 setlinewidth
+/Helvetica findfont 12 scalefont setfont
+196.77398201998147 0 191.51162790697677 0.125 0.75 0.596 DrawColorSlice
+220.0 191.51162790697677 275.23255813953494 0.125 0.45 0.502 DrawColorSlice
+196.77398201998147 191.51162790697677 275.23255813953494 0.125 0.45 0.624 DrawColorSlice
+220.0 275.23255813953494 279.41860465116287 0.125 0.75 0.535 DrawColorSlice
+220.0 279.41860465116287 280.46511627906983 0.125 0.45 0.578 DrawColorSlice
+220.0 280.46511627906983 281.5116279069768 0.125 0.75 0.535 DrawColorSlice
+196.77398201998147 275.23255813953494 281.5116279069768 0.125 0.75 0.596 DrawColorSlice
+220.0 281.5116279069768 282.55813953488376 0.125 0.45 0.502 DrawColorSlice
+196.77398201998147 281.5116279069768 282.55813953488376 0.125 0.45 0.624 DrawColorSlice
+196.77398201998147 282.55813953488376 284.6511627906977 0.125 0.75 0.596 DrawColorSlice
+170.41126723312632 0 284.6511627906977 0.125 0.75 0.647 DrawColorSlice
+220.0 284.6511627906977 319.186046511628 0.125 0.45 0.561 DrawColorSlice
+220.0 319.186046511628 320.23255813953494 0.125 0.15 0.631 DrawColorSlice
+196.77398201998147 284.6511627906977 320.23255813953494 0.125 0.45 0.64 DrawColorSlice
+196.77398201998147 320.23255813953494 321.2790697674419 0.125 0.15 0.72 DrawColorSlice
+170.41126723312632 284.6511627906977 321.2790697674419 0.125 0.45 0.728 DrawColorSlice
+139.1402170474087 0 321.2790697674419 0.125 0.75 0.735 DrawColorSlice
+139.1402170474087 321.2790697674419 328.60465116279073 0.125 0.45 0.827 DrawColorSlice
+98.38699100999074 0 328.60465116279073 0.125 0.75 0.832 DrawColorSlice
+170.41126723312632 328.60465116279073 329.6511627906977 0.175 0.8 0.612 DrawColorSlice
+139.1402170474087 328.60465116279073 329.6511627906977 0.175 0.8 0.757 DrawColorSlice
+98.38699100999074 328.60465116279073 329.6511627906977 0.175 0.9 0.93 DrawColorSlice
+220.0 329.6511627906977 330.69767441860466 0.07 0.7 0.344 DrawColorSlice
+196.77398201998147 329.6511627906977 330.69767441860466 0.07 0.7 0.435 DrawColorSlice
+170.41126723312632 329.6511627906977 330.69767441860466 0.07 0.7 0.544 DrawColorSlice
+139.1402170474087 329.6511627906977 330.69767441860466 0.07 0.7 0.675 DrawColorSlice
+98.38699100999074 329.6511627906977 330.69767441860466 0.07 0.7 0.832 DrawColorSlice
+196.77398201998147 330.69767441860466 333.8372093023256 0.9 0.6 0.407 DrawColorSlice
+170.41126723312632 330.69767441860466 333.8372093023256 0.9 0.6 0.511 DrawColorSlice
+139.1402170474087 330.69767441860466 333.8372093023256 0.9 0.6 0.634 DrawColorSlice
+98.38699100999074 330.69767441860466 333.8372093023256 0.9 0.6 0.782 DrawColorSlice
+170.41126723312632 333.8372093023256 334.8837209302326 0.56 0.6 0.631 DrawColorSlice
+139.1402170474087 333.8372093023256 334.8837209302326 0.56 0.6 0.78 DrawColorSlice
+139.1402170474087 334.8837209302326 335.93023255813955 0.56 0.3 0.876 DrawColorSlice
+98.38699100999074 333.8372093023256 335.93023255813955 0.56 0.6 0.881 DrawColorSlice
+98.38699100999074 335.93023255813955 336.9767441860465 0.175 0.6 0.98 DrawColorSlice
+98.38699100999074 336.9767441860465 347.4418604651163 0.175 0.6 0.98 DrawColorSlice
+170.41126723312632 347.4418604651163 353.72093023255815 1.0 0.4 0.646 DrawColorSlice
+139.1402170474087 347.4418604651163 353.72093023255815 1.0 0.4 0.798 DrawColorSlice
+98.38699100999074 347.4418604651163 353.72093023255815 1.0 0.4 0.98 DrawColorSlice
+98.38699100999074 353.72093023255815 354.7674418604651 0.175 0.6 0.98 DrawColorSlice
+196.77398201998147 354.7674418604651 357.90697674418607 0.75 0.4 0.361 DrawColorSlice
+170.41126723312632 354.7674418604651 357.90697674418607 0.75 0.4 0.457 DrawColorSlice
+139.1402170474087 354.7674418604651 357.90697674418607 0.75 0.4 0.572 DrawColorSlice
+98.38699100999074 354.7674418604651 357.90697674418607 0.75 0.4 0.708 DrawColorSlice
+98.38699100999074 357.90697674418607 360.0 0.175 0.6 0.98 DrawColorSlice
+(unclassified Ascomycota  53) 12 95.75581395348838 183.77398201998147 outsidecircletext
+(Saccharomycetes  23) 12 233.37209302325584 215.0 insidecircletext
+(Saccharomycotina  23) 12 233.37209302325584 191.77398201998147 insidecircletext
+0.0 setgray
+24.388266227957168 -206.95494797803758 1 filledcircle
+0.0 setgray
+newpath 24.388266227957168 -206.95494797803758 moveto 25.82386288228007 -229.5520161223534 lineto stroke
+0.0 setgray
+25.82386288228007 -229.5520161223534 moveto gsave 276.4186046511629 rotate (Sordariomycetes  1.2) show grestore % rot string
+0.0 setgray
+30.044254637214223 -181.11762636629533 1 filledcircle
+0.0 setgray
+newpath 30.044254637214223 -181.11762636629533 moveto 39.88186753279418 -227.53117729686332 lineto stroke
+0.0 setgray
+39.88186753279418 -227.53117729686332 moveto gsave 279.94186046511635 rotate (Pezizomycotina  1.7) show grestore % rot string
+(Ascomycota  79) 12 142.32558139534885 157.41126723312632 outsidecircletext
+0.0 setgray
+135.14347349409616 -158.62338917747437 1 filledcircle
+0.0 setgray
+newpath 135.14347349409616 -158.62338917747437 moveto 150.5920767113007 -175.16571134722037 lineto stroke
+0.0 setgray
+150.5920767113007 -175.16571134722037 moveto gsave 310.686046511628 rotate (Tremellomycetes  9.6) show grestore % rot string
+0.0 setgray
+100.98953780192029 -153.3211175012146 1 filledcircle
+0.0 setgray
+newpath 100.98953780192029 -153.3211175012146 moveto 128.6289217937196 -191.87391818114614 lineto stroke
+0.0 setgray
+128.6289217937196 -191.87391818114614 moveto gsave 303.8372093023257 rotate (Agaricomycotina  9.9) show grestore % rot string
+0.0 setgray
+67.76451080338653 -139.1527988602755 1 filledcircle
+0.0 setgray
+newpath 67.76451080338653 -139.1527988602755 moveto 95.66614318051322 -210.25933760231803 lineto stroke
+0.0 setgray
+95.66614318051322 -210.25933760231803 moveto gsave 294.4651162790698 rotate (Basidiomycota  10) show grestore % rot string
+(Dikarya  89) 12 160.63953488372096 126.1402170474087 outsidecircletext
+0.0 setgray
+95.74062513421012 -70.27464934666294 1 filledcircle
+0.0 setgray
+newpath 95.74062513421012 -70.27464934666294 moveto 184.7524860044502 -138.66332938154716 lineto stroke
+0.0 setgray
+184.7524860044502 -138.66332938154716 moveto gsave 323.11046511627916 rotate (environmental samples  2.0) show grestore % rot string
+(Fungi  91) 12 164.30232558139537 85.38699100999074 outsidecircletext
+0.0 setgray
+136.99655007681946 -72.02413222052783 1 filledcircle
+0.0 setgray
+newpath 136.99655007681946 -72.02413222052783 moveto 206.30977741847312 -103.90994053284834 lineto stroke
+0.0 setgray
+206.30977741847312 -103.90994053284834 moveto gsave 333.26744186046517 rotate (unclassified Bicosoecida  0.9) show grestore % rot string
+0.0 setgray
+43.11724315686539 -23.683398036425093 1 filledcircle
+0.0 setgray
+newpath 43.11724315686539 -23.683398036425093 moveto 201.4434131587156 -113.05552306263945 lineto stroke
+0.0 setgray
+201.4434131587156 -113.05552306263945 moveto gsave 330.69767441860466 rotate (stramenopiles  0.9) show grestore % rot string
+0.0 setgray
+45.83967292856697 -17.85285371591905 1 filledcircle
+0.0 setgray
+newpath 45.83967292856697 -17.85285371591905 moveto 212.5999683047213 -90.34519066796803 lineto stroke
+0.0 setgray
+212.5999683047213 -90.34519066796803 moveto gsave 336.97674418604646 rotate (environmental samples  2.9) show grestore % rot string
+0.0 setgray
+152.68922203682803 -25.328478613189738 1 filledcircle
+0.0 setgray
+newpath 152.68922203682803 -25.328478613189738 moveto 221.58033833440544 -65.29283010875244 lineto stroke
+0.0 setgray
+221.58033833440544 -65.29283010875244 moveto gsave 343.5813953488372 rotate (unclassified Acanthamoeba  1.7) show grestore % rot string
+0.0 setgray
+48.65167075026495 -7.281135433970018 1 filledcircle
+0.0 setgray
+newpath 48.65167075026495 -7.281135433970018 moveto 228.71918365589434 -32.381090589745135 lineto stroke
+0.0 setgray
+228.71918365589434 -32.381090589745135 moveto gsave 351.94186046511624 rotate (Acanthamoebidae  1.7) show grestore % rot string
+0.0 setgray
+183.3170736547633 -10.054965137722391 1 filledcircle
+0.0 setgray
+newpath 183.3170736547633 -10.054965137722391 moveto 230.70866079335352 -11.598009955907756 lineto stroke
+0.0 setgray
+230.70866079335352 -11.598009955907756 moveto gsave 357.12209302325584 rotate (Dimastigella  0.9) show grestore % rot string
+0.0 setgray
+49.02742172549343 -4.038801672602121 1 filledcircle
+0.0 setgray
+newpath 49.02742172549343 -4.038801672602121 moveto 230.0373620292621 -21.06684766684849 lineto stroke
+0.0 setgray
+230.0373620292621 -21.06684766684849 moveto gsave 354.76744186046506 rotate (Euglenozoa  0.9) show grestore % rot string
+%%Trailer
+%%Pages: 1
+%%EOF

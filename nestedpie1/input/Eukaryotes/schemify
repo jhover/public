@@ -1,0 +1,15 @@
+#!/usr/bin/perl
+#
+print "(define lst '(\n";
+while ( <> )
+   {
+    chomp;
+    next if ( /^\s*$/ );
+    s/^\s+//; s/\s+$//;
+    /^(\d+)\s+(\S+)\s+(.*)$/ || die "Bad: $_\n";
+    ($n,$ac,$tax) = ($1,$2,$3);
+    $tax =~ s/^Eukaryota\; //;
+    @tax = map( "\"$_\"", split( /\; /, $tax) );
+    print "  ($n \"$ac\" (", join( ' ', @tax), ") )\n";
+   }
+print ") )\n";

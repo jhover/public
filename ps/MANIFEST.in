@@ -1,0 +1,3 @@
+include *.py *.pyo MANIFEST.in
+recursive-include *.pyo *.pyc
+prune examples/sample?/build

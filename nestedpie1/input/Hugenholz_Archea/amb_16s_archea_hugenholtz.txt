@@ -1,0 +1,1328 @@
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	SCA1154	OTU-30
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Candidatus_Nitrosopumilus	Unclassified	OTU-16
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	ARCP1-30	anta6	OTU-124
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	SCA1154	OTU-30
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	SCA1154	OTU-30
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	PS7ARC37	OTU-18
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Thermoplasmata	Unclassified	OTU-116
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Thermoplasmata	E2	aquatic_group_III	pMC2A33	pMC2A203	HR-MM-003	OTU-121
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	SB95-57	pIVWA11	OTU-20
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Thermoplasmata	Thermoplasmatales	Aciduliprofundum	OTU-137
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	NRP-J	OTU-25
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	NRP-J	OTU-25
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	SB95-57	Unclassified	OTU-19
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	Crenarchaeum	SB95-57	Unclassified	OTU-19
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Thermoplasmata	Thermoplasmatales	Aciduliprofundum	OTU-137
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	PS7ARC37	OTU-18
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	SB95-57	Unclassified	OTU-19
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	NRP-J	OTU-25
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Thermoplasmata	E2	Terrestrial_group	SBAK-shallow-14	OTU-125
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	Thermoplasmatales	Aciduliprofundum	OTU-137
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	Crenarchaeum	SB95-57	Unclassified	OTU-19
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Thermoplasmata	Thermoplasmatales	Aciduliprofundum	OTU-137
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Thermoplasmata	Thermoplasmatales	Aciduliprofundum	OTU-137
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	NRP-J	OTU-25
+Thermoplasmata	E3	Unclassified	OTU-129
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	Crenarchaeum	PS7ARC37	OTU-18
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Thermoplasmata	Thermoplasmatales	Aciduliprofundum	OTU-137
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	Crenarchaeum	SB95-57	Unclassified	OTU-19
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	SCA1170	Unclassified	OTU-29
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	Crenarchaeum	Unclassified	OTU-15
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	NRP-J	OTU-25
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Crenarchaea	Unclassified	OTU-14
+Thermoplasmata	E2	Terrestrial_group	Unclassified	OTU-122
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	Unclassified	OTU-22
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23
+Crenarchaea	Crenarchaeales	SAGMA-X	SAGMA-D	NRP-P	OTU-23

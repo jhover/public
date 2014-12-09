@@ -1,0 +1,13 @@
+
+From -> To       From notification type                   Done?
+
+jeff -> dick     845-294-6125 (w/ price)                   X
+vickie -> nancy  vickie.reznik@kirkland.com                X
+joel -> john     joelnewton1@mac.com (Vickie don't read)   X
+dick -> chris    (direct)
+nancy -> vickie  JNewton2@hvc.rr.com                       X
+erika -> joel    (direct)                                  X
+chris -> tika    CNEWTONCHEH@PARTNERS.ORG                  X
+tika -> emily    (direct)                                  X
+john -> jeff     X                                         X
+emily -> erika   ENEWTONCHEH@PARTNERS.ORG                  X

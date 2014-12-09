@@ -1,0 +1,28 @@
+Acidobacteria
+Acidobacteria
+Acidobacterium
+Actinobacteria
+Actinobacteria	Arthrobacter		
+						Mycobacterium		
+						Thermobispora		
+						Sporichthya		
+						Streptomyces		
+		Bacteroidetes	Flavobacteria	Flavobacterium		
+				Sphingobacteria	Chitinophaga		
+		Firmicutes	Bacilli		Bacillus		
+						Thermobacillus		
+				Clostridia	Desulfotomaculum	
+		Genera_incertae_sedis		TM7		1145.8	
+		Planctomycetes	Planctomycetacia	Gemmata	18	
+							Pirellula	
+		Proteobacteria	Alphaproteobacteria	Bradyrhizobium	
+							Hyphomicrobium	
+							Rhodoplanes	
+							Rhizobium	
+				Betaproteobacteria	Acidovorax	
+							Duganella	
+							Oxalobacter
+							Azonexus
+		Verrucomicrobia	Verrucomicrobiae	Prosthecobacter
+							Verrucomicrobium
+

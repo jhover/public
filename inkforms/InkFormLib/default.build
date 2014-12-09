@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<project name="InkFormLib" default="build" basedir="."> 
+	<target name="build">
+		<csc target="library" output="InkFormLib.dll">                       
+			<sources>
+         	        <include name="*.cs"/>
+			</sources>      
+ 		</csc>    
+ 				<csc target="library" output="../InkFormClient/InkFormLib.dll">                       
+			<sources>
+         	        <include name="*.cs"/>
+			</sources>      
+ 		</csc>    
+ 				<csc target="library" output="../InkFormServer/InkFormLib.dll">                       
+			<sources>
+         	        <include name="*.cs"/>
+			</sources>      
+ 		</csc>    
+	</target>
+	<target name="clean">
+	    <delete file="InkFormLib.dll" failonerror="false"/>
+	</target>    
+</project> 

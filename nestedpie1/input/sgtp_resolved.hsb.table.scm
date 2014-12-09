@@ -1,0 +1,56 @@
+ (define top_hsb_vals
+   '(
+     ;("Acidobacteria"                          4    0.25  0.7  0.85)
+     ("Acidobacteria"                          4    0.25  0.7  0.9)
+     ;("Actinobacteria"                         2    0.125 0.75  0.8)
+     ("Actinobacteria"                         2    0.08 0.75  0.98)
+     ;("Bacteroidetes"                          6    0.55  0.7  0.8)
+     ("Bacteroidetes"                          6    0.55  0.7  0.9)
+     ("Chlorobi"                              14    0.75  0.4  0.725)
+     ("Cyanobacteria"                         11    0.475 0.4  0.7)
+     ;("Firmicutes"                             3    0.175 0.7  0.85)
+     ("Firmicutes"                             3    0.175 0.9  0.95)
+     ;("Gemmatimonadetes"                       8    0.85  0.7  0.7)
+     ("Gemmatimonadetes"                       8    0.85  0.5  0.9)
+     ("Genera_incertae_sedis_BRC1"            16    0.175 0.6  1.0)
+     ;("Genera_incertae_sedis_Dehalococcoides" 20    0.175 0.6  1.0)
+     ("Genera_incertae_sedis_Dehalococcoides" 20    0.06 0.6  1.0)
+     ("Genera_incertae_sedis_OP10"            18    0.175 0.6  1.0)
+     ("Genera_incertae_sedis_OP11"            17    0.175 0.6  1.0)
+     ;("Genera_incertae_sedis_TM7"             19    0.175 0.6  1.0)
+     ("Genera_incertae_sedis_TM7"             19    0.12 0.6  1.0)
+     ("Genera_incertae_sedis_WS3"             15    0.400 0.6  1.0)
+     ("Nitrospira"                             9    0.3   0.5  1.0)
+     ;("Planctomycetes"                         7    0.7  0.7   0.9)
+     ("Planctomycetes"                         7    0.7  0.5   0.9)
+     ;("Proteobacteria"                         1    0.0   0.75  0.9)
+     ("Proteobacteria"                         1    0.0   0.65  0.93)
+     ("Thermodesulfobacteria"                 12    1.0   0.4  1.0)
+     ("Thermomicrobia"                        10    1.0   0.4  1.0)
+     ("Thermotogae"                           13    0.575 0.4  1.0)
+     ;("Verrucomicrobia"                        5    0.4   0.7  0.7 )
+     ("Verrucomicrobia"                        5    0.4   0.7  0.85 )
+     ("Fusobacteria"                      13    0.575 0.4  1.0)
+    ))
+
+;(set! color_mod_sat_fact 0.85)
+;(set! color_mod_bright_fact 1)
+
+(set! font_size 16) ;12 ;13
+;(set! font_size 7) ;13
+(set! annulus_radius 43)  ; 36
+(set! x_offset -60)
+
+(show-label "Fusobacteria")
+(veto-label "Fusobacteria" 1)
+(show-label "Planctomycetes")
+(show-label "Bacteroidetes")
+(veto-label "Bacteroidetes" 1)
+(show-label "Actinobacteria")
+(veto-label "Actinobacteria" 1)
+(set-c-offsets "Actinobacteria" '(0 0) 'cent)
+
+(veto-label "Sphingomonadales" 1)
+
+(set-c-offsets "Proteobacteria" '(0 0) 'cent)
+(set-c-offsets "Fusobacteria" '(0 0) 'cent)

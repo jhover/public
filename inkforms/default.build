@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<project name="InkForms" default="build">
+	<target name="InkFormLib">
+		<nant buildfile="InkFormLib/default.build" 
+			inheritall="true"/>
+	</target>
+	<target name="InkFormClient" depends="InkFormLib">
+		<nant buildfile="InkFormClient/default.build" 
+			inheritall="true"/>
+	</target>
+	<target name="InkFormServer" depends="InkFormLib">
+		<nant buildfile="InkFormServer/default.build" 
+		inheritall="true"/>
+	</target>
+	<target name="build" depends="InkFormLib, InkFormServer, InkFormClient"/>
+	<target name="clean">
+		<nant buildfile="InkFormLib/default.build" target="clean"/>
+		<nant buildfile="InkFormClient/default.build" target="clean"/>
+		<nant buildfile="InkFormServer/default.build" target="clean"/>
+	</target>
+</project>

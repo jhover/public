@@ -1,0 +1,7 @@
+#!/bin/csh
+# 
+../scoresite -i -c ./checks.conf -r re1-jizu,re1-jizu2,re1-lax,re-dyn rat1.fa >junk
+diff junk rat1.ss
+
+
+

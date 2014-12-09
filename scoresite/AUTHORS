@@ -1,0 +1,21 @@
+AUTHORS
+=======
+
+Sean R. McCorkle  
+Biology Dept., Brookhaven National Laboratory
+mccorkle@bnl.gov
+* (adapted from Jizu's scoreRE1 perl script )
+
+Chaolin Zhang
+* added user-selectable config
+
+John R. Hover 
+Gail Mandel Lab, Howard Hughes Medical Inst.
+Dept. of Neurobiology & Behavior
+Stony Brook University
+jhover@ic.sunysb.edu, jhover@saros.us 
+* multiple case matrices via config file
+* GNU argp argument processing/documentation (obsoleted by argtable)
+* fleshed out support for IUPAC/IUB ambiguity codes 
+* user-selectable: matrices, minimum score, maximum mismatches, output file
+* cascading search for configuration file.

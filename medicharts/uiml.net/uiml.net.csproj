@@ -1,0 +1,888 @@
+<VisualStudioProject>
+    <CSHARP
+        ProjectType = "Local"
+        ProductVersion = "7.10.3077"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{930F3276-6007-43DB-A2E6-9C8F303164FB}"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = ""
+                AssemblyKeyContainerName = ""
+                AssemblyName = "uiml.net"
+                AssemblyOriginatorKeyFile = ""
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "Library"
+                PreBuildEvent = ""
+                PostBuildEvent = ""
+                RootNamespace = "uiml.net"
+                RunPostBuildEvent = "OnBuildSuccess"
+                StartupObject = ""
+            >
+                <Config
+                    Name = "Debug"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "DEBUG;TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "true"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "false"
+                    OutputPath = "bin\Debug\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+                <Config
+                    Name = "Release"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "false"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "true"
+                    OutputPath = "bin\Release\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                    HintPath = "..\..\..\..\..\..\WINNT\Microsoft.NET\Framework\v1.1.4322\System.dll"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                    HintPath = "..\..\..\..\..\..\WINNT\Microsoft.NET\Framework\v1.1.4322\System.Data.dll"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                    HintPath = "..\..\..\..\..\..\WINNT\Microsoft.NET\Framework\v1.1.4322\System.XML.dll"
+                />
+                <Reference
+                    Name = "System.Windows.Forms"
+                    AssemblyName = "System.Windows.Forms"
+                    HintPath = "..\..\..\..\..\..\WINNT\Microsoft.NET\Framework\v1.1.4322\System.Windows.Forms.dll"
+                />
+                <Reference
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                    HintPath = "..\..\..\..\..\..\WINNT\Microsoft.NET\Framework\v1.1.4322\System.Drawing.dll"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "AssemblyInfo.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "AUTHORS"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "ChangeLog"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "Class1.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "COPYING"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "INSTALL"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "NEWS"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "README"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "TODO"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "docs\behavior.xml"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "docs\connect-notes.txt"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "docs\fdl-1.2.xml"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "docs\intro.xml"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "docs\Makefile"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "docs\revhistory.xml"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "docs\uiml.net.docs.xml"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "docs\uiml.net.xml"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "docs\uiml.xml"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "docs\figures\Makefile"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\CalcFunc.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "examples\CalcFuncInt.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "examples\Dictionary.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "examples\compact-swf\cswfCalculator.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\compact-swf\cswfHello.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\compact-swf\cswfTabs.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\all-widgets.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\browser.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\calculator.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\calendar.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\call.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\change-the-button.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\check.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\choose_current_job.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\colorselection.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\combo.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\container.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\copy.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\counter.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\crypto.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\dictionary.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\entry.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\ets-hbox.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\ets-tabs.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\gtk-sharp-1.0.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\hellohelloworld.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\helloworld.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\helloworld_template.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\helloworld_template_data.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\helloworld2.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\helloworldEvent.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\image.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\label.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\layouttest.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\listview.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\remote.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\scripted-button.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\select_unemployed.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\spictibob.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\tabs.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\Template1.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\treeview.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\gtk-sharp\uimlblog.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swf-1.1.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfBgFgColor.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfBlog.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfButtonDisabled.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfButtonInvisible.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfCalculator.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfCalendar.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfChangeTheButton.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfComboBox.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfComboEvent.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfCopy.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfFillText.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfHello.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfImage.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfListBox.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfListview_details.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfListview_icons.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfMultipleWidgets.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfPizzaForm.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfProgressBar.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfRanges.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfScrollableTextbox.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfScrollbars.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfTabs.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfTextbox.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfToggleButton.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\swf\swfTreeview.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\wx.net\wxall.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\wx.net\wxbutton.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "examples\wx.net\wxcalculator.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "Uiml\AssemblyInfo.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Behavior.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\CascadeTemplateResolver.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Constant.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Content.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\ExternalLibraries.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Head.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Interface.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\ITemplateResolver.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\IUimlElement.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Logic.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Makefile"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "Uiml\MappingNotFoundException.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Param.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Part.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Peer.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Presentation.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Property.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Reference.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\ReplaceTemplateResolver.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Restructure.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Structure.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Style.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Template.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\TemplateAlreadyProcessedException.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\TemplateRepository.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\uiml.net.build"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "Uiml\uiml.net.snk"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "Uiml\UIML3_0a.dtd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "Uiml\UimlAttributes.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\UimlDocument.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\UimlElement.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\UnionTemplateResolver.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\VocabularyUnavailableException.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\WrongNestingException.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Executing\Action.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Executing\Call.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Executing\Condition.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Executing\Equal.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Executing\Event.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Executing\EventHandlerAttribute.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Executing\IExecutable.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Executing\Op.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Executing\Param.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Executing\Rule.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Executing\Script.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Executing\ValueNotEvaluatedException.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Executing\Binding\UimlEventArgs.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Executing\Binding\UimlEventHandlerAttribute.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\FrontEnd\CommandLine.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\FrontEnd\compactgui.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "Uiml\FrontEnd\gtkgui.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "Uiml\FrontEnd\NoGuiAvailableException.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\FrontEnd\Options.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\FrontEnd\SwfGUI.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\FrontEnd\UimlFrontEnd.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\FrontEnd\UimlTool.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Peers\CustomVocabulary.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Peers\DClass.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Peers\DComponent.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Peers\DMethod.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Peers\DParam.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Peers\DProperty.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Peers\Event.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Peers\Script.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Peers\Vocabulary.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Rendering\BackendFactory.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Rendering\InvalidTypeValueException.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Rendering\IPropertySetter.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Rendering\IRenderedInstance.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Rendering\IRenderer.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Rendering\ITypeDecoder.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Rendering\Renderer.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Rendering\TypeDecoder.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Rendering\CompactSWF\CompactSWFEventLink.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Rendering\CompactSWF\CompactSWFEventLinker.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Rendering\CompactSWF\CompactSWFRenderedInstance.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Rendering\CompactSWF\CompactSWFRenderer.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Uiml\Rendering\CompactSWF\CompactSWFTypeDecoder.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <Folder RelPath = "Uiml\Rendering\SWF\" />
+                <File
+                    RelPath = "Uiml\Utils\TodoAttribute.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "vocabularies\cswf-1.0.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "vocabularies\gtk-sharp-1.0.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "vocabularies\swf-1.1.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "vocabularies\wx-net-1.0.uiml"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "vocabularies\wx-net-1.0-prev.uiml"
+                    BuildAction = "None"
+                />
+            </Include>
+        </Files>
+    </CSHARP>
+</VisualStudioProject>
+

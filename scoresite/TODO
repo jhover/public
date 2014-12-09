@@ -1,0 +1,17 @@
+TODO
+====
+* better cross-platform makefile support.
+* better error handling, perhaps an option to check matrix validity
+* possibly alter buffer usage to eliminate need for memmov calls--use a 
+circular buffer?
+* add support for a regulator template and paramters supplied on the command
+line ala prosearch.
+* add back support for printing surrounding sequence of a hit. 
+
+
+
+LIMITATIONS
+===========
+To make it O(n) on sequence length, we read sequence file once for each 
+regulator. 
+ 

@@ -1,0 +1,41 @@
+Table 2 – Major Bacterial and Eukaryotic Domain Changes
+
+Domain	Phylum	Class	Genus	Number of taxonomic units	P value
+				Ambient	Elevated	
+						
+Bacteria	Acidobacteria	Acidobacteria	Acidobacterium			120	56	5.2e-07
+		Actinobacteria	Actinobacteria	Arthrobacter			5	78	0
+						Mycobacterium			7	17	0.01
+						Thermobispora			1	11	0.001
+						Sporichthya			1	19	2.2e-05
+						Streptomyces			28	12	0.006
+		Bacteroidetes	Flavobacteria	Flavobacterium			9	14	0.1
+				Sphingobacteria	Chitinophaga			28	40	0.05
+		Firmicutes	Bacilli		Bacillus			11	2	0.007
+						Thermobacillus			8	-	0.002
+				Clostridia	Desulfotomaculum		55	2	0
+		Genera_incertae_sedis		TM7		1145.8		-	13	0.0001
+		Planctomycetes	Planctomycetacia	Gemmata	18		5	0.004
+							Pirellula		4	11	0.03
+		Proteobacteria	Alphaproteobacteria	Bradyrhizobium		34	13	0.001
+							Hyphomicrobium		10	19	0.04
+							Rhodoplanes		59	110	1.3e-05
+							Rhizobium		30	6	3.6e-05
+				Betaproteobacteria	Acidovorax		1	7	0.01
+							Duganella		9	2	0.02
+							Oxalobacter		8	2	0.03
+							Azonexus		9	2	0.02
+		Verrucomicrobia	Verrucomicrobiae	Prosthecobacter		12	3	0.01
+							Verrucomicrobium	27	18	0.099
+Eukaryota	Fungi				Ascomycota	Cazia		32	-	Waiting 
+							Pachyphloeus		1	26	On 
+						Basidiomycota	Inocybe		10	171	Dimitris
+								Grifola		11	-	
+								Laccaria	36	12	
+								Boletus		19	-	
+								Thanatephorus	11	-	
+								Thelephora	19	3	
+								Tremellodendron	11	-	
+								Cryptococcus	26	-	
+								Rhodotorula	8	-	
+						Zygomycota	Mortierella	63	16	

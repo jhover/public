@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+
+<project name="InkFormClient" default="build" basedir="."> 
+	<target name="build">
+		<csc target="exe" output="InkFormClient.exe">                       
+			<sources>
+         		<include name="*.cs"/>
+			</sources>
+			<references>
+                <include name="../InkFormLib/InkFormLib.dll" />
+                <include name="System.Drawing.dll" />
+    			<include name="System.Windows.Forms.dll" />
+    			<include name="System.Runtime.Serialization.Formatters.Soap.dll" />
+            </references>      
+ 		</csc>    
+	</target>
+	<target name="clean">
+	    <delete file="InkFormClient.exe" failonerror="false"/>
+	</target>    
+</project> 

@@ -1,0 +1,1377 @@
+%!PS-Adobe-3.0
+%%BoundingBox: 69 69 556 739
+%%Title: 
+%%CreationDate: Tue Mar 16 11:52:57 2003
+%%Creator: nested-pie.scm by Sean R. McCorkle (mccorkle@bnl.gov)
+%%Orientation: Landscape
+%%Pages: (atend)
+%%EndComments
+%%BeginProlog
+
+/rightshow { dup stringwidth pop 0 exch sub 0 rmoveto show } def
+/showcenter { dup stringwidth pop 2 div 0 exch sub 0 rmoveto show } def
+/vshowcenter { gsave 3 1 roll translate 90 rotate 0 0 moveto
+               dup stringwidth pop 2 div 0 exch sub 0 rmoveto
+               show  grestore } def
+/filledcircle { newpath 0 360 arc fill } def
+/unfilledcircle { newpath 0 360 arc stroke } def
+% xvert yvert w h ang isotriangle
+/DrawSliceBorder {
+            /grayshade exch def
+            /endangle exch def
+            /startangle exch def
+            /radius exch def
+            newpath 0 0 moveto
+              0 0 radius startangle endangle arc
+            closepath
+            1.415 setmiterlimit
+            gsave
+              grayshade setgray
+              fill
+            grestore
+            stroke
+            } def
+/DrawSlice {
+            /grayshade exch def
+            /endangle exch def
+            /startangle exch def
+            /radius exch def
+            gsave
+            newpath 0 0 moveto
+              0 0 radius startangle endangle arc
+            closepath
+            grayshade setgray
+            fill
+            grestore
+            } def
+/DrawColorSlice {
+            /b exch def
+            /s exch def
+            /h exch def
+            /endangle exch def
+            /startangle exch def
+            /radius exch def
+            gsave
+            newpath 0 0 moveto
+              0 0 radius startangle endangle arc
+            closepath
+            h s b sethsbcolor
+            fill
+            grestore
+            } def
+/DrawColorSliceBorder {
+            /b exch def
+            /s exch def
+            /h exch def
+            /endangle exch def
+            /startangle exch def
+            /radius exch def
+            gsave
+            newpath 0 0 moveto
+              0 0 radius startangle endangle arc
+            closepath
+            gsave 0 setgray stroke grestore
+            h s b sethsbcolor
+            fill
+            grestore
+            } def
+/FilledRectangle {
+       /y2 exch def /y1 exch def /x2 exch def /x1 exch def
+       newpath x1 y1 moveto x1 y2 lineto x2 y2 lineto x2 y1 lineto
+       closepath fill } def
+/insidecircletext
+  { circtextdict begin
+    /radius exch def
+    /centerangle exch def
+    /ptsize exch def
+    /str exch def
+    /xradius radius ptsize 3 div sub def
+    gsave
+      centerangle str findhalfangle sub rotate
+      str
+      { /charcode exch def
+        ( ) dup 0 charcode put insideplacechar
+      } forall
+    grestore
+    end
+  } def
+/leftinsidecircletext
+  { circtextdict begin
+    /radius exch def
+    /centerangle exch def
+    /ptsize exch def
+    /str exch def
+    /xradius radius ptsize 3 div sub def
+    gsave
+      centerangle rotate
+      str
+      { /charcode exch def
+        ( ) dup 0 charcode put insideplacechar
+      } forall
+    grestore
+    end
+  } def
+/outsidecircletext
+  { circtextdict begin
+    /radius exch def
+    /centerangle exch def
+    /ptsize exch def
+    /str exch def
+    /xradius radius ptsize 4 div add def
+    gsave
+      centerangle str findhalfangle add rotate
+      str
+      { /charcode exch def
+        ( ) dup 0 charcode put outsideplacechar
+      } forall
+    grestore
+    end
+  } def
+/leftoutsidecircletext
+  { circtextdict begin
+    /radius exch def
+    /centerangle exch def
+    /ptsize exch def
+    /str exch def
+    /xradius radius ptsize 4 div add def
+    gsave
+      centerangle rotate
+      str
+      { /charcode exch def
+        ( ) dup 0 charcode put outsideplacechar
+      } forall
+    grestore
+    end
+  } def
+/circtextdict 16 dict def
+circtextdict begin
+  /findhalfangle 
+    { stringwidth pop 2 div 2 xradius mul pi mul div 360 mul } def
+  /insideplacechar
+     { /char exch def
+       /halfangle char findhalfangle def
+       gsave 
+         halfangle rotate radius 0 translate 90 rotate
+         char stringwidth pop 2 div neg 0 moveto char show
+       grestore
+       halfangle 2 mul rotate
+     } def
+  /outsideplacechar
+     { /char exch def
+       /halfangle char findhalfangle def
+       gsave 
+         halfangle neg rotate radius 0 translate -90 rotate
+         char stringwidth pop 2 div neg 0 moveto char show
+       grestore
+       halfangle 2 mul neg rotate
+     } def
+  /pi 3.1415923 def
+end
+/filledisotriangle { gsave 5 3 roll translate rotate
+                     exch 2 div dup 3 -1 roll dup 4 1 roll neg
+                     newpath 0 0 moveto lineto neg exch neg lineto
+                     closepath fill grestore } def
+/unfilledisotriangle { gsave 5 3 roll translate rotate
+                       exch 2 div dup 3 -1 roll dup 4 1 roll neg
+                       newpath 0 0 moveto lineto neg exch neg lineto
+                       closepath stroke grestore } def
+
+%%EndProlog
+%%BeginSetup
+%%EndSetup
+
+%%Page: 1 1
+
+15 0 translate
+0.2 setlinewidth
+/Helvetica findfont 7 scalefont setfont
+0.0 0.75 0.45 sethsbcolor
+144.0 180.0 50.0 88.312 FilledRectangle
+0.0 0.68 0.457 sethsbcolor
+144.0 180.0 88.312 97.403 FilledRectangle
+0.0 0.61 0.464 sethsbcolor
+144.0 180.0 97.403 103.896 FilledRectangle
+0.0 0.54 0.471 sethsbcolor
+144.0 180.0 103.896 110.39 FilledRectangle
+0.0 0.47 0.479 sethsbcolor
+144.0 180.0 110.39 111.688 FilledRectangle
+0.0 0.4 0.486 sethsbcolor
+144.0 180.0 111.688 112.987 FilledRectangle
+0.0 0.33 0.493 sethsbcolor
+144.0 180.0 112.987 113.636 FilledRectangle
+0.0 0.75 0.55 sethsbcolor
+108.0 144.0 50.0 113.636 FilledRectangle
+0.0 0.68 0.456 sethsbcolor
+144.0 180.0 113.636 135.714 FilledRectangle
+0.0 0.61 0.466 sethsbcolor
+144.0 180.0 135.714 144.805 FilledRectangle
+0.0 0.54 0.476 sethsbcolor
+144.0 180.0 144.805 147.403 FilledRectangle
+0.0 0.47 0.486 sethsbcolor
+144.0 180.0 147.403 148.701 FilledRectangle
+0.0 0.4 0.496 sethsbcolor
+144.0 180.0 148.701 148.701 FilledRectangle
+0.0 0.68 0.556 sethsbcolor
+108.0 144.0 113.636 148.701 FilledRectangle
+0.0 0.61 0.462 sethsbcolor
+144.0 180.0 148.701 168.182 FilledRectangle
+0.0 0.61 0.562 sethsbcolor
+108.0 144.0 148.701 168.182 FilledRectangle
+0.0 0.54 0.468 sethsbcolor
+144.0 180.0 168.182 180.519 FilledRectangle
+0.0 0.47 0.494 sethsbcolor
+144.0 180.0 180.519 185.714 FilledRectangle
+0.0 0.54 0.568 sethsbcolor
+108.0 144.0 168.182 185.714 FilledRectangle
+0.0 0.47 0.474 sethsbcolor
+144.0 180.0 185.714 190.26 FilledRectangle
+0.0 0.4 0.487 sethsbcolor
+144.0 180.0 190.26 192.208 FilledRectangle
+0.0 0.33 0.5 sethsbcolor
+144.0 180.0 192.208 192.857 FilledRectangle
+0.0 0.26 0.513 sethsbcolor
+144.0 180.0 192.857 193.506 FilledRectangle
+0.0 0.47 0.574 sethsbcolor
+108.0 144.0 185.714 193.506 FilledRectangle
+0.0 0.4 0.48 sethsbcolor
+144.0 180.0 193.506 195.455 FilledRectangle
+0.0 0.33 0.498 sethsbcolor
+144.0 180.0 195.455 196.104 FilledRectangle
+0.0 0.26 0.515 sethsbcolor
+144.0 180.0 196.104 196.104 FilledRectangle
+0.0 0.4 0.58 sethsbcolor
+108.0 144.0 193.506 196.104 FilledRectangle
+0.0 0.33 0.486 sethsbcolor
+144.0 180.0 196.104 198.052 FilledRectangle
+0.0 0.33 0.586 sethsbcolor
+108.0 144.0 196.104 198.052 FilledRectangle
+0.0 0.26 0.492 sethsbcolor
+144.0 180.0 198.052 199.351 FilledRectangle
+0.0 0.26 0.592 sethsbcolor
+108.0 144.0 198.052 199.351 FilledRectangle
+0.0 0.19 0.498 sethsbcolor
+144.0 180.0 199.351 199.351 FilledRectangle
+0.0 0.19 0.598 sethsbcolor
+108.0 144.0 199.351 199.351 FilledRectangle
+0.0 0.12 0.504 sethsbcolor
+144.0 180.0 199.351 199.351 FilledRectangle
+0.0 0.12 0.604 sethsbcolor
+108.0 144.0 199.351 199.351 FilledRectangle
+0.0 0.75 0.65 sethsbcolor
+72.0 108.0 50.0 199.351 FilledRectangle
+0.0 0.68 0.462 sethsbcolor
+144.0 180.0 199.351 205.195 FilledRectangle
+0.0 0.61 0.469 sethsbcolor
+144.0 180.0 205.195 207.792 FilledRectangle
+0.0 0.54 0.477 sethsbcolor
+144.0 180.0 207.792 209.74 FilledRectangle
+0.0 0.47 0.484 sethsbcolor
+144.0 180.0 209.74 211.688 FilledRectangle
+0.0 0.4 0.491 sethsbcolor
+144.0 180.0 211.688 212.987 FilledRectangle
+0.0 0.33 0.499 sethsbcolor
+144.0 180.0 212.987 214.286 FilledRectangle
+0.0 0.26 0.506 sethsbcolor
+144.0 180.0 214.286 214.286 FilledRectangle
+0.0 0.68 0.562 sethsbcolor
+108.0 144.0 199.351 214.286 FilledRectangle
+0.0 0.61 0.493 sethsbcolor
+144.0 180.0 214.286 215.584 FilledRectangle
+0.0 0.54 0.501 sethsbcolor
+144.0 180.0 215.584 216.883 FilledRectangle
+0.0 0.47 0.509 sethsbcolor
+144.0 180.0 216.883 218.182 FilledRectangle
+0.0 0.4 0.516 sethsbcolor
+144.0 180.0 218.182 219.481 FilledRectangle
+0.0 0.33 0.524 sethsbcolor
+144.0 180.0 219.481 219.481 FilledRectangle
+0.0 0.26 0.532 sethsbcolor
+144.0 180.0 219.481 219.481 FilledRectangle
+0.0 0.19 0.54 sethsbcolor
+144.0 180.0 219.481 219.481 FilledRectangle
+0.0 0.61 0.593 sethsbcolor
+108.0 144.0 214.286 219.481 FilledRectangle
+0.0 0.68 0.662 sethsbcolor
+72.0 108.0 199.351 219.481 FilledRectangle
+0.0 0.61 0.473 sethsbcolor
+144.0 180.0 219.481 227.273 FilledRectangle
+0.0 0.54 0.482 sethsbcolor
+144.0 180.0 227.273 228.571 FilledRectangle
+0.0 0.47 0.49 sethsbcolor
+144.0 180.0 228.571 229.87 FilledRectangle
+0.0 0.4 0.499 sethsbcolor
+144.0 180.0 229.87 229.87 FilledRectangle
+0.0 0.33 0.508 sethsbcolor
+144.0 180.0 229.87 229.87 FilledRectangle
+0.0 0.26 0.517 sethsbcolor
+144.0 180.0 229.87 229.87 FilledRectangle
+0.0 0.61 0.573 sethsbcolor
+108.0 144.0 219.481 229.87 FilledRectangle
+0.0 0.61 0.673 sethsbcolor
+72.0 108.0 219.481 229.87 FilledRectangle
+0.0 0.54 0.485 sethsbcolor
+144.0 180.0 229.87 232.468 FilledRectangle
+0.0 0.47 0.498 sethsbcolor
+144.0 180.0 232.468 233.766 FilledRectangle
+0.0 0.4 0.512 sethsbcolor
+144.0 180.0 233.766 233.766 FilledRectangle
+0.0 0.33 0.525 sethsbcolor
+144.0 180.0 233.766 233.766 FilledRectangle
+0.0 0.54 0.585 sethsbcolor
+108.0 144.0 229.87 233.766 FilledRectangle
+0.0 0.54 0.685 sethsbcolor
+72.0 108.0 229.87 233.766 FilledRectangle
+0.0 0.47 0.497 sethsbcolor
+144.0 180.0 233.766 234.416 FilledRectangle
+0.0 0.47 0.597 sethsbcolor
+108.0 144.0 233.766 234.416 FilledRectangle
+0.0 0.4 0.529 sethsbcolor
+144.0 180.0 234.416 234.416 FilledRectangle
+0.0 0.4 0.629 sethsbcolor
+108.0 144.0 234.416 234.416 FilledRectangle
+0.0 0.47 0.697 sethsbcolor
+72.0 108.0 233.766 234.416 FilledRectangle
+0.0 0.4 0.508 sethsbcolor
+144.0 180.0 234.416 234.416 FilledRectangle
+0.0 0.4 0.608 sethsbcolor
+108.0 144.0 234.416 234.416 FilledRectangle
+0.0 0.4 0.708 sethsbcolor
+72.0 108.0 234.416 234.416 FilledRectangle
+0.0 0.75 0.75 sethsbcolor
+36.0 72.0 50.0 234.416 FilledRectangle
+0.0 0.68 0.466 sethsbcolor
+144.0 180.0 234.416 245.455 FilledRectangle
+0.0 0.61 0.483 sethsbcolor
+144.0 180.0 245.455 248.052 FilledRectangle
+0.0 0.54 0.5 sethsbcolor
+144.0 180.0 248.052 249.351 FilledRectangle
+0.0 0.68 0.566 sethsbcolor
+108.0 144.0 234.416 249.351 FilledRectangle
+0.0 0.61 0.478 sethsbcolor
+144.0 180.0 249.351 255.195 FilledRectangle
+0.0 0.54 0.487 sethsbcolor
+144.0 180.0 255.195 260.39 FilledRectangle
+0.0 0.47 0.496 sethsbcolor
+144.0 180.0 260.39 261.688 FilledRectangle
+0.0 0.4 0.504 sethsbcolor
+144.0 180.0 261.688 262.338 FilledRectangle
+0.0 0.33 0.513 sethsbcolor
+144.0 180.0 262.338 262.987 FilledRectangle
+0.0 0.26 0.522 sethsbcolor
+144.0 180.0 262.987 262.987 FilledRectangle
+0.0 0.61 0.578 sethsbcolor
+108.0 144.0 249.351 262.987 FilledRectangle
+0.0 0.54 0.491 sethsbcolor
+144.0 180.0 262.987 267.532 FilledRectangle
+0.0 0.47 0.499 sethsbcolor
+144.0 180.0 267.532 270.13 FilledRectangle
+0.0 0.4 0.506 sethsbcolor
+144.0 180.0 270.13 272.078 FilledRectangle
+0.0 0.33 0.514 sethsbcolor
+144.0 180.0 272.078 272.727 FilledRectangle
+0.0 0.26 0.522 sethsbcolor
+144.0 180.0 272.727 273.377 FilledRectangle
+0.0 0.19 0.53 sethsbcolor
+144.0 180.0 273.377 273.377 FilledRectangle
+0.0 0.12 0.537 sethsbcolor
+144.0 180.0 273.377 273.377 FilledRectangle
+0.0 0.54 0.591 sethsbcolor
+108.0 144.0 262.987 273.377 FilledRectangle
+0.0 0.47 0.503 sethsbcolor
+144.0 180.0 273.377 277.922 FilledRectangle
+0.0 0.4 0.514 sethsbcolor
+144.0 180.0 277.922 281.169 FilledRectangle
+0.0 0.33 0.525 sethsbcolor
+144.0 180.0 281.169 281.818 FilledRectangle
+0.0 0.26 0.536 sethsbcolor
+144.0 180.0 281.818 281.818 FilledRectangle
+0.0 0.19 0.547 sethsbcolor
+144.0 180.0 281.818 281.818 FilledRectangle
+0.0 0.47 0.603 sethsbcolor
+108.0 144.0 273.377 281.818 FilledRectangle
+0.0 0.4 0.515 sethsbcolor
+144.0 180.0 281.818 282.468 FilledRectangle
+0.0 0.33 0.534 sethsbcolor
+144.0 180.0 282.468 282.468 FilledRectangle
+0.0 0.26 0.553 sethsbcolor
+144.0 180.0 282.468 282.468 FilledRectangle
+0.0 0.4 0.615 sethsbcolor
+108.0 144.0 281.818 282.468 FilledRectangle
+0.0 0.68 0.666 sethsbcolor
+72.0 108.0 234.416 282.468 FilledRectangle
+0.0 0.61 0.48 sethsbcolor
+144.0 180.0 282.468 288.961 FilledRectangle
+0.0 0.54 0.487 sethsbcolor
+144.0 180.0 288.961 294.805 FilledRectangle
+0.0 0.47 0.493 sethsbcolor
+144.0 180.0 294.805 298.052 FilledRectangle
+0.0 0.4 0.5 sethsbcolor
+144.0 180.0 298.052 301.299 FilledRectangle
+0.0 0.33 0.506 sethsbcolor
+144.0 180.0 301.299 303.896 FilledRectangle
+0.0 0.26 0.513 sethsbcolor
+144.0 180.0 303.896 305.844 FilledRectangle
+0.0 0.19 0.52 sethsbcolor
+144.0 180.0 305.844 305.844 FilledRectangle
+0.0 0.12 0.526 sethsbcolor
+144.0 180.0 305.844 305.844 FilledRectangle
+0.0 0.61 0.58 sethsbcolor
+108.0 144.0 282.468 305.844 FilledRectangle
+0.0 0.61 0.68 sethsbcolor
+72.0 108.0 282.468 305.844 FilledRectangle
+0.0 0.54 0.495 sethsbcolor
+144.0 180.0 305.844 311.039 FilledRectangle
+0.0 0.54 0.595 sethsbcolor
+108.0 144.0 305.844 311.039 FilledRectangle
+0.0 0.54 0.695 sethsbcolor
+72.0 108.0 305.844 311.039 FilledRectangle
+0.0 0.47 0.509 sethsbcolor
+144.0 180.0 311.039 312.338 FilledRectangle
+0.0 0.47 0.609 sethsbcolor
+108.0 144.0 311.039 312.338 FilledRectangle
+0.0 0.47 0.709 sethsbcolor
+72.0 108.0 311.039 312.338 FilledRectangle
+0.0 0.4 0.523 sethsbcolor
+144.0 180.0 312.338 312.338 FilledRectangle
+0.0 0.4 0.623 sethsbcolor
+108.0 144.0 312.338 312.338 FilledRectangle
+0.0 0.4 0.723 sethsbcolor
+72.0 108.0 312.338 312.338 FilledRectangle
+0.0 0.68 0.766 sethsbcolor
+36.0 72.0 234.416 312.338 FilledRectangle
+0.0 0.61 0.482 sethsbcolor
+144.0 180.0 312.338 337.013 FilledRectangle
+0.0 0.54 0.495 sethsbcolor
+144.0 180.0 337.013 340.909 FilledRectangle
+0.0 0.47 0.509 sethsbcolor
+144.0 180.0 340.909 342.208 FilledRectangle
+0.0 0.4 0.522 sethsbcolor
+144.0 180.0 342.208 343.506 FilledRectangle
+0.0 0.61 0.582 sethsbcolor
+108.0 144.0 312.338 343.506 FilledRectangle
+0.0 0.54 0.514 sethsbcolor
+144.0 180.0 343.506 348.052 FilledRectangle
+0.0 0.54 0.614 sethsbcolor
+108.0 144.0 343.506 348.052 FilledRectangle
+0.0 0.61 0.682 sethsbcolor
+72.0 108.0 312.338 348.052 FilledRectangle
+0.0 0.54 0.497 sethsbcolor
+144.0 180.0 348.052 355.844 FilledRectangle
+0.0 0.47 0.524 sethsbcolor
+144.0 180.0 355.844 358.442 FilledRectangle
+0.0 0.54 0.597 sethsbcolor
+108.0 144.0 348.052 358.442 FilledRectangle
+0.0 0.47 0.513 sethsbcolor
+144.0 180.0 358.442 361.039 FilledRectangle
+0.0 0.4 0.527 sethsbcolor
+144.0 180.0 361.039 362.987 FilledRectangle
+0.0 0.33 0.541 sethsbcolor
+144.0 180.0 362.987 364.935 FilledRectangle
+0.0 0.26 0.555 sethsbcolor
+144.0 180.0 364.935 366.234 FilledRectangle
+0.0 0.47 0.613 sethsbcolor
+108.0 144.0 358.442 366.234 FilledRectangle
+0.0 0.4 0.529 sethsbcolor
+144.0 180.0 366.234 368.182 FilledRectangle
+0.0 0.4 0.629 sethsbcolor
+108.0 144.0 366.234 368.182 FilledRectangle
+0.0 0.33 0.546 sethsbcolor
+144.0 180.0 368.182 368.182 FilledRectangle
+0.0 0.33 0.646 sethsbcolor
+108.0 144.0 368.182 368.182 FilledRectangle
+0.0 0.54 0.697 sethsbcolor
+72.0 108.0 348.052 368.182 FilledRectangle
+0.0 0.47 0.511 sethsbcolor
+144.0 180.0 368.182 370.779 FilledRectangle
+0.0 0.4 0.522 sethsbcolor
+144.0 180.0 370.779 372.727 FilledRectangle
+0.0 0.33 0.533 sethsbcolor
+144.0 180.0 372.727 374.675 FilledRectangle
+0.0 0.26 0.545 sethsbcolor
+144.0 180.0 374.675 375.974 FilledRectangle
+0.0 0.19 0.556 sethsbcolor
+144.0 180.0 375.974 375.974 FilledRectangle
+0.0 0.47 0.611 sethsbcolor
+108.0 144.0 368.182 375.974 FilledRectangle
+0.0 0.4 0.533 sethsbcolor
+144.0 180.0 375.974 380.519 FilledRectangle
+0.0 0.33 0.552 sethsbcolor
+144.0 180.0 380.519 380.519 FilledRectangle
+0.0 0.26 0.572 sethsbcolor
+144.0 180.0 380.519 380.519 FilledRectangle
+0.0 0.4 0.633 sethsbcolor
+108.0 144.0 375.974 380.519 FilledRectangle
+0.0 0.33 0.555 sethsbcolor
+144.0 180.0 380.519 383.766 FilledRectangle
+0.0 0.33 0.655 sethsbcolor
+108.0 144.0 380.519 383.766 FilledRectangle
+0.0 0.47 0.711 sethsbcolor
+72.0 108.0 368.182 383.766 FilledRectangle
+0.0 0.4 0.526 sethsbcolor
+144.0 180.0 383.766 385.065 FilledRectangle
+0.0 0.33 0.555 sethsbcolor
+144.0 180.0 385.065 385.714 FilledRectangle
+0.0 0.4 0.626 sethsbcolor
+108.0 144.0 383.766 385.714 FilledRectangle
+0.0 0.33 0.549 sethsbcolor
+144.0 180.0 385.714 386.364 FilledRectangle
+0.0 0.33 0.649 sethsbcolor
+108.0 144.0 385.714 386.364 FilledRectangle
+0.0 0.26 0.571 sethsbcolor
+144.0 180.0 386.364 387.013 FilledRectangle
+0.0 0.26 0.671 sethsbcolor
+108.0 144.0 386.364 387.013 FilledRectangle
+0.0 0.4 0.726 sethsbcolor
+72.0 108.0 383.766 387.013 FilledRectangle
+0.0 0.33 0.541 sethsbcolor
+144.0 180.0 387.013 388.961 FilledRectangle
+0.0 0.33 0.641 sethsbcolor
+108.0 144.0 387.013 388.961 FilledRectangle
+0.0 0.26 0.576 sethsbcolor
+144.0 180.0 388.961 389.61 FilledRectangle
+0.0 0.26 0.676 sethsbcolor
+108.0 144.0 388.961 389.61 FilledRectangle
+0.0 0.33 0.741 sethsbcolor
+72.0 108.0 387.013 389.61 FilledRectangle
+0.0 0.61 0.782 sethsbcolor
+36.0 72.0 312.338 389.61 FilledRectangle
+0.0 0.54 0.498 sethsbcolor
+144.0 180.0 389.61 394.156 FilledRectangle
+0.0 0.47 0.506 sethsbcolor
+144.0 180.0 394.156 397.403 FilledRectangle
+0.0 0.4 0.514 sethsbcolor
+144.0 180.0 397.403 399.351 FilledRectangle
+0.0 0.33 0.521 sethsbcolor
+144.0 180.0 399.351 400.649 FilledRectangle
+0.0 0.26 0.529 sethsbcolor
+144.0 180.0 400.649 401.299 FilledRectangle
+0.0 0.19 0.537 sethsbcolor
+144.0 180.0 401.299 401.948 FilledRectangle
+0.0 0.12 0.545 sethsbcolor
+144.0 180.0 401.948 401.948 FilledRectangle
+0.0 0.54 0.598 sethsbcolor
+108.0 144.0 389.61 401.948 FilledRectangle
+0.0 0.54 0.698 sethsbcolor
+72.0 108.0 389.61 401.948 FilledRectangle
+0.0 0.47 0.504 sethsbcolor
+144.0 180.0 401.948 405.844 FilledRectangle
+0.0 0.4 0.522 sethsbcolor
+144.0 180.0 405.844 409.74 FilledRectangle
+0.0 0.33 0.541 sethsbcolor
+144.0 180.0 409.74 411.039 FilledRectangle
+0.0 0.47 0.604 sethsbcolor
+108.0 144.0 401.948 411.039 FilledRectangle
+0.0 0.4 0.537 sethsbcolor
+144.0 180.0 411.039 412.338 FilledRectangle
+0.0 0.33 0.552 sethsbcolor
+144.0 180.0 412.338 412.987 FilledRectangle
+0.0 0.26 0.566 sethsbcolor
+144.0 180.0 412.987 412.987 FilledRectangle
+0.0 0.19 0.581 sethsbcolor
+144.0 180.0 412.987 412.987 FilledRectangle
+0.0 0.4 0.637 sethsbcolor
+108.0 144.0 411.039 412.987 FilledRectangle
+0.0 0.47 0.704 sethsbcolor
+72.0 108.0 401.948 412.987 FilledRectangle
+0.0 0.4 0.51 sethsbcolor
+144.0 180.0 412.987 416.883 FilledRectangle
+0.0 0.33 0.538 sethsbcolor
+144.0 180.0 416.883 417.532 FilledRectangle
+0.0 0.4 0.61 sethsbcolor
+108.0 144.0 412.987 417.532 FilledRectangle
+0.0 0.33 0.543 sethsbcolor
+144.0 180.0 417.532 417.532 FilledRectangle
+0.0 0.33 0.643 sethsbcolor
+108.0 144.0 417.532 417.532 FilledRectangle
+0.0 0.4 0.71 sethsbcolor
+72.0 108.0 412.987 417.532 FilledRectangle
+0.0 0.33 0.515 sethsbcolor
+144.0 180.0 417.532 420.779 FilledRectangle
+0.0 0.26 0.543 sethsbcolor
+144.0 180.0 420.779 420.779 FilledRectangle
+0.0 0.33 0.615 sethsbcolor
+108.0 144.0 417.532 420.779 FilledRectangle
+0.0 0.33 0.715 sethsbcolor
+72.0 108.0 417.532 420.779 FilledRectangle
+0.0 0.26 0.521 sethsbcolor
+144.0 180.0 420.779 423.377 FilledRectangle
+0.0 0.26 0.621 sethsbcolor
+108.0 144.0 420.779 423.377 FilledRectangle
+0.0 0.26 0.721 sethsbcolor
+72.0 108.0 420.779 423.377 FilledRectangle
+0.0 0.19 0.527 sethsbcolor
+144.0 180.0 423.377 425.325 FilledRectangle
+0.0 0.19 0.627 sethsbcolor
+108.0 144.0 423.377 425.325 FilledRectangle
+0.0 0.12 0.561 sethsbcolor
+144.0 180.0 425.325 425.974 FilledRectangle
+0.0 0.05 0.592 sethsbcolor
+144.0 180.0 425.974 425.974 FilledRectangle
+0.0 0.12 0.661 sethsbcolor
+108.0 144.0 425.325 425.974 FilledRectangle
+0.0 0.19 0.727 sethsbcolor
+72.0 108.0 423.377 425.974 FilledRectangle
+0.0 0.12 0.533 sethsbcolor
+144.0 180.0 425.974 426.623 FilledRectangle
+0.0 0.12 0.633 sethsbcolor
+108.0 144.0 425.974 426.623 FilledRectangle
+0.0 0.05 0.567 sethsbcolor
+144.0 180.0 426.623 427.273 FilledRectangle
+0.0 0.0 0.588 sethsbcolor
+144.0 180.0 427.273 427.273 FilledRectangle
+0.0 0.0 0.608 sethsbcolor
+144.0 180.0 427.273 427.273 FilledRectangle
+0.0 0.05 0.667 sethsbcolor
+108.0 144.0 426.623 427.273 FilledRectangle
+0.0 0.12 0.733 sethsbcolor
+72.0 108.0 425.974 427.273 FilledRectangle
+0.0 0.05 0.538 sethsbcolor
+144.0 180.0 427.273 427.922 FilledRectangle
+0.0 0.05 0.638 sethsbcolor
+108.0 144.0 427.273 427.922 FilledRectangle
+0.0 0.05 0.738 sethsbcolor
+72.0 108.0 427.273 427.922 FilledRectangle
+0.0 0.0 0.544 sethsbcolor
+144.0 180.0 427.922 428.571 FilledRectangle
+0.0 0.0 0.644 sethsbcolor
+108.0 144.0 427.922 428.571 FilledRectangle
+0.0 0.0 0.744 sethsbcolor
+72.0 108.0 427.922 428.571 FilledRectangle
+0.0 0.0 0.55 sethsbcolor
+144.0 180.0 428.571 429.221 FilledRectangle
+0.0 0.0 0.65 sethsbcolor
+108.0 144.0 428.571 429.221 FilledRectangle
+0.0 0.0 0.75 sethsbcolor
+72.0 108.0 428.571 429.221 FilledRectangle
+0.0 0.0 0.556 sethsbcolor
+144.0 180.0 429.221 429.87 FilledRectangle
+0.0 0.0 0.571 sethsbcolor
+144.0 180.0 429.87 429.87 FilledRectangle
+0.0 0.0 0.586 sethsbcolor
+144.0 180.0 429.87 429.87 FilledRectangle
+0.0 0.0 0.601 sethsbcolor
+144.0 180.0 429.87 429.87 FilledRectangle
+0.0 0.0 0.656 sethsbcolor
+108.0 144.0 429.221 429.87 FilledRectangle
+0.0 0.0 0.756 sethsbcolor
+72.0 108.0 429.221 429.87 FilledRectangle
+0.0 0.0 0.561 sethsbcolor
+144.0 180.0 429.87 430.519 FilledRectangle
+0.0 0.0 0.581 sethsbcolor
+144.0 180.0 430.519 430.519 FilledRectangle
+0.0 0.0 0.602 sethsbcolor
+144.0 180.0 430.519 430.519 FilledRectangle
+0.0 0.0 0.661 sethsbcolor
+108.0 144.0 429.87 430.519 FilledRectangle
+0.0 0.0 0.761 sethsbcolor
+72.0 108.0 429.87 430.519 FilledRectangle
+0.0 0.0 0.567 sethsbcolor
+144.0 180.0 430.519 431.169 FilledRectangle
+0.0 0.0 0.667 sethsbcolor
+108.0 144.0 430.519 431.169 FilledRectangle
+0.0 0.0 0.767 sethsbcolor
+72.0 108.0 430.519 431.169 FilledRectangle
+0.0 0.54 0.798 sethsbcolor
+36.0 72.0 389.61 431.169 FilledRectangle
+0.0 0.47 0.514 sethsbcolor
+144.0 180.0 431.169 431.818 FilledRectangle
+0.0 0.47 0.614 sethsbcolor
+108.0 144.0 431.169 431.818 FilledRectangle
+0.0 0.47 0.714 sethsbcolor
+72.0 108.0 431.169 431.818 FilledRectangle
+0.0 0.47 0.814 sethsbcolor
+36.0 72.0 431.169 431.818 FilledRectangle
+0.0 0.75 0.85 sethsbcolor
+0.0 36.0 50.0 431.818 FilledRectangle
+0.125 0.75 0.35 sethsbcolor
+144.0 180.0 431.818 450.0 FilledRectangle
+0.119 0.68 0.37 sethsbcolor
+144.0 180.0 450.0 450.649 FilledRectangle
+0.125 0.75 0.45 sethsbcolor
+108.0 144.0 431.818 450.649 FilledRectangle
+0.124 0.68 0.352 sethsbcolor
+144.0 180.0 450.649 455.195 FilledRectangle
+0.124 0.68 0.452 sethsbcolor
+108.0 144.0 450.649 455.195 FilledRectangle
+0.124 0.61 0.354 sethsbcolor
+144.0 180.0 455.195 459.091 FilledRectangle
+0.124 0.61 0.454 sethsbcolor
+108.0 144.0 455.195 459.091 FilledRectangle
+0.123 0.54 0.356 sethsbcolor
+144.0 180.0 459.091 460.39 FilledRectangle
+0.121 0.47 0.362 sethsbcolor
+144.0 180.0 460.39 461.688 FilledRectangle
+0.119 0.4 0.368 sethsbcolor
+144.0 180.0 461.688 462.338 FilledRectangle
+0.118 0.33 0.373 sethsbcolor
+144.0 180.0 462.338 462.987 FilledRectangle
+0.116 0.26 0.379 sethsbcolor
+144.0 180.0 462.987 462.987 FilledRectangle
+0.114 0.19 0.385 sethsbcolor
+144.0 180.0 462.987 462.987 FilledRectangle
+0.112 0.12 0.391 sethsbcolor
+144.0 180.0 462.987 462.987 FilledRectangle
+0.123 0.54 0.456 sethsbcolor
+108.0 144.0 459.091 462.987 FilledRectangle
+0.123 0.47 0.358 sethsbcolor
+144.0 180.0 462.987 466.234 FilledRectangle
+0.123 0.47 0.458 sethsbcolor
+108.0 144.0 462.987 466.234 FilledRectangle
+0.122 0.4 0.36 sethsbcolor
+144.0 180.0 466.234 469.481 FilledRectangle
+0.122 0.4 0.46 sethsbcolor
+108.0 144.0 466.234 469.481 FilledRectangle
+0.122 0.33 0.362 sethsbcolor
+144.0 180.0 469.481 472.078 FilledRectangle
+0.116 0.26 0.383 sethsbcolor
+144.0 180.0 472.078 472.727 FilledRectangle
+0.122 0.33 0.462 sethsbcolor
+108.0 144.0 469.481 472.727 FilledRectangle
+0.121 0.26 0.365 sethsbcolor
+144.0 180.0 472.727 474.675 FilledRectangle
+0.115 0.19 0.386 sethsbcolor
+144.0 180.0 474.675 475.974 FilledRectangle
+0.121 0.26 0.465 sethsbcolor
+108.0 144.0 472.727 475.974 FilledRectangle
+0.121 0.19 0.367 sethsbcolor
+144.0 180.0 475.974 477.273 FilledRectangle
+0.117 0.12 0.381 sethsbcolor
+144.0 180.0 477.273 477.922 FilledRectangle
+0.113 0.05 0.395 sethsbcolor
+144.0 180.0 477.922 478.571 FilledRectangle
+0.121 0.19 0.467 sethsbcolor
+108.0 144.0 475.974 478.571 FilledRectangle
+0.12 0.12 0.369 sethsbcolor
+144.0 180.0 478.571 481.169 FilledRectangle
+0.114 0.05 0.39 sethsbcolor
+144.0 180.0 481.169 481.169 FilledRectangle
+0.12 0.12 0.469 sethsbcolor
+108.0 144.0 478.571 481.169 FilledRectangle
+0.12 0.05 0.371 sethsbcolor
+144.0 180.0 481.169 482.468 FilledRectangle
+0.117 0.0 0.382 sethsbcolor
+144.0 180.0 482.468 483.117 FilledRectangle
+0.114 0.0 0.392 sethsbcolor
+144.0 180.0 483.117 483.766 FilledRectangle
+0.111 0.0 0.403 sethsbcolor
+144.0 180.0 483.766 483.766 FilledRectangle
+0.12 0.05 0.471 sethsbcolor
+108.0 144.0 481.169 483.766 FilledRectangle
+0.119 0.0 0.373 sethsbcolor
+144.0 180.0 483.766 485.714 FilledRectangle
+0.119 0.0 0.473 sethsbcolor
+108.0 144.0 483.766 485.714 FilledRectangle
+0.119 0.0 0.375 sethsbcolor
+144.0 180.0 485.714 486.364 FilledRectangle
+0.116 0.0 0.386 sethsbcolor
+144.0 180.0 486.364 487.013 FilledRectangle
+0.113 0.0 0.396 sethsbcolor
+144.0 180.0 487.013 487.662 FilledRectangle
+0.11 0.0 0.407 sethsbcolor
+144.0 180.0 487.662 487.662 FilledRectangle
+0.119 0.0 0.475 sethsbcolor
+108.0 144.0 485.714 487.662 FilledRectangle
+0.118 0.0 0.377 sethsbcolor
+144.0 180.0 487.662 488.961 FilledRectangle
+0.118 0.0 0.477 sethsbcolor
+108.0 144.0 487.662 488.961 FilledRectangle
+0.118 0.0 0.379 sethsbcolor
+144.0 180.0 488.961 489.61 FilledRectangle
+0.114 0.0 0.393 sethsbcolor
+144.0 180.0 489.61 490.26 FilledRectangle
+0.11 0.0 0.408 sethsbcolor
+144.0 180.0 490.26 490.26 FilledRectangle
+0.118 0.0 0.479 sethsbcolor
+108.0 144.0 488.961 490.26 FilledRectangle
+0.117 0.0 0.381 sethsbcolor
+144.0 180.0 490.26 490.909 FilledRectangle
+0.117 0.0 0.481 sethsbcolor
+108.0 144.0 490.26 490.909 FilledRectangle
+0.117 0.0 0.383 sethsbcolor
+144.0 180.0 490.909 491.558 FilledRectangle
+0.117 0.0 0.483 sethsbcolor
+108.0 144.0 490.909 491.558 FilledRectangle
+0.116 0.0 0.385 sethsbcolor
+144.0 180.0 491.558 492.208 FilledRectangle
+0.116 0.0 0.485 sethsbcolor
+108.0 144.0 491.558 492.208 FilledRectangle
+0.116 0.0 0.388 sethsbcolor
+144.0 180.0 492.208 492.857 FilledRectangle
+0.116 0.0 0.488 sethsbcolor
+108.0 144.0 492.208 492.857 FilledRectangle
+0.115 0.0 0.39 sethsbcolor
+144.0 180.0 492.857 493.506 FilledRectangle
+0.115 0.0 0.49 sethsbcolor
+108.0 144.0 492.857 493.506 FilledRectangle
+0.115 0.0 0.392 sethsbcolor
+144.0 180.0 493.506 494.156 FilledRectangle
+0.115 0.0 0.492 sethsbcolor
+108.0 144.0 493.506 494.156 FilledRectangle
+0.114 0.0 0.394 sethsbcolor
+144.0 180.0 494.156 494.805 FilledRectangle
+0.108 0.0 0.416 sethsbcolor
+144.0 180.0 494.805 494.805 FilledRectangle
+0.114 0.0 0.494 sethsbcolor
+108.0 144.0 494.156 494.805 FilledRectangle
+0.114 0.0 0.396 sethsbcolor
+144.0 180.0 494.805 494.805 FilledRectangle
+0.114 0.0 0.496 sethsbcolor
+108.0 144.0 494.805 494.805 FilledRectangle
+0.113 0.0 0.398 sethsbcolor
+144.0 180.0 494.805 494.805 FilledRectangle
+0.107 0.0 0.42 sethsbcolor
+144.0 180.0 494.805 494.805 FilledRectangle
+0.113 0.0 0.498 sethsbcolor
+108.0 144.0 494.805 494.805 FilledRectangle
+0.125 0.75 0.55 sethsbcolor
+72.0 108.0 431.818 494.805 FilledRectangle
+0.122 0.68 0.362 sethsbcolor
+144.0 180.0 494.805 509.091 FilledRectangle
+0.116 0.61 0.383 sethsbcolor
+144.0 180.0 509.091 509.091 FilledRectangle
+0.122 0.68 0.462 sethsbcolor
+108.0 144.0 494.805 509.091 FilledRectangle
+0.122 0.68 0.562 sethsbcolor
+72.0 108.0 494.805 509.091 FilledRectangle
+0.12 0.61 0.374 sethsbcolor
+144.0 180.0 509.091 511.039 FilledRectangle
+0.114 0.54 0.395 sethsbcolor
+144.0 180.0 511.039 512.338 FilledRectangle
+0.12 0.61 0.474 sethsbcolor
+108.0 144.0 509.091 512.338 FilledRectangle
+0.12 0.61 0.574 sethsbcolor
+72.0 108.0 509.091 512.338 FilledRectangle
+0.118 0.54 0.386 sethsbcolor
+144.0 180.0 512.338 512.987 FilledRectangle
+0.112 0.47 0.408 sethsbcolor
+144.0 180.0 512.987 512.987 FilledRectangle
+0.118 0.54 0.486 sethsbcolor
+108.0 144.0 512.338 512.987 FilledRectangle
+0.118 0.54 0.586 sethsbcolor
+72.0 108.0 512.338 512.987 FilledRectangle
+0.115 0.47 0.398 sethsbcolor
+144.0 180.0 512.987 512.987 FilledRectangle
+0.115 0.47 0.498 sethsbcolor
+108.0 144.0 512.987 512.987 FilledRectangle
+0.115 0.47 0.598 sethsbcolor
+72.0 108.0 512.987 512.987 FilledRectangle
+0.125 0.75 0.65 sethsbcolor
+36.0 72.0 431.818 512.987 FilledRectangle
+0.125 0.75 0.75 sethsbcolor
+0.0 36.0 431.818 512.987 FilledRectangle
+0.175 0.7 0.4 sethsbcolor
+144.0 180.0 512.987 548.701 FilledRectangle
+0.169 0.63 0.415 sethsbcolor
+144.0 180.0 548.701 548.701 FilledRectangle
+0.163 0.56 0.43 sethsbcolor
+144.0 180.0 548.701 548.701 FilledRectangle
+0.175 0.7 0.5 sethsbcolor
+108.0 144.0 512.987 548.701 FilledRectangle
+0.172 0.63 0.409 sethsbcolor
+144.0 180.0 548.701 551.299 FilledRectangle
+0.168 0.56 0.42 sethsbcolor
+144.0 180.0 551.299 552.597 FilledRectangle
+0.163 0.49 0.432 sethsbcolor
+144.0 180.0 552.597 553.247 FilledRectangle
+0.159 0.42 0.443 sethsbcolor
+144.0 180.0 553.247 553.896 FilledRectangle
+0.172 0.63 0.509 sethsbcolor
+108.0 144.0 548.701 553.896 FilledRectangle
+0.169 0.56 0.418 sethsbcolor
+144.0 180.0 553.896 556.494 FilledRectangle
+0.165 0.49 0.43 sethsbcolor
+144.0 180.0 556.494 557.143 FilledRectangle
+0.161 0.42 0.441 sethsbcolor
+144.0 180.0 557.143 557.792 FilledRectangle
+0.156 0.35 0.453 sethsbcolor
+144.0 180.0 557.792 557.792 FilledRectangle
+0.169 0.56 0.518 sethsbcolor
+108.0 144.0 553.896 557.792 FilledRectangle
+0.166 0.49 0.428 sethsbcolor
+144.0 180.0 557.792 559.74 FilledRectangle
+0.162 0.42 0.44 sethsbcolor
+144.0 180.0 559.74 559.74 FilledRectangle
+0.158 0.35 0.452 sethsbcolor
+144.0 180.0 559.74 559.74 FilledRectangle
+0.154 0.28 0.464 sethsbcolor
+144.0 180.0 559.74 559.74 FilledRectangle
+0.166 0.49 0.528 sethsbcolor
+108.0 144.0 557.792 559.74 FilledRectangle
+0.163 0.42 0.437 sethsbcolor
+144.0 180.0 559.74 561.039 FilledRectangle
+0.163 0.42 0.537 sethsbcolor
+108.0 144.0 559.74 561.039 FilledRectangle
+0.16 0.35 0.446 sethsbcolor
+144.0 180.0 561.039 561.039 FilledRectangle
+0.16 0.35 0.546 sethsbcolor
+108.0 144.0 561.039 561.039 FilledRectangle
+0.175 0.7 0.6 sethsbcolor
+72.0 108.0 512.987 561.039 FilledRectangle
+0.166 0.63 0.432 sethsbcolor
+144.0 180.0 561.039 564.935 FilledRectangle
+0.162 0.56 0.444 sethsbcolor
+144.0 180.0 564.935 566.234 FilledRectangle
+0.158 0.49 0.456 sethsbcolor
+144.0 180.0 566.234 566.883 FilledRectangle
+0.154 0.42 0.468 sethsbcolor
+144.0 180.0 566.883 567.532 FilledRectangle
+0.166 0.63 0.532 sethsbcolor
+108.0 144.0 561.039 567.532 FilledRectangle
+0.166 0.63 0.632 sethsbcolor
+72.0 108.0 561.039 567.532 FilledRectangle
+0.175 0.7 0.7 sethsbcolor
+36.0 72.0 512.987 567.532 FilledRectangle
+0.169 0.63 0.425 sethsbcolor
+144.0 180.0 567.532 574.675 FilledRectangle
+0.166 0.56 0.434 sethsbcolor
+144.0 180.0 574.675 577.273 FilledRectangle
+0.162 0.49 0.444 sethsbcolor
+144.0 180.0 577.273 577.922 FilledRectangle
+0.159 0.42 0.453 sethsbcolor
+144.0 180.0 577.922 578.571 FilledRectangle
+0.155 0.35 0.463 sethsbcolor
+144.0 180.0 578.571 578.571 FilledRectangle
+0.169 0.63 0.525 sethsbcolor
+108.0 144.0 567.532 578.571 FilledRectangle
+0.165 0.56 0.439 sethsbcolor
+144.0 180.0 578.571 583.766 FilledRectangle
+0.157 0.49 0.463 sethsbcolor
+144.0 180.0 583.766 585.714 FilledRectangle
+0.165 0.56 0.539 sethsbcolor
+108.0 144.0 578.571 585.714 FilledRectangle
+0.161 0.49 0.454 sethsbcolor
+144.0 180.0 585.714 588.312 FilledRectangle
+0.153 0.42 0.479 sethsbcolor
+144.0 180.0 588.312 588.312 FilledRectangle
+0.161 0.49 0.554 sethsbcolor
+108.0 144.0 585.714 588.312 FilledRectangle
+0.156 0.42 0.468 sethsbcolor
+144.0 180.0 588.312 588.312 FilledRectangle
+0.156 0.42 0.568 sethsbcolor
+108.0 144.0 588.312 588.312 FilledRectangle
+0.169 0.63 0.625 sethsbcolor
+72.0 108.0 567.532 588.312 FilledRectangle
+0.161 0.56 0.459 sethsbcolor
+144.0 180.0 588.312 589.61 FilledRectangle
+0.161 0.56 0.559 sethsbcolor
+108.0 144.0 588.312 589.61 FilledRectangle
+0.153 0.49 0.489 sethsbcolor
+144.0 180.0 589.61 590.26 FilledRectangle
+0.153 0.49 0.589 sethsbcolor
+108.0 144.0 589.61 590.26 FilledRectangle
+0.161 0.56 0.659 sethsbcolor
+72.0 108.0 588.312 590.26 FilledRectangle
+0.169 0.63 0.725 sethsbcolor
+36.0 72.0 567.532 590.26 FilledRectangle
+0.163 0.56 0.45 sethsbcolor
+144.0 180.0 590.26 591.558 FilledRectangle
+0.163 0.56 0.55 sethsbcolor
+108.0 144.0 590.26 591.558 FilledRectangle
+0.163 0.56 0.65 sethsbcolor
+72.0 108.0 590.26 591.558 FilledRectangle
+0.158 0.49 0.473 sethsbcolor
+144.0 180.0 591.558 592.208 FilledRectangle
+0.158 0.49 0.573 sethsbcolor
+108.0 144.0 591.558 592.208 FilledRectangle
+0.158 0.49 0.673 sethsbcolor
+72.0 108.0 591.558 592.208 FilledRectangle
+0.152 0.42 0.497 sethsbcolor
+144.0 180.0 592.208 592.857 FilledRectangle
+0.152 0.42 0.597 sethsbcolor
+108.0 144.0 592.208 592.857 FilledRectangle
+0.152 0.42 0.697 sethsbcolor
+72.0 108.0 592.208 592.857 FilledRectangle
+0.163 0.56 0.75 sethsbcolor
+36.0 72.0 590.26 592.857 FilledRectangle
+0.175 0.7 0.8 sethsbcolor
+0.0 36.0 512.987 592.857 FilledRectangle
+0.25 0.7 0.4 sethsbcolor
+144.0 180.0 592.857 670.779 FilledRectangle
+0.25 0.7 0.5 sethsbcolor
+108.0 144.0 592.857 670.779 FilledRectangle
+0.25 0.7 0.6 sethsbcolor
+72.0 108.0 592.857 670.779 FilledRectangle
+0.25 0.7 0.7 sethsbcolor
+36.0 72.0 592.857 670.779 FilledRectangle
+0.25 0.7 0.8 sethsbcolor
+0.0 36.0 592.857 670.779 FilledRectangle
+0.4 0.7 0.25 sethsbcolor
+144.0 180.0 670.779 688.312 FilledRectangle
+0.38 0.63 0.265 sethsbcolor
+144.0 180.0 688.312 696.104 FilledRectangle
+0.4 0.7 0.35 sethsbcolor
+108.0 144.0 670.779 696.104 FilledRectangle
+0.38 0.63 0.27 sethsbcolor
+144.0 180.0 696.104 707.143 FilledRectangle
+0.38 0.63 0.37 sethsbcolor
+108.0 144.0 696.104 707.143 FilledRectangle
+0.4 0.7 0.45 sethsbcolor
+72.0 108.0 670.779 707.143 FilledRectangle
+0.4 0.7 0.55 sethsbcolor
+36.0 72.0 670.779 707.143 FilledRectangle
+0.4 0.7 0.65 sethsbcolor
+0.0 36.0 670.779 707.143 FilledRectangle
+0.55 0.7 0.35 sethsbcolor
+144.0 180.0 707.143 725.325 FilledRectangle
+0.532 0.63 0.363 sethsbcolor
+144.0 180.0 725.325 726.623 FilledRectangle
+0.513 0.56 0.377 sethsbcolor
+144.0 180.0 726.623 727.273 FilledRectangle
+0.55 0.7 0.45 sethsbcolor
+108.0 144.0 707.143 727.273 FilledRectangle
+0.539 0.63 0.36 sethsbcolor
+144.0 180.0 727.273 727.922 FilledRectangle
+0.521 0.56 0.374 sethsbcolor
+144.0 180.0 727.922 728.571 FilledRectangle
+0.503 0.49 0.387 sethsbcolor
+144.0 180.0 728.571 728.571 FilledRectangle
+0.539 0.63 0.46 sethsbcolor
+108.0 144.0 727.273 728.571 FilledRectangle
+0.528 0.56 0.37 sethsbcolor
+144.0 180.0 728.571 729.221 FilledRectangle
+0.502 0.49 0.391 sethsbcolor
+144.0 180.0 729.221 729.221 FilledRectangle
+0.528 0.56 0.47 sethsbcolor
+108.0 144.0 728.571 729.221 FilledRectangle
+0.517 0.49 0.38 sethsbcolor
+144.0 180.0 729.221 729.87 FilledRectangle
+0.517 0.49 0.48 sethsbcolor
+108.0 144.0 729.221 729.87 FilledRectangle
+0.506 0.42 0.39 sethsbcolor
+144.0 180.0 729.87 729.87 FilledRectangle
+0.481 0.35 0.412 sethsbcolor
+144.0 180.0 729.87 729.87 FilledRectangle
+0.506 0.42 0.49 sethsbcolor
+108.0 144.0 729.87 729.87 FilledRectangle
+0.55 0.7 0.55 sethsbcolor
+72.0 108.0 707.143 729.87 FilledRectangle
+0.55 0.7 0.65 sethsbcolor
+36.0 72.0 707.143 729.87 FilledRectangle
+0.523 0.63 0.385 sethsbcolor
+144.0 180.0 729.87 735.714 FilledRectangle
+0.497 0.56 0.407 sethsbcolor
+144.0 180.0 735.714 735.714 FilledRectangle
+0.523 0.63 0.485 sethsbcolor
+108.0 144.0 729.87 735.714 FilledRectangle
+0.523 0.63 0.585 sethsbcolor
+72.0 108.0 729.87 735.714 FilledRectangle
+0.523 0.63 0.685 sethsbcolor
+36.0 72.0 729.87 735.714 FilledRectangle
+0.55 0.7 0.75 sethsbcolor
+0.0 36.0 707.143 735.714 FilledRectangle
+0.7 0.7 0.45 sethsbcolor
+144.0 180.0 735.714 747.403 FilledRectangle
+0.677 0.63 0.467 sethsbcolor
+144.0 180.0 747.403 755.844 FilledRectangle
+0.653 0.56 0.483 sethsbcolor
+144.0 180.0 755.844 758.442 FilledRectangle
+0.7 0.7 0.55 sethsbcolor
+108.0 144.0 735.714 758.442 FilledRectangle
+0.7 0.7 0.65 sethsbcolor
+72.0 108.0 735.714 758.442 FilledRectangle
+0.7 0.7 0.75 sethsbcolor
+36.0 72.0 735.714 758.442 FilledRectangle
+0.7 0.7 0.85 sethsbcolor
+0.0 36.0 735.714 758.442 FilledRectangle
+0.85 0.7 0.25 sethsbcolor
+144.0 180.0 758.442 777.273 FilledRectangle
+0.85 0.7 0.35 sethsbcolor
+108.0 144.0 758.442 777.273 FilledRectangle
+0.85 0.7 0.45 sethsbcolor
+72.0 108.0 758.442 777.273 FilledRectangle
+0.85 0.7 0.55 sethsbcolor
+36.0 72.0 758.442 777.273 FilledRectangle
+0.85 0.7 0.65 sethsbcolor
+0.0 36.0 758.442 777.273 FilledRectangle
+0.3 0.5 0.55 sethsbcolor
+144.0 180.0 777.273 777.922 FilledRectangle
+0.285 0.43 0.58 sethsbcolor
+144.0 180.0 777.922 783.766 FilledRectangle
+0.3 0.5 0.65 sethsbcolor
+108.0 144.0 777.273 783.766 FilledRectangle
+0.3 0.5 0.75 sethsbcolor
+72.0 108.0 777.273 783.766 FilledRectangle
+0.3 0.5 0.85 sethsbcolor
+36.0 72.0 777.273 783.766 FilledRectangle
+0.3 0.5 0.95 sethsbcolor
+0.0 36.0 777.273 783.766 FilledRectangle
+1.0 0.4 0.55 sethsbcolor
+144.0 180.0 783.766 787.662 FilledRectangle
+1.0 0.4 0.65 sethsbcolor
+108.0 144.0 783.766 787.662 FilledRectangle
+1.0 0.4 0.75 sethsbcolor
+72.0 108.0 783.766 787.662 FilledRectangle
+1.0 0.4 0.85 sethsbcolor
+36.0 72.0 783.766 787.662 FilledRectangle
+1.0 0.4 0.95 sethsbcolor
+0.0 36.0 783.766 787.662 FilledRectangle
+0.475 0.4 0.25 sethsbcolor
+144.0 180.0 787.662 788.961 FilledRectangle
+0.475 0.4 0.35 sethsbcolor
+108.0 144.0 787.662 788.961 FilledRectangle
+0.451 0.33 0.27 sethsbcolor
+144.0 180.0 788.961 788.961 FilledRectangle
+0.451 0.33 0.37 sethsbcolor
+108.0 144.0 788.961 788.961 FilledRectangle
+0.475 0.4 0.45 sethsbcolor
+72.0 108.0 787.662 788.961 FilledRectangle
+0.475 0.4 0.55 sethsbcolor
+36.0 72.0 787.662 788.961 FilledRectangle
+0.475 0.4 0.65 sethsbcolor
+0.0 36.0 787.662 788.961 FilledRectangle
+1.0 0.4 0.55 sethsbcolor
+144.0 180.0 788.961 789.61 FilledRectangle
+1.0 0.4 0.65 sethsbcolor
+108.0 144.0 788.961 789.61 FilledRectangle
+1.0 0.4 0.75 sethsbcolor
+72.0 108.0 788.961 789.61 FilledRectangle
+1.0 0.4 0.85 sethsbcolor
+36.0 72.0 788.961 789.61 FilledRectangle
+1.0 0.4 0.95 sethsbcolor
+0.0 36.0 788.961 789.61 FilledRectangle
+0.575 0.4 0.55 sethsbcolor
+144.0 180.0 789.61 789.61 FilledRectangle
+0.575 0.4 0.65 sethsbcolor
+108.0 144.0 789.61 789.61 FilledRectangle
+0.575 0.4 0.75 sethsbcolor
+72.0 108.0 789.61 789.61 FilledRectangle
+0.575 0.4 0.85 sethsbcolor
+36.0 72.0 789.61 789.61 FilledRectangle
+0.575 0.4 0.95 sethsbcolor
+0.0 36.0 789.61 789.61 FilledRectangle
+0.75 0.4 0.275 sethsbcolor
+144.0 180.0 789.61 789.61 FilledRectangle
+0.75 0.4 0.375 sethsbcolor
+108.0 144.0 789.61 789.61 FilledRectangle
+0.75 0.4 0.475 sethsbcolor
+72.0 108.0 789.61 789.61 FilledRectangle
+0.75 0.4 0.575 sethsbcolor
+36.0 72.0 789.61 789.61 FilledRectangle
+0.75 0.4 0.675 sethsbcolor
+0.0 36.0 789.61 789.61 FilledRectangle
+0.4 0.6 0.75 sethsbcolor
+72.0 108.0 789.61 790.26 FilledRectangle
+0.399 0.53 0.753 sethsbcolor
+72.0 108.0 790.26 790.909 FilledRectangle
+0.397 0.46 0.756 sethsbcolor
+72.0 108.0 790.909 791.558 FilledRectangle
+0.396 0.39 0.758 sethsbcolor
+72.0 108.0 791.558 792.208 FilledRectangle
+0.394 0.32 0.761 sethsbcolor
+72.0 108.0 792.208 792.857 FilledRectangle
+0.393 0.25 0.764 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.392 0.18 0.767 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.39 0.11 0.769 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.389 0.04 0.772 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.388 0.0 0.775 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.386 0.0 0.778 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.385 0.0 0.78 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.383 0.0 0.783 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.382 0.0 0.786 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.381 0.0 0.789 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.379 0.0 0.791 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.378 0.0 0.794 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.377 0.0 0.797 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.375 0.0 0.8 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.374 0.0 0.802 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.372 0.0 0.805 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.371 0.0 0.808 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.37 0.0 0.811 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.368 0.0 0.813 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.367 0.0 0.816 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.366 0.0 0.819 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.364 0.0 0.822 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.363 0.0 0.824 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.361 0.0 0.827 sethsbcolor
+72.0 108.0 792.857 792.857 FilledRectangle
+0.4 0.6 0.85 sethsbcolor
+36.0 72.0 789.61 792.857 FilledRectangle
+0.4 0.6 0.95 sethsbcolor
+0.0 36.0 789.61 792.857 FilledRectangle
+0.175 0.6 0.75 sethsbcolor
+72.0 108.0 792.857 793.506 FilledRectangle
+0.172 0.53 0.766 sethsbcolor
+72.0 108.0 793.506 794.156 FilledRectangle
+0.168 0.46 0.782 sethsbcolor
+72.0 108.0 794.156 794.805 FilledRectangle
+0.164 0.39 0.798 sethsbcolor
+72.0 108.0 794.805 795.455 FilledRectangle
+0.161 0.32 0.814 sethsbcolor
+72.0 108.0 795.455 795.455 FilledRectangle
+0.175 0.6 0.85 sethsbcolor
+36.0 72.0 792.857 795.455 FilledRectangle
+0.175 0.6 0.95 sethsbcolor
+0.0 36.0 792.857 795.455 FilledRectangle
+0.175 0.6 0.75 sethsbcolor
+72.0 108.0 795.455 796.753 FilledRectangle
+0.173 0.53 0.759 sethsbcolor
+72.0 108.0 796.753 797.403 FilledRectangle
+0.171 0.46 0.768 sethsbcolor
+72.0 108.0 797.403 797.403 FilledRectangle
+0.169 0.39 0.777 sethsbcolor
+72.0 108.0 797.403 797.403 FilledRectangle
+0.167 0.32 0.786 sethsbcolor
+72.0 108.0 797.403 797.403 FilledRectangle
+0.165 0.25 0.794 sethsbcolor
+72.0 108.0 797.403 797.403 FilledRectangle
+0.163 0.18 0.803 sethsbcolor
+72.0 108.0 797.403 797.403 FilledRectangle
+0.161 0.11 0.812 sethsbcolor
+72.0 108.0 797.403 797.403 FilledRectangle
+0.159 0.04 0.821 sethsbcolor
+72.0 108.0 797.403 797.403 FilledRectangle
+0.175 0.6 0.85 sethsbcolor
+36.0 72.0 795.455 797.403 FilledRectangle
+0.175 0.6 0.95 sethsbcolor
+0.0 36.0 795.455 797.403 FilledRectangle
+0.175 0.6 0.75 sethsbcolor
+72.0 108.0 797.403 798.052 FilledRectangle
+0.172 0.53 0.761 sethsbcolor
+72.0 108.0 798.052 798.052 FilledRectangle
+0.17 0.46 0.773 sethsbcolor
+72.0 108.0 798.052 798.052 FilledRectangle
+0.167 0.39 0.784 sethsbcolor
+72.0 108.0 798.052 798.052 FilledRectangle
+0.165 0.32 0.796 sethsbcolor
+72.0 108.0 798.052 798.052 FilledRectangle
+0.162 0.25 0.807 sethsbcolor
+72.0 108.0 798.052 798.052 FilledRectangle
+0.16 0.18 0.819 sethsbcolor
+72.0 108.0 798.052 798.052 FilledRectangle
+0.175 0.6 0.85 sethsbcolor
+36.0 72.0 797.403 798.052 FilledRectangle
+0.175 0.6 0.95 sethsbcolor
+0.0 36.0 797.403 798.052 FilledRectangle
+0.175 0.6 0.75 sethsbcolor
+72.0 108.0 798.052 798.701 FilledRectangle
+0.174 0.53 0.757 sethsbcolor
+72.0 108.0 798.701 799.351 FilledRectangle
+0.172 0.46 0.763 sethsbcolor
+72.0 108.0 799.351 799.351 FilledRectangle
+0.171 0.39 0.77 sethsbcolor
+72.0 108.0 799.351 799.351 FilledRectangle
+0.169 0.32 0.777 sethsbcolor
+72.0 108.0 799.351 799.351 FilledRectangle
+0.168 0.25 0.783 sethsbcolor
+72.0 108.0 799.351 799.351 FilledRectangle
+0.166 0.18 0.79 sethsbcolor
+72.0 108.0 799.351 799.351 FilledRectangle
+0.165 0.11 0.797 sethsbcolor
+72.0 108.0 799.351 799.351 FilledRectangle
+0.163 0.04 0.803 sethsbcolor
+72.0 108.0 799.351 799.351 FilledRectangle
+0.162 0.0 0.81 sethsbcolor
+72.0 108.0 799.351 799.351 FilledRectangle
+0.16 0.0 0.817 sethsbcolor
+72.0 108.0 799.351 799.351 FilledRectangle
+0.159 0.0 0.823 sethsbcolor
+72.0 108.0 799.351 799.351 FilledRectangle
+0.175 0.6 0.85 sethsbcolor
+36.0 72.0 798.052 799.351 FilledRectangle
+0.175 0.6 0.95 sethsbcolor
+0.0 36.0 798.052 799.351 FilledRectangle
+0.175 0.6 0.75 sethsbcolor
+72.0 108.0 799.351 800.0 FilledRectangle
+0.173 0.53 0.758 sethsbcolor
+72.0 108.0 800.0 800.0 FilledRectangle
+0.172 0.46 0.766 sethsbcolor
+72.0 108.0 800.0 800.0 FilledRectangle
+0.17 0.39 0.774 sethsbcolor
+72.0 108.0 800.0 800.0 FilledRectangle
+0.168 0.32 0.782 sethsbcolor
+72.0 108.0 800.0 800.0 FilledRectangle
+0.166 0.25 0.79 sethsbcolor
+72.0 108.0 800.0 800.0 FilledRectangle
+0.164 0.18 0.798 sethsbcolor
+72.0 108.0 800.0 800.0 FilledRectangle
+0.163 0.11 0.806 sethsbcolor
+72.0 108.0 800.0 800.0 FilledRectangle
+0.161 0.04 0.814 sethsbcolor
+72.0 108.0 800.0 800.0 FilledRectangle
+0.159 0.0 0.822 sethsbcolor
+72.0 108.0 800.0 800.0 FilledRectangle
+0.175 0.6 0.85 sethsbcolor
+36.0 72.0 799.351 800.0 FilledRectangle
+0.175 0.6 0.95 sethsbcolor
+0.0 36.0 799.351 800.0 FilledRectangle
+0.0 setgray
+162.0 69.156 (Rhodoplanes) vshowcenter
+0.0 setgray
+126.0 81.818 (Hyphomicrobiaceae) vshowcenter
+0.0 setgray
+126.0 131.169 (Bradyrhizobiaceae) vshowcenter
+0.0 setgray
+162.0 158.442 (Rhizobium) vshowcenter
+0.0 setgray
+90.0 124.675 (Rhizobiales) vshowcenter
+0.0 setgray
+54.0 142.208 (Alphaproteobacteria) vshowcenter
+0.0 setgray
+126.0 268.182 (sedis) vshowcenter
+0.0 setgray
+90.0 258.442 (Burkholderiales) vshowcenter
+0.0 setgray
+54.0 273.377 (Betaproteobacteria) vshowcenter
+0.0 setgray
+162.0 324.675 (Pelobacter) vshowcenter
+0.0 setgray
+90.0 330.195 (Desulfuromonales) vshowcenter
+0.0 setgray
+54.0 350.974 (Deltaproteobacteria) vshowcenter
+0.0 setgray
+54.0 410.39 (Gammaproteobacteria) vshowcenter
+0.0 setgray
+18.0 240.909 (Proteobacteria) vshowcenter
+0.0 setgray
+90.0 463.312 (Actinomycetales) vshowcenter
+0.0 setgray
+18.0 472.403 (Actinobacteria) vshowcenter
+0.0 setgray
+162.0 530.844 (Desulfotomaculum) vshowcenter
+0.0 setgray
+126.0 530.844 (Peptococcaceae) vshowcenter
+0.0 setgray
+90.0 537.013 (Clostridiales) vshowcenter
+0.0 setgray
+54.0 540.26 (Clostridia) vshowcenter
+0.0 setgray
+90.0 577.922 (Bacillales) vshowcenter
+0.0 setgray
+54.0 578.896 (Bacilli) vshowcenter
+0.0 setgray
+18.0 552.922 (Firmicutes) vshowcenter
+0.0 setgray
+162.0 631.818 (Acidobacterium) vshowcenter
+0.0 setgray
+18.0 631.818 (Acidobacteria) vshowcenter
+0.0 setgray
+18.0 688.961 (Verrucomicrobia) vshowcenter
+0.0 setgray
+18.0 721.429 (Bacteroidetes) vshowcenter
+/Helvetica findfont 17.5 scalefont setfont
+%%Trailer
+%%Pages: 1
+%%EOF
