@@ -1,0 +1,10 @@
+emily -> joel
+john -> vickie
+erika -> jeff
+tika -> emily
+dick -> erika
+joel -> nancy
+vickie -> tika
+jeff -> dick
+nancy -> john
+
