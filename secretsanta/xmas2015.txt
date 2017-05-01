@@ -1,14 +1,13 @@
-From -> To       From notification type                   Done?
+From -> To       From notification type                    Done?
 
-emily -> tika    ENEWTONCHEH@PARTNERS.ORG
-john -> nancy     X
+emily -> tika    enewtoncheh@partners.org                     Y
+john -> nancy     X                                           Y
 erika -> joel    (direct)
-tika -> emily    natika.newton@gmail.com 
-dick -> vickie    newton@bnl.gov
-joel -> erika    joelnewton1@icloud.com    
-dick -> chris    (direct)
-vickie -> jeff   vickiereznik@gmail.com
-jeff -> john     JNewton2@hvc.rr.com jnnewton5@gmail.com
+tika -> emily    natika.newton@gmail.com, newtonnatika@gmail  Y  
+dick -> vickie   newton@bnl.gov                               Y
+joel -> erika    joelnewton1@icloud.com                       Y    
+vickie -> jeff   vickiereznik@gmail.com                       Y
+jeff -> john     JNewton2@hvc.rr.com jnnewton5@gmail.com      
 nancy -> dick    JNewton2@hvc.rr.com jnnewton5@gmail.com
 
 
