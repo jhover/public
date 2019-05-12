@@ -1,14 +1,12 @@
 #!/bin/env python
-
+#
+# Simple program to solve NYTimes Spelling Bee Puzzle game. 
+# 
+#
 
 import argparse
 import logging
 import string
-
-string.ascii_uppercase
-string.digits
-
-
 
 def read_wordlist(path):
     f = open(path)
@@ -86,17 +84,14 @@ def only_selected_letters(wordlist, letterlist):
         for let in invertletters:
             if let in word:
                 anypresent = True
-        
         if anypresent is False:
             nlist.append(word)
-
     logging.debug("Selected letter list length is %d" % len(nlist))
     logging.debug("After only_selected_letters: %s " % nlist[0:5])
     return nlist
 
 
 if __name__ == '__main__':
-    print("Spelling Bee!")
     logging.basicConfig(format='%(asctime)s (UTC) [ %(levelname)s ] %(name)s %(filename)s:%(lineno)d %(funcName)s(): %(message)s')
     
     parser = argparse.ArgumentParser()
