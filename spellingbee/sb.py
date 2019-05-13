@@ -90,6 +90,15 @@ def only_selected_letters(wordlist, letterlist):
     logging.debug("After only_selected_letters: %s " % nlist[0:5])
     return nlist
 
+def find_valid_words(wordlist, letterlist, minlength):
+    wl = read_wordlist(wordlist)   
+    sl = remove_short_words(wl, minlength)   
+    rl = keep_required_letter(sl, required)    
+    dl = remove_digits(rl)   
+    nl = remove_proper_nouns(dl)
+    final_list = only_selected_letters(nl, letterlist )    
+    return final_list
+
 
 if __name__ == '__main__':
     logging.basicConfig(format='%(asctime)s (UTC) [ %(levelname)s ] %(name)s %(filename)s:%(lineno)d %(funcName)s(): %(message)s')
@@ -135,13 +144,8 @@ if __name__ == '__main__':
     required = letterlist[0]
     logging.debug("letterarray is %s ; required letter is %s" % (letterlist, required) )
     
-    wl = read_wordlist(args.wordlist)   
-    sl = remove_short_words(wl, args.minlength)   
-    rl = keep_required_letter(sl, required)    
-    dl = remove_digits(rl)   
-    nl = remove_proper_nouns(dl)
-    final_list = only_selected_letters(nl, letterlist )
-    for word in final_list:
+    valid_words = find_valid_words(args.wordlist, letterlist, args.minlength)
+    for word in valid_words:
         print(word)
 
 
