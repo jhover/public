@@ -106,15 +106,15 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('-w', '--wordlist', 
                         action="store", 
-                           dest='wordlist', 
+                        dest='wordlist', 
                         default='/usr/share/dict/words',
-                        help='word list text file')
+                        help='word list text file [/usr/share/dict/words]')
 
     parser.add_argument('-m', '--minlength', 
                         action="store", 
                            dest='minlength', 
                         default=4,
-                        help='minimum valid word length')
+                        help='minimum valid word length [4]')
        
     parser.add_argument('-d', '--debug', 
                         action="store_true", 
