@@ -90,14 +90,18 @@ def only_selected_letters(wordlist, letterlist):
     logging.debug("After only_selected_letters: %s " % nlist[0:5])
     return nlist
 
-def find_valid_words(wordlist, letterlist, minlength):
-    wl = read_wordlist(wordlist)   
-    sl = remove_short_words(wl, minlength)   
-    rl = keep_required_letter(sl, required)    
-    dl = remove_digits(rl)   
-    nl = remove_proper_nouns(dl)
-    final_list = only_selected_letters(nl, letterlist )    
-    return final_list
+def find_valid_words(wordfile, letterlist, minlength):
+
+    wordlist = read_wordlist(wordfile)   
+    
+    # apply filters...
+    wordlist = remove_short_words(wordlist, minlength)   
+    wordlist = keep_required_letter(wordlist, required)    
+    wordlist = remove_digits(wordlist)   
+    wordlist = remove_proper_nouns(wordlist)
+    wordlist = only_selected_letters(wordlist, letterlist ) 
+
+    return wordlist
 
 
 if __name__ == '__main__':
@@ -139,8 +143,8 @@ if __name__ == '__main__':
     if args.verbose:
         logging.getLogger().setLevel(logging.INFO)
     
-    logging.debug("Letters are %s" % args.letters )
-    letterlist = flatten(args.letters)
+    letterlist = [ l.lower() for l in args.letters]
+    letterlist = flatten(letterlist)
     required = letterlist[0]
     logging.debug("letterarray is %s ; required letter is %s" % (letterlist, required) )
     
