@@ -17,7 +17,7 @@ Usage: weeder [OPTIONS] -s <INFILE>
   [-v]         verbose
   [-R]         exclude reverse complement
   [-S <INT> ]  randomly choose # from samples
-Report bugs to <john@saros.us>
+Report bugs to <jhover@pobox.com>
 
 java -jar target/jweeder-1.0-SNAPSHOT-jar-with-dependencies.jar -s src/main/resource/sample-s20-l15-d2.fa -l 15 -d 2
 
