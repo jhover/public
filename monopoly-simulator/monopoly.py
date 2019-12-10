@@ -4,10 +4,11 @@
 #
 #
 #
+import os
 import random
 import logging
-from ConfigParser import ConfigParser, NoOptionError
-from UserList import UserList
+from configparser import ConfigParser
+from collections import UserList
 
 log = logging.getLogger()
 
@@ -464,7 +465,7 @@ class Game(object):
         #
         self.players = CircularList()
         self.playerconfig=ConfigParser()
-        pconfigfile = "%s/player.conf" %  self.config.get('global','configdir').strip()
+        pconfigfile = "%s/player.conf" %  os.path.expanduser(self.config.get('global','configdir').strip())
         log.debug("Game.__init__(): Parsing Player config file: %s" % pconfigfile)
         self.playerconfig.read( pconfigfile  )
         for section in self.playerconfig.sections():
@@ -476,7 +477,7 @@ class Game(object):
         # Initialize cards...
         #
         self.commchest = CircularList()
-        chestconfigfile = "%s/commchest.conf" % self.config.get('global','configdir').strip()
+        chestconfigfile = "%s/commchest.conf" % os.path.expanduser(self.config.get('global','configdir').strip())
         log.debug("Game.__init__(): Parsing Commchest config file: %s" % chestconfigfile)
         self.chestconfig = ConfigParser()
         self.chestconfig.read( chestconfigfile  )
@@ -487,7 +488,7 @@ class Game(object):
         
         
         self.chance = CircularList()
-        chanceconfigfile = "%s/chance.conf" % self.config.get('global','configdir').strip()
+        chanceconfigfile = "%s/chance.conf" % os.path.expanduser(self.config.get('global','configdir').strip())
         log.debug("Game.__init__(): Parsing Chance config file: %s" % chanceconfigfile)
         self.chanceconfig = ConfigParser()
         self.chanceconfig.read( chanceconfigfile  )
