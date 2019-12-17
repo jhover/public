@@ -19,15 +19,25 @@ import logging
 
 class Plugin(object):
 
+    REPR_ATTRS=[]
+
+
     def __init__(self, config):
         self.config = config
         self.kname = self.__class__.__name__
         self.log = logging.getLogger(self.kname)
+        
 
     def getinfo(self):
         self.log.debug("getinfo called...")
         s = "%s:" % self.kname
         return s
+
+    def __repr__(self):
+        s = "%s:" % self.kname
+        for atr in self.__class__.REPR_ATTRS:
+            s += " %s=%s" % (atr, self.__getattribute__(atr))
+        return s 
 
         
 
@@ -37,6 +47,8 @@ class FooPlugin(Plugin):
         print("calling super for FooPlugin...")
         super(FooPlugin, self).__init__(config)
         self.log.debug("super called on FooPlugin")
+        self.configname = self.__class__.__name__.lower()
+        self.log.debug("lookup in config file: %s" % self.configname)
         # can't get self.kname until after init(), but logging gets class name OK. 
         #self.log.debug("%s initialized...") % self.kname
 
@@ -49,15 +61,16 @@ class FooPlugin(Plugin):
         
 
 class BarPlugin(Plugin):
+
+    REPR_ATTRS=['extra', 'special']
     
-    def __init__(self, config, special=5):
+    def __init__(self, config, special="frabozz"):
         super(BarPlugin, self).__init__(config)
+        self.configname = self.__class__.__name__.lower()
         self.log.debug("setting special attr")
         self.special = special
-        #print(self.kname)    
-
-    def getinfo(self):
-        pass
+        self.extra = self.config.get(self.configname, 'extra')
+   
 
     def execute(self, input):
         self.log.info("Executing on %s" % input)
@@ -105,13 +118,15 @@ if __name__ == '__main__':
     
     cp = ConfigParser()
     cp.read(args.conffile)
-    c = ConfigParser()
     
-    plp = Plugin(c)
-    foo = FooPlugin(c)
+    plp = Plugin(cp)
+    print("plugin repr is %s " % str(plp))
+    foo = FooPlugin(cp)
     print("foo.getinfo() -> %s" % foo.getinfo())
-    bar = BarPlugin(c, special='baz')
+    print("fooinfo repr is %s" % str(foo))
+        
+    bar = BarPlugin(cp, special='baz')
     print( foo.execute("zazzo"))
     print(bar.execute("wazzo-"))
-    
+    print("bar repr is %s" % str(bar))
     
