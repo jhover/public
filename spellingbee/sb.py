@@ -1,4 +1,4 @@
-#!/bin/env python
+#!/usr/bin/env python
 #
 # Simple program to solve NYTimes Spelling Bee Puzzle game. 
 # 
