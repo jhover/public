@@ -10,6 +10,14 @@
 #  [mydatastructure]
 #   myattribute1=spearman   # spearman|pearson
 #
+#
+#
+#  From iPython/Jupyter:
+# 
+#  from onefile import * 
+#  config = get_default_config()
+#  result=my_generic_function(mydataframe)  
+#
 
 import argparse
 import os
@@ -64,6 +72,8 @@ def my_run_function(config,
     CLI/OS-level API and interactions. File I/O. 
     '''
     indf = pd.read_csv(infile, index_col=0)
+    outdf = my_generic_function(config, dataframe)
+    outdf.to_csv(outfile)
 
 
 if __name__ == '__main__':
