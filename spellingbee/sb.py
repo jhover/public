@@ -6,6 +6,7 @@
 
 import argparse
 import logging
+import os
 import string
 
 def read_wordlist(path):
@@ -93,35 +94,79 @@ def only_selected_letters(wordlist, letterlist):
     logging.debug("After only_selected_letters: %s " % nlist[0:5])
     return nlist
 
-def find_valid_words(wordfile, letterlist, minlength):
+def find_valid_words(wordfile, letterlist, minlength, testword):
 
     wordlist = read_wordlist(wordfile)   
+    if testword is not None:
+        if testword in wordlist:
+            logging.debug(f"testword {testword} is in wordlist.")
+        else:
+            logging.debug(f"testword {testword} is NOT in wordlist.")
     
     # apply filters...
-    wordlist = remove_short_words(wordlist, minlength)   
+    wordlist = remove_short_words(wordlist, minlength) 
+    if testword is not None:
+        if testword in wordlist:
+            logging.debug(f"testword {testword} is in wordlist.")
+        else:
+            logging.debug(f"testword {testword} is NOT in wordlist.")  
+    
     wordlist = keep_required_letter(wordlist, required)    
+    if testword is not None:
+        if testword in wordlist:
+            logging.debug(f"testword {testword} is in wordlist.")
+        else:
+            logging.debug(f"testword {testword} is NOT in wordlist.")
+    
     wordlist = remove_digits(wordlist)   
+    if testword is not None:
+        if testword in wordlist:
+            logging.debug(f"testword {testword} is in wordlist.")
+        else:
+            logging.debug(f"testword {testword} is NOT in wordlist.")
+    
     wordlist = remove_proper_nouns(wordlist)
-    wordlist = only_selected_letters(wordlist, letterlist ) 
+    if testword is not None:
+        if testword in wordlist:
+            logging.debug(f"testword {testword} is in wordlist.")
+        else:
+            logging.debug(f"testword {testword} is NOT in wordlist.")
+    wordlist = only_selected_letters(wordlist, letterlist )
+    if testword is not None:
+        if testword in wordlist:
+            logging.debug(f"testword {testword} is in wordlist.")
+        else:
+            logging.debug(f"testword {testword} is NOT in wordlist.") 
 
+    logging.debug(f"Returning wordlist, length {len(wordlist)}")
     return wordlist
 
 
 if __name__ == '__main__':
     logging.basicConfig(format='%(asctime)s (UTC) [ %(levelname)s ] %(name)s %(filename)s:%(lineno)d %(funcName)s(): %(message)s')
+    #logging.getLogger().setLevel(logging.DEBUG)
     
+    #logging.debug(f"cwd = {os.getcwd()} __file__ =  {__file__}")
+    
+
     parser = argparse.ArgumentParser()
     parser.add_argument('-w', '--wordlist', 
                         action="store", 
                         dest='wordlist', 
-                        default='/usr/share/dict/words',
-                        help='word list text file [/usr/share/dict/words]')
+                        default=None,
+                        help='words in same dir as exec, or [/usr/share/dict/words]')
 
     parser.add_argument('-m', '--minlength', 
                         action="store", 
                         dest='minlength', 
                         default=4,
                         help='minimum valid word length [4]')
+
+    parser.add_argument('-t', '--testword', 
+                        action="store", 
+                        dest='testword', 
+                        default=None,
+                        help='word to use during debug testing.')
        
     parser.add_argument('-d', '--debug', 
                         action="store_true", 
@@ -149,10 +194,24 @@ if __name__ == '__main__':
     letterlist = [ l.lower() for l in args.letters]
     letterlist = flatten(letterlist)
     required = letterlist[0]
+    letterlist = list(set(letterlist))  # remove redundant. 
     logging.debug("letterarray is %s ; required letter is %s" % (letterlist, required) )
     
     minlength = int(args.minlength)
-    valid_words = find_valid_words(args.wordlist, letterlist, minlength)
+    
+    if args.wordlist is None:
+        logging.debug('No wordlist specified on command line.')
+        listpath = f'{os.path.dirname(__file__)}/words'
+        if os.path.exists(listpath):
+            logging.debug(f"Found file 'words' in exec dir, using...")
+        else:
+            logging.debug(f"No file 'words' in exec dir, using default.")
+            listpath = '/usr/share/dict/words'
+    else:
+        listpath = args.wordlist
+        logging.debug("Word list specified on command line...")
+    
+    valid_words = find_valid_words(listpath, letterlist, minlength, args.testword)
     for word in valid_words:
         print(word)
 
