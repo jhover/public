@@ -1,4 +1,4 @@
-#!/bin/env python
+#!/usr/bin/env python
 #
 # Simple program to solve NYTimes Spelling Bee Puzzle game. 
 # 
@@ -43,9 +43,12 @@ def remove_digits(wordlist):
     return nlist
     
 def remove_short_words(wordlist, minlength):
+    logging.debug("Removing words shorter than %d" % minlength)
     nlist = []
     for word in wordlist:
-        if not len(word) < minlength:
+        if len(word) < minlength:
+            pass
+        else:
             nlist.append(word)
     logging.debug("Shortened list length is %d" % len(nlist))
     logging.debug("After remove_short_words: %s " % nlist[0:5])
@@ -116,7 +119,7 @@ if __name__ == '__main__':
 
     parser.add_argument('-m', '--minlength', 
                         action="store", 
-                           dest='minlength', 
+                        dest='minlength', 
                         default=4,
                         help='minimum valid word length [4]')
        
@@ -148,7 +151,8 @@ if __name__ == '__main__':
     required = letterlist[0]
     logging.debug("letterarray is %s ; required letter is %s" % (letterlist, required) )
     
-    valid_words = find_valid_words(args.wordlist, letterlist, args.minlength)
+    minlength = int(args.minlength)
+    valid_words = find_valid_words(args.wordlist, letterlist, minlength)
     for word in valid_words:
         print(word)
 

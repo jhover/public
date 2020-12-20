@@ -1,8 +1,8 @@
-#!/bin/env python
+#!/usr/bin/env python
 #
-print "Monopoly!"
+print("Monopoly!")
 
-from ConfigParser import ConfigParser
+from configparser import ConfigParser
 import logging
 import os
 import random
@@ -18,7 +18,7 @@ cmdloglevel=None
 usage = """Usage: monopoly-simulator.py [OPTIONS]
 
 OPTIONS: 
-    -h --help                    Print this message
+    -h --help                    print(this message
     -d --debug                   Debug messages
     -v --verbose                 Verbose information
     -c --config                  Config file [~/etc/monopoly.conf]
@@ -39,13 +39,13 @@ try:
                                 "config=",
                                 ])
 except getopt.GetoptError:
-    print "Unknown option..."
-    print usage                          
+    print("Unknown option...")
+    print(usage)                          
     sys.exit(1) 
            
 for opt, arg in opts:
     if opt in ("-h", "--help"):
-        print usage                     
+        print(usage)                     
         sys.exit()            
     elif opt in ("-d", "--debug"):
         cmdloglevel="debug"
@@ -96,4 +96,3 @@ except (KeyboardInterrupt):
     log.info("Shutdown via Ctrl-C or -INT signal.")
     print(g)
     
-
