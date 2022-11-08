@@ -324,12 +324,12 @@ Report problems to <jhover@bnl.gov>'''
     try:
         opts, args = getopt.getopt(argv, "eap:C:U:u:G:t:hdv", ["help", "debug", "verbose"])
     except getopt.GetoptError:
-        print "Unknown option..."
-        print usage                          
+        print ("Unknown option...")
+        print (usage)                          
         sys.exit(1)        
     for opt, arg in opts:
         if opt in ("-h", "--help"):
-            print usage                     
+            print( usage )                     
             sys.exit()            
         elif opt in ("-d", "--debug"):
             logger.setLevel(logging.DEBUG)
@@ -365,7 +365,7 @@ Report problems to <jhover@bnl.gov>'''
                             ttylist=arg_ttylist)
     
     for p in proclist:
-        print p.__repr__(),
+        print (p.__repr__(),)
     
 
     
