@@ -1,10 +1,10 @@
-#!/bin/env python
+#!/usr/bin/env python
 import os
 import sys
 import logging
 from random import shuffle
 
-from ConfigParser import ConfigParser
+from configparser import ConfigParser
 
 class SecretSantaPerson(object):
     
@@ -102,7 +102,7 @@ if __name__ == '__main__':
     import getopt
     import logging
     
-    from ConfigParser import ConfigParser
+    from configparser import ConfigParser
     
     debug = 0
     info = 0
@@ -131,7 +131,7 @@ if __name__ == '__main__':
                                     "debug", 
                                     "verbose",
                                     ])
-    except getopt.GetoptError, error:
+    except getopt.GetoptError as error:
         print( str(error))
         print( usage )                          
         sys.exit(1)
@@ -200,12 +200,12 @@ if __name__ == '__main__':
     santaobj = SecretSanta(cp)
     log.debug("Done creating SecretSanta().")
     if list:
-        print santaobj.list()
+        print(santaobj.list())
     else:
         log.debug("Executing SecretSanta.matchall()")
         santaobj.matchall()
         s = santaobj.giverslist()
-        print s
+        print( s )
     log.debug("Done.")
      
     
