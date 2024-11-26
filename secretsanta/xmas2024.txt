@@ -1,0 +1,15 @@
+emily -> maks
+chris -> john
+john -> nick
+erika -> emily
+tika -> chris
+dick -> talia
+joel -> nancy
+vickie -> jeff
+nancy -> joel
+jeff -> erika
+
+talia -> dick
+maks -> vickie
+ellie -> tika
+nick -> ellie
