@@ -1,4 +1,4 @@
-emily -> maks
+# NOTIFIED
 chris -> john
 john -> nick
 erika -> emily
@@ -8,8 +8,17 @@ joel -> nancy
 vickie -> jeff
 nancy -> joel
 jeff -> erika
-
 talia -> dick
-maks -> vickie
-ellie -> tika
-nick -> ellie
+emily -> maks
+
+
+# NOT NOTIFIED
+nick  -> -> vickie
+maks  -> -> tika 
+		
+		
+# REMOVED
+# emily -> maksXXX
+# maks -> vickie
+# ellieXXX -> tika
+# nick -> ellieXXX
