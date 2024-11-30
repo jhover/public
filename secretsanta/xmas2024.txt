@@ -10,11 +10,9 @@ nancy -> joel
 jeff -> erika
 talia -> dick
 emily -> maks
-
-
-# NOT NOTIFIED
 nick  -> -> vickie
 maks  -> -> tika 
+
 		
 		
 # REMOVED
