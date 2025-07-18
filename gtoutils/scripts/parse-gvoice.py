@@ -79,6 +79,12 @@ if __name__ == '__main__':
     outdir = os.path.abspath(outdir)    
     os.makedirs(outdir, exist_ok=True)
         
-    parse_calls( args.infiles, 
-                 outfile=outfile)
+    df = parse_calls( args.infiles)
+    logging.debug(f'outdf = {df}')
+
+    outfile = os.path.abspath(args.outfile)
+    dirname, base, ext = split_path(outfile)
+    logging.debug(f'dirname={dirname} base={base} ext={ext}')
+    os.makedirs(dirname, exist_ok=True)
+    df.to_csv(outfile, sep='\t')   
     

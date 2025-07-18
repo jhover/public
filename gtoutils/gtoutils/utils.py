@@ -40,7 +40,7 @@ def parse_dt(dt):
     return date, time
 
 
-def parse_calls( infiles, outfile):
+def parse_calls( infiles):
     '''
     
     Placed
@@ -53,6 +53,7 @@ def parse_calls( infiles, outfile):
     logging.debug(f'handling infiles={infiles}')
     calls_lol = []
     text_lol = []
+    voice_lol = []
     
     for fpath in infiles:
         dir, base, ext = split_path(fpath)
@@ -72,7 +73,7 @@ def parse_calls( infiles, outfile):
                 for a_elem in a_elems:
                     t = a_elem.text.strip()
                     tags_list.append(t)
-                tag = tags_list[0]
+                tag = tags_list[0].lower()
                 
                 # Handle Text   "message" files
                 hfeed = soup.find("div", class_='hChatLog hfeed')
@@ -91,18 +92,18 @@ def parse_calls( infiles, outfile):
                         q_elem = message.find('q')
                         q = q_elem.text.strip()
                         logging.info(f'message: tag={tag} dt={dt} tel={tel} text={q} ')
-                        text_lol.append( [ 'text', tag.lower(), date, time, tel, q]   )
+                        text_lol.append( [ 'text', tag, date, time, tel, q]   )
                         
                 # Handle Placed  "haudio" files
                 haudios = soup.find_all("div", class_='haudio')
                 for haudio in haudios:
-                    tags_list = []
-                    tags_elem = haudio.find('div', class_='tags')
+                    #tags_list = []
+                    #tags_elem = haudio.find('div', class_='tags')
                     #logging.info(f'tags_elem={tags_elem}')
-                    a_elems = tags_elem.find_all('a', rel='tag')
-                    for a_elem in a_elems:
-                        t = a_elem.text.strip()
-                        tags_list.append(t)
+                    #a_elems = tags_elem.find_all('a', rel='tag')
+                    #for a_elem in a_elems:
+                    #    t = a_elem.text.strip()
+                    #    tags_list.append(t.lower())
                                      
                     div_elem = haudio.find('div', class_='contributor vcard')
                     tel_elem = div_elem.find('a', class_='tel')
@@ -119,16 +120,39 @@ def parse_calls( infiles, outfile):
                     else:
                         dur = '(00:00:00)'
                     
-                    logging.info(f'haudio: tag={tag} dt={dt} tel={tel} duration={dur} ')
-                    calls_lol.append( [ 'call', tag.lower() , date, time, tel, dur]   )  
+                    text_elem = haudio.find('span',class_='full-text')
+                    if text_elem is not None:
+                        text = text_elem.text.strip()
+                    else:
+                        text = ''
+                                        
+                    logging.info(f'haudio: tag={tag} dt={dt} tel={tel} duration={dur} text={text}' )
+                    if tag in ['placed','received','missed']:
+                        calls_lol.append( [ 'call', tag , date, time, tel, dur ]   )
+                    elif tag in ['voicemail']:
+                        voice_lol.append( [ 'call', tag , date, time, tel, text] )
+                    else:
+                        logging.warning(f'tag {tag} not recognized...')  
+
     logging.debug(f'read {len(infiles)} files.')
     logging.debug(f'calls_lol = {calls_lol}')
     logging.debug(f'text_lol = {text_lol}')
-    textdf = pd.DataFrame(text_lol, columns=['type','tag','date','time','tel','text'])
-    callsdf = pd.DataFrame(calls_lol, columns=['type','tag','date','time','tel','duration'])
-    logging.info(textdf)
-    logging.info(callsdf) 
-        
+    logging.debug(f'text_lol = {voice_lol}')
+    
+    callsdf = pd.DataFrame(calls_lol, columns=  ['type','tag','date','time','tel','text'])
+    voicedf = pd.DataFrame(voice_lol, columns = ['type','tag','date','time','tel','text'])
+    textdf = pd.DataFrame(text_lol, columns=    ['type','tag','date','time','tel','text'])
+    
+    logging.debug(textdf)
+    logging.debug(callsdf)
+    logging.debug(voicedf)
+    
+    df = pd.concat([callsdf, voicedf, textdf], axis=0, ignore_index=True)
+    df.reset_index(drop=True, inplace=True)
+    return df
+    
+     
+            
         
         
         
