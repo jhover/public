@@ -43,6 +43,12 @@ def parse_dt(dt):
 def parse_calls( infiles):
     '''
     
+    Filenames:
+    +16315801961 - Placed - 2025-05-17T16_34_05Z.html
+    Natalia Newton - Text - 2020-07-07T21_36_10Z.html 
+    
+    
+    
     Placed
     Missed
     Received
@@ -56,8 +62,20 @@ def parse_calls( infiles):
     voice_lol = []
     
     for fpath in infiles:
+        
+        
         dir, base, ext = split_path(fpath)
         logging.debug(f'handling {base} with {ext}...')
+        if base.count(' - ') == 2:
+            ftel, ftag, fdate =  base.split(" - ")
+        elif base.count(' - ') == 1 and base.count('- ') == 2:
+            ftag, fdate =  base.split(" - ")
+            ftel = 'unknown'
+        else:
+            logging.warning(f'filename {base} not in standard format. Skipping...')
+            break
+            
+
         if ext == 'html':
             logging.info(f'handling file={fpath}')
             tag = 'None'
@@ -92,7 +110,7 @@ def parse_calls( infiles):
                         q_elem = message.find('q')
                         q = q_elem.text.strip()
                         logging.info(f'message: tag={tag} dt={dt} tel={tel} text={q} ')
-                        text_lol.append( [ 'text', tag, date, time, tel, q]   )
+                        text_lol.append( [ 'text', tag, date, time, tel, ftel, q]   )
                         
                 # Handle Placed  "haudio" files
                 haudios = soup.find_all("div", class_='haudio')
@@ -128,9 +146,9 @@ def parse_calls( infiles):
                                         
                     logging.info(f'haudio: tag={tag} dt={dt} tel={tel} duration={dur} text={text}' )
                     if tag in ['placed','received','missed']:
-                        calls_lol.append( [ 'call', tag , date, time, tel, dur ]   )
+                        calls_lol.append( [ 'call', tag , date, time, tel, ftel, dur ]   )
                     elif tag in ['voicemail']:
-                        voice_lol.append( [ 'call', tag , date, time, tel, text] )
+                        voice_lol.append( [ 'call', tag , date, time, tel, ftel, text] )
                     else:
                         logging.warning(f'tag {tag} not recognized...')  
 
@@ -139,9 +157,9 @@ def parse_calls( infiles):
     logging.debug(f'text_lol = {text_lol}')
     logging.debug(f'text_lol = {voice_lol}')
     
-    callsdf = pd.DataFrame(calls_lol, columns=  ['type','tag','date','time','tel','text'])
-    voicedf = pd.DataFrame(voice_lol, columns = ['type','tag','date','time','tel','text'])
-    textdf = pd.DataFrame(text_lol, columns=    ['type','tag','date','time','tel','text'])
+    callsdf = pd.DataFrame(calls_lol, columns=  ['type','tag','date','time','tel','ftel','text'])
+    voicedf = pd.DataFrame(voice_lol, columns = ['type','tag','date','time','tel','ftel','text'])
+    textdf = pd.DataFrame(text_lol, columns=    ['type','tag','date','time','tel','ftel','text'])
     
     logging.debug(textdf)
     logging.debug(callsdf)
